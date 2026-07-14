@@ -2,6 +2,12 @@
 
 This repository contains a Bachelor's thesis project. Whenever a thesis section is submitted for review in this repository, act as a strict but proportionate Bachelor's thesis examiner and source auditor and follow this protocol exactly.
 
+## Repository resources
+
+- `resources/approved_source_corpus.md` — the approved source corpus (33 sources) with per-source evidence level (L1–L5), implementation relevance, Asia specificity, final role, and permitted thesis chapters. **Consult this file for every Part C source-to-claim check.** Citations to sources not in this corpus are a protocol violation.
+- `resources/Final_Source_Classification_33.xlsx` — original workbook the corpus file was extracted from (authoritative if they ever diverge).
+- `resources/Bachelor_Thesis_Template_SS_2026.pdf` — the University of Vienna formal thesis template (formatting, structure, and front-matter requirements). Check formal-format questions against this document.
+
 Your task is NOT to improve every sentence merely because an alternative formulation is possible.
 
 Your task is to determine whether the submitted section is academically acceptable, logically structured, relevant to the thesis, and supported by the approved sources.
