@@ -46,15 +46,20 @@ Binding adaptations (template and repository protocol override the skill):
 ### Phase 0 — Infrastructure (DONE)
 Protocol installed as `CLAUDE.md`; corpus extracted to `resources/approved_source_corpus.md`; template requirements extracted; Chapter 1 first draft committed (`thesis/1_Introduction.md`).
 
-### Phase 1 — Evidence base (Opus + Sonnet) — **BLOCKED, needs one user action**
-**Constraint discovered:** this environment's network policy returns 403 for all academic publisher hosts (tested: diva-portal, MDPI, Springer, ScienceDirect, Emerald, PMC, BMJ — both curl and WebFetch). Research agents cannot download the sources.
+### Phase 1 — Evidence base (Opus + Sonnet) — **IN PROGRESS (revised method)**
+**Constraint confirmed twice:** this environment's network policy returns 403 for all academic publisher hosts via direct fetch (curl and WebFetch alike — diva-portal, MDPI, Springer, ScienceDirect, Emerald, PMC, BMJ). Full-text PDFs cannot be downloaded, and no source PDFs were uploaded to `resources/sources/`.
 
-**Unblock options (user chooses one):**
-- **(a) Preferred:** upload the source PDFs into `resources/sources/` named by corpus ID (`A01.pdf` … `M05.pdf`). The corpus notes suggest these PDFs are already on hand.
-- **(b)** Relax the environment's network policy (environment settings → network access) to allow the publisher domains, then agents fetch the open-access ones themselves (paywalled ones still need upload).
+**Working method adopted instead:** the `WebSearch` tool is reachable (confirmed working) and returns search-engine snippets, abstracts, and indexed excerpts even for sources whose full text is unreachable. Phase 1 now proceeds on **abstract/snippet-level evidence**, not full-text extraction. Every subagent is under a hard no-fabrication rule: any claim not directly attributable to a search snippet must be marked UNVERIFIED, and page numbers, sample sizes, countries, or findings must never be invented. This means many Part C source-to-claim checks downstream will land on PARTIAL SUPPORT or UNVERIFIED rather than DIRECT SUPPORT for claims that need page-level detail — that is expected and correctly conservative, not a research failure.
 
-**Then, per source:** one subagent produces `research/source_notes/<ID>.md` containing: bibliographic record (APA 7 reference); study type and evidence level (must match corpus classification); key findings **with page/section anchors**; every barrier mention coded to the four framework categories and tagged *driver vs. implementation barrier*, *firm vs. macro level*, *Asia-specific: yes/no/partial*; quotable passages; explicit "do not use for" warnings from the corpus rationale.
-**Consolidation (Fable):** `research/evidence_matrix.md` — barrier × source matrix with evidence type per cell (direct empirical / review / conceptual, per the corpus Legend), keeping the three evidence types countable separately (workbook decision rule 2).
+**Dispatch (8 parallel subagents, launched):**
+- Opus × 3 — core sources (highest evidentiary weight): A01, A02, A06 · A09, A13 · A16, A18
+- Sonnet × 5 — supporting/context/methodology sources: A03–A08 group · A10–A15 group · A17/A19–A21/A25 group · A29+M01–M04 group · M05+C01–C05 group
+
+Each subagent writes `research/source_notes/<ID>.md`: APA 7 reference, corpus classification fields, what was actually established from search snippets (with confidence level), barrier-relevant claims coded to driver/barrier, firm/macro level, Asia-specificity, framework category, and DIRECT/PARTIAL/UNVERIFIED status, plus an explicit gaps section. C01–C05 notes additionally require a boundary check confirming they are not coded as barrier evidence (they describe China+1/macro relocation, not reshoring). M01–M05 notes focus on methodological procedure instead of barrier content.
+
+**Consolidation (next, Fable):** once all 8 batches return, build `research/evidence_matrix.md` — barrier × source matrix with evidence type per cell (direct empirical / review / conceptual, per the corpus Legend), keeping the three evidence types countable separately (workbook decision rule 2), and flag which framework cells rest only on PARTIAL/UNVERIFIED evidence.
+
+**If the user later provides full-text PDFs**, the affected source notes should be re-run to upgrade verification status — this is a reasonable follow-up once Phase 1's first pass is reviewed.
 
 ### Phase 2 — Structure lock (Fable)
 Full table of contents with thesis-specific subheadings (template allows renaming); per-section word budgets; paragraph-level outline per chapter with citation slots filled from the evidence matrix. Committed as `thesis/OUTLINE.md` for user sign-off before mass drafting.
