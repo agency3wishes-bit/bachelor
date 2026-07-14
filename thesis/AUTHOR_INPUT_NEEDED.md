@@ -1,22 +1,28 @@
 # Author Input Needed — Open Items Before Submission
 
-Working tracker (not part of the thesis text). Items moved here from inline draft comments during cleanup.
+Working tracker (not part of the thesis text). Updated after the Author Response to Open Items (2026-07-14).
 
-## Blocking items
+## Resolved by the Author Response (applied)
 
-1. **Search strategy (Chapter 3, Section 3.2).** One bracketed placeholder remains in the chapter text — deliberately, because the chapter cannot be completed without it: databases searched, full keyword strings and Boolean combinations, language/publication-type filters, last search date per database, and the number of records initially identified. Required for the PRISMA flow diagram (Appendix A).
-2. **Screening sequence confirmation (Chapter 3, Section 3.2).** The chapter describes a standard sequence (duplicate removal → title/abstract screening → full-text assessment). Confirm this matches the actual selection process; adjust the sentence if the real process differed.
-3. **Programme word/page requirement.** Chapter budgets assume ~9,000–10,500 words of core text. Confirm the actual requirement; budgets adjust accordingly.
+- ~~Screening sequence confirmation~~ → replaced with the author's confirmed iterative-process wording (Ch. 3, §3.2); Google Scholar named as the sole discovery platform; manual screening of peer-review status/publication type explicitly stated (not automatic filters).
+- ~~Programme word/page requirement~~ → provisional target adopted: **~35 pages / ~10,500–12,000 words of core text** (TNR 12, 1.5 spacing, 1-inch margins; excludes title page, abstract, ToC, references, appendices). Labelled provisional in `thesis/OUTLINE.md` until formally confirmed.
+- ~~Primary theory sources~~ → Williamson (1985) and Barney (1991) verified and added to the corpus as T01/T02 (primary theoretical literature; §2.2 and §5.2 only; not in the formal sample; not in the PRISMA flow). Corpus file and CLAUDE.md updated.
+- ~~"Quality-assessment dimensions" terminology~~ → replaced with "evidence-classification dimensions" plus the author's interpretation-guidance sentence (§3.2).
+- ~~A10 sample-size contradiction~~ → resolved by exclusion: neither figure is used; only revisit if supervisor/examiner asks (then check the original article directly).
+- ~~Appendix B~~ → canonical file created at `thesis/appendices/Appendix_B_Coding_Table.md`; Chapter 4 keeps Table 1 plus a cross-reference.
 
-## Verification items (from the evidence audit — see `research/evidence_matrix.md`, "Open contradictions & hard constraints")
+## Blocking items (placeholders remain in the text — do not estimate)
 
-4. No page numbers are verified for any source; before quoting anything verbatim with a page reference, check the original PDF.
-5. A10 (Di Stefano & Fratocchi, 2019): two conflicting sample-size figures (105 vs. 33-from-96) — neither is cited in the thesis; resolve only if a reviewer asks.
-6. A11's "11.64% of TCA" figure and C03's country-level reshoring percentages are unverified and deliberately absent from the text — do not reintroduce them.
-7. Chapter 2, Section 2.2 grounds TCE/RBV in the reshoring literature because no primary theory sources (e.g., Williamson, Barney) are in the approved corpus. If the supervisor expects primary theory citations, the corpus must be expanded (user decision).
+1. **Final documented Google Scholar update search (Ch. 3, §3.2 placeholder).** Must record: exact search strings and Boolean combinations; any publication-year restriction; actual search date; approximate displayed result count; records actually screened; duplicates; full texts assessed; exclusions with reasons; newly included studies. Required to complete the PRISMA flow diagram (Appendix A). PRISMA flow documents the 21-study formal sample only; methodology sources are not counted; contextual sources reported separately.
+
+## Standing constraints (unchanged)
+
+2. No verified page numbers for any source; no direct quotations or page references until the original PDFs are checked. Paraphrases without page numbers are acceptable under APA 7.
+3. A11's "11.64% of TCA" figure and C03's country-level reshoring percentages stay absent unless verified in the original full texts (definitions, denominators, context).
+4. Page et al. (2021a/2021b) suffixes provisional until the final alphabetised APA 7 reference list is assembled; then enforce consistency across in-text citations, Chapter 3, appendices, and the reference list.
 
 ## Formatting items (assembly phase)
 
-8. Table 1 in Chapter 4 is wide — consider landscape orientation or a per-category split in the .docx export.
-9. Appendix B (coding table) currently lives in `thesis/4_Results_skeleton.md`; move into the appendices at assembly.
-10. Page et al. (2021a/2021b) suffix assignment is provisional pending the final alphabetised reference list (current assignment checked as correct under APA 7 title ordering).
+5. Table 1 (Ch. 4): use **landscape orientation** in the Word export; if still hard to read, split into four category-specific tables (readability takes priority).
+6. Abstract is **provisional** (drafted before Chapter 6 exists) — recheck after Discussion and Conclusion are final.
+7. Acknowledgements contain placeholders ([Supervisor's name], etc.) for the author to personalise.

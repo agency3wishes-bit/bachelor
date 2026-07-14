@@ -1,7 +1,7 @@
 # Thesis Outline — Structure Lock (Phase 2)
 
-**Status: DRAFT — awaiting user sign-off before mass drafting.**
-Word budgets assume a ~9,000–10,500-word core text (provisional — confirm programme requirement). Heading scheme follows `resources/Bachelor_Thesis_Template_SS_2026.pdf`; subsection titles adapted as the template permits. Citation slots reference `research/evidence_matrix.md` (theme numbers) and `research/source_notes/`.
+**Status: SIGNED OFF; budgets revised per Author Response (2026-07-14).**
+Word budgets assume a **provisional ~10,500–12,000-word core text (~35 pages, TNR 12 pt, 1.5 spacing, 1-inch margins; excludes title page, abstract, ToC, references, appendices)** — provisional until the formal programme requirement is confirmed. Revised chapter budgets: Ch1 ≈ 1,000 · Ch2 ≈ 2,600 · Ch3 ≈ 1,700 · Ch4 ≈ 2,500 · Ch5 ≈ 3,350–4,350 (author-specified: opening 150–250; 5.1 1,200–1,500; 5.2 700–900; 5.3 700–900; 5.4 600–800) · Ch6 ≈ 800. Heading scheme follows `resources/Bachelor_Thesis_Template_SS_2026.pdf`; subsection titles adapted as the template permits. Citation slots reference `research/evidence_matrix.md` (theme numbers) and `research/source_notes/`. Corpus now includes user-approved primary theory sources T01 (Williamson, 1985) and T02 (Barney, 1991) for §2.2/§5.2 only.
 
 ---
 

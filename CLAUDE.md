@@ -4,7 +4,7 @@ This repository contains a Bachelor's thesis project. Whenever a thesis section 
 
 ## Repository resources
 
-- `resources/approved_source_corpus.md` — the approved source corpus (33 sources) with per-source evidence level (L1–L5), implementation relevance, Asia specificity, final role, and permitted thesis chapters. **Consult this file for every Part C source-to-claim check.** Citations to sources not in this corpus are a protocol violation.
+- `resources/approved_source_corpus.md` — the approved source corpus (33 sources, plus two user-approved primary theoretical additions T01 Williamson 1985 and T02 Barney 1991, usable only as theory foundations in Sections 2.2 and 5.2) with per-source evidence level (L1–L5), implementation relevance, Asia specificity, final role, and permitted thesis chapters. **Consult this file for every Part C source-to-claim check.** Citations to sources not in this corpus are a protocol violation.
 - `resources/Final_Source_Classification_33.xlsx` — original workbook the corpus file was extracted from (authoritative if they ever diverge).
 - `resources/Bachelor_Thesis_Template_SS_2026.pdf` — the University of Vienna formal thesis template (formatting, structure, and front-matter requirements). Check formal-format questions against this document.
 

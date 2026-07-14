@@ -499,6 +499,24 @@ Auto-extracted from `Final_Source_Classification_33.xlsx`. This is the approved 
 - **Inclusion / exclusion rationale:** Explains each PRISMA item and provides detailed reporting recommendations and examples; companion to the PRISMA Statement.
 - **Access / source link:** https://doi.org/10.1136/bmj.n160
 
+## Approved additions — Primary theoretical literature (user-approved 2026-07-14)
+
+These two sources were approved by the author as additions to the corpus. They are **primary theoretical literature only**: not reshoring studies, not implementation-barrier evidence, not part of the 21-source formal analytical sample, and not counted as included studies in the PRISMA flow diagram.
+
+### T01 — Williamson (1985)
+- **Reference (APA 7):** Williamson, O. E. (1985). *The economic institutions of capitalism: Firms, markets, relational contracting*. Free Press.
+- **Final role:** Primary theoretical literature — Transaction Cost Economics foundation
+- **Verification:** Publisher (Free Press, New York, 1985, 450 pp.) confirmed via multiple independent bibliographic records; no DOI (monograph). Lawful library-accessible copy confirmed (Internet Archive controlled lending; university library holdings widespread).
+- **Permitted thesis chapters:** Literature Review (2.2); Discussion (5.2)
+- **Usage constraints:** Cite for original TCE concepts (asset specificity, governance of exchange, contractual safeguards). Do not present as a reshoring study. Applications to reshoring barriers are the thesis's own interpretation ("From a TCE perspective…").
+
+### T02 — Barney (1991)
+- **Reference (APA 7):** Barney, J. (1991). Firm resources and sustained competitive advantage. *Journal of Management, 17*(1), 99–120. https://doi.org/10.1177/014920639101700108
+- **Final role:** Primary theoretical literature — Resource-Based View foundation
+- **Verification:** Volume 17, issue 1, pages 99–120 and DOI confirmed via the SAGE Journals record.
+- **Permitted thesis chapters:** Literature Review (2.2); Discussion (5.2)
+- **Usage constraints:** Cite for original RBV concepts (resources/capabilities; value, rareness, imperfect imitability, non-substitutability). Do not present as a reshoring study. Applications to reshoring barriers are the thesis's own interpretation ("Through an RBV lens…").
+
 ## Sheet: Summary
 
 | Final Source Classification — Approved Corpus |  |  |  |  |  |
