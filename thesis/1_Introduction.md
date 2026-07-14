@@ -30,6 +30,3 @@ The study pursues four objectives, which correspond to the research questions. T
 
 In sum, this chapter has introduced the shift from cost-driven offshoring towards a renewed interest in reshoring, and has argued that the implementation of reshoring, rather than the decision alone, deserves systematic attention. The research problem, the guiding research questions, and the objectives of the study have been defined. The following chapter reviews the relevant literature: it defines reshoring and distinguishes it from related relocation forms, presents the theoretical foundations of the study, and examines the current state of knowledge on reshoring barriers.
 
----
-
-*Draft status: Chapter 1 first draft. Citations restricted to the approved corpus (`resources/approved_source_corpus.md`); all Introduction citations use sources whose classification permits Introduction use (A05, A08, A11, A12, C01–C05), plus A01 (Pedroletti & Ciabuschi, 2023) for the implementation-gap statement, which matches its corpus rationale ("implementation is underexplored"). Formatting per `resources/Bachelor_Thesis_Template_SS_2026.pdf` heading scheme; APA 7 in-text citations; British English except the verbatim research questions.*
