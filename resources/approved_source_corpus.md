@@ -534,6 +534,8 @@ These two sources were approved by the author as additions to the corpus. They a
 
 ## Sheet: Summary
 
+**Note (2026-07-15): the table below reproduces the original 33-source workbook extraction unchanged, for provenance.** It predates the addition of C06 (contextual editorial), T01 (Williamson 1985), and T02 (Barney 1991). The corpus's current total is **36 entries**: 33 (below) + C06 + T01 + T02. The formal analytical sample remains **21** — none of the three additions were added to it. See `resources/proposal_continuity_check.md` and `resources/open_access_audit.md` for the current, reconciled inventory.
+
 | Final Source Classification — Approved Corpus |  |  |  |  |  |
 |---|---|---|---|---|---|
 | KPI | Count |  | Final role | Count |  |

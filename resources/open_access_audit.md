@@ -1,6 +1,20 @@
-# Open-Access and Reliability Audit — Full Corpus (2026-07-14)
+# Open-Access and Reliability Audit — Full Corpus (2026-07-14, reconciled 2026-07-15)
 
 Desk audit of every corpus source's access status, based on the recorded access links and the source notes. Publisher pages could not be fetched from this environment (network-restricted), so statuses are classified by link type and known repository copies; items marked ⚠ need the author's one-line confirmation of where the full text was actually accessed.
+
+## Master inventory (2026-07-15)
+
+| Category | Count | Local PDFs | Full text verified | Missing |
+|---|---|---|---|---|
+| Formal analytical studies | 21 | 21 | 21 | 0 |
+| Contextual sources | 8 | 8 | 8 | 0 |
+| Methodology sources | 5 | 5 | 5 | 0 |
+| Theory sources (library-access basis, not the OA rule) | 2 | 0 | 0 (bibliographic verification only — see below) | 0 (not required) |
+| **Total corpus** | **36** | **34** | **34** | **0** |
+
+The 34 local PDFs are stored in `resources/sources/` (M04 held as two parts, counted once). T01 (Williamson, 1985) and T02 (Barney, 1991) are the two entries with no local PDF: they were approved under a separate library-access criterion (see `resources/approved_source_corpus.md`, T01/T02 entries) precisely because they are not open access, so the OA-hold rule governing the other 34 does not apply to them. Their existence and bibliographic data (publisher/DOI/page range) were confirmed from independent bibliographic records, and the specific TCE/RBV concepts the thesis draws on (asset specificity, governance of exchange; VRIN resource criteria) are cross-corroborated by citations and descriptions of the same concepts inside nine already full-text-verified corpus papers (A01, A09, A10, A12, A15, A16, A18, A19, A29 for TCE; A01, A15, A16, A18, A29 for RBV). T01/T02 are used only for that general theoretical framing in §2.2 and §5.2 ("From a TCE perspective…", "Through an RBV lens…") — never for a specific reshoring finding, page-level claim, or empirical detail, so no unverified page reference exists in the thesis.
+
+**Previously inconsistent bookkeeping, now corrected:** the "Formal analytical sample (21)" table below previously also listed A21 (22 rows under a "(21)" header) and the contextual table below was missing A21 (7 rows under an "(8)" header). Per the corpus file's own `Formal analytical sample` flag, A21 (Sequeira et al., 2021 — AHP decision-support tool) is **not** part of the 21-study formal sample; it is a contextual/decision-support source. It has been moved to the contextual table below. This was a labelling error in this audit file only — the corpus file itself, the evidence matrix, and the thesis text were never affected, since A21 was never coded into the barrier synthesis or Table 1.
 
 ## Formal analytical sample (21)
 
@@ -25,7 +39,6 @@ Desk audit of every corpus source's access status, based on the recorded access 
 | A18 | Pedroletti (2025) | ✅ OPEN copy — DiVA; **full text held & verified** (resources/sources/A18.pdf) |
 | A19 | Kamp & Gibaja (2021) | ✅ OPEN (CC-BY, confirmed from PDF); **full text held & verified** (resources/sources/A19.pdf) |
 | A20 | Mirzaei et al. (2021) | ✅ **full text held & verified** (resources/sources/A20.pdf) |
-| A21 | Sequeira et al. (2021) | ✅ **full text held & verified** (resources/sources/A21.pdf) |
 | A25 | Gupta et al. (2023) | ✅ OPEN copies (White Rose/UAL repositories); **full text held & verified** (resources/sources/A25.pdf) |
 | A29 | Heikkilä et al. (2018) | ✅ **full text held & verified** (resources/sources/A29.pdf) |
 
@@ -34,13 +47,13 @@ Desk audit of every corpus source's access status, based on the recorded access 
 | ID | Source | Access status |
 |---|---|---|
 | A08 | Bolter & Robey (2020) | ✅ OPEN; **full text held & verified** (resources/sources/A08.pdf) |
+| A21 | Sequeira et al. (2021) | ✅ **full text held & verified** (resources/sources/A21.pdf); decision-support tool, not part of the formal sample — moved here from the formal-sample table (see note above) |
 | C01 | Yang (2016) | ✅ OPEN (SpringerOpen, confirmed from PDF); **full text held & verified** (resources/sources/C01.pdf) |
 | C02 | Xing et al. (2024) | ✅ OPEN — Nature HSSC gold OA; **full text held & verified** (resources/sources/C02.pdf) |
 | C03 | Gao et al. (2022) | ✅ **full text held & verified** (resources/sources/C03.pdf) |
 | C04 | Somoza Medina (2022) | ✅ OPEN — MDPI gold OA; **full text held & verified** (resources/sources/C04.pdf) |
 | C05 | McCully & Simola (2024) | ✅ OPEN — EconStor; **full text held & verified** (resources/sources/C05.pdf) |
 | C06 | Barbieri et al. (2020) | ✅ OPEN in practice — author-held PDF (verified: read in full) |
-| — | (A14 counted in formal sample above) | |
 
 ## Methodology sources (5)
 
@@ -61,6 +74,7 @@ Desk audit of every corpus source's access status, based on the recorded access 
 ## Bottom line
 
 - **All access flags are now cleared.** Every formal-sample and contextual source is either published open access, has an identified open repository copy, or is held as a full-text PDF in `resources/sources/` — the Methodology's "full text accessible" statement is fully covered.
+- **Reconciled totals (2026-07-15):** total corpus = 36 (21 formal analytical + 8 contextual + 5 methodology + 2 theory). Local PDFs held and full-text verified = 34 (everything except T01/T02, which are approved on the separate library-access basis described above). Zero files are missing from the 34-PDF archive.
 
 ## Source-existence statement (proposal continuity)
 
