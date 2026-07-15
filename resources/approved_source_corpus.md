@@ -31,7 +31,7 @@ Auto-extracted from `Final_Source_Classification_33.xlsx`. This is the approved 
 - **Asia specificity:** Medium
 - **Use in barrier synthesis:** Yes — direct empirical evidence
 - **Primary thesis chapters:** Results; Discussion
-- **Inclusion / exclusion rationale:** Direct evidence on reshoring implementation, operational adjustments, readiness and behavioural issues; some cases involve China.
+- **Inclusion / exclusion rationale:** Direct evidence on reshoring implementation, operational adjustments, readiness and behavioural issues; some cases involve China. **[CORRECTION 2026-07-15, full-text verified: no case involves China — Table 2 hosts are Romania, Morocco, Croatia, Hungary. Asia specificity should read Low, not Medium. Workbook divergence flagged.]**
 - **Access / source link:** https://link.springer.com/article/10.1007/s12063-021-00183-2
 
 ### A03 — Tsai & Urmetzer (2024)

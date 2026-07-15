@@ -21,6 +21,11 @@ Working tracker (not part of the thesis text). Updated after the Author Response
 3. **A11's "11.64%" figure is now VERIFIED at full text** (2026-07-15: static barriers = 11.64% of the Total Cost of Acquisition from low-cost countries; author's survey of 60 large Polish firms; decision-stage driver framing) — available for use if wanted. C03's country-level percentages remain unverified and absent. A11 page range corrected to 103–117 (PDF-verified; corpus said 103–118).
 4. Page et al. (2021a/2021b) suffixes provisional until the final alphabetised APA 7 reference list is assembled; then enforce consistency across in-text citations, Chapter 3, appendices, and the reference list.
 
+## Corpus corrections found during full-text verification (for the workbook)
+
+8. **A02 (Boffelli et al., 2021): Asia specificity must be corrected to Low.** Full text shows the four cases' hosts are Romania, Morocco, Croatia, Hungary — no China case. The workbook's "some cases involve China" and Medium rating are wrong; the thesis text has been corrected accordingly.
+9. A11 page range: 103–117 (workbook says 103–118). C01 reference format: *Bandung: Journal of the Global South, 3*, Article 3.
+
 ## Formatting items (assembly phase)
 
 5. Table 1 (Ch. 4): use **landscape orientation** in the Word export; if still hard to read, split into four category-specific tables (readability takes priority).
