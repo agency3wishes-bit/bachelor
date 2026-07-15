@@ -10,34 +10,19 @@ The contributing evidence is of three distinct types. Direct empirical evidence 
 
 Genuinely Asia-specific direct implementation evidence is scarce. It rests on two single-case studies: a China-to-UK case (Pegoraro et al., 2022) and a China-to-Italy partial-reshoring case (Pedroletti, 2025). One multi-case study is partially attributable to an Asian host: in Di Mauro et al. (2018), two of the four case firms returned production from China, although the individual findings are not always attributed to those specific cases. The four fashion cases of Boffelli et al. (2021), by contrast, involved Romanian, Moroccan, Croatian, and Hungarian host locations, so that study's implementation findings enter the synthesis as general rather than Asia-specific evidence. The findings of Li et al. (2025) are likewise reported as general Nordic/Swedish evidence, with one exception noted in Section 4.2: the study explicitly names China among the host locations affected by strict layoff regulations.
 
-Table 1 maps all eighteen barrier themes to their framework category, the evidence types available for each, and the Asia-specificity status of the supporting evidence; the complete coding table cross-referencing every theme to its contributing sources and their evidence types is provided in Appendix B. The sections that follow report each theme in turn. As Table 1 makes visible, the regulatory/institutional category is the thinnest in direct empirical terms — a factual feature of the evidence distribution that is stated again where that category is reported.
-
-**Table 1.** *Reshoring implementation-barrier themes mapped to the four-category framework, showing the evidence types available for each theme (direct empirical, literature-review, and conceptual sources listed separately) and the Asia-specificity status of the supporting evidence. Evidence types are not aggregated; "Asia-specific" is affirmed only where a source explicitly links an Asian host location to a return home.*
-
-| Barrier theme | Category | Direct empirical | Review | Conceptual | Asia-specific status |
-|---|---|---|---|---|---|
-| Domestic skilled-labour & competence gap | Asset/Capability | Pegoraro et al. (2022); Li et al. (2025); Di Mauro et al. (2018); Mirzaei et al. (2021) | Wiesmann et al. (2017); Ocicka (2016); Bilbao-Ubillos et al. (2024) | D'Ambrosio & Lavoratori (2025); Gupta et al. (2023) | Yes — Pegoraro et al. (single China→UK case); others general/partial |
-| Domestic capacity, facilities & machinery gap | Asset/Capability | Pegoraro et al. (2022); Li et al. (2025); Mirzaei et al. (2021) | Wiesmann et al. (2017) | D'Ambrosio & Lavoratori (2025); Gupta et al. (2023) | Yes — Pegoraro et al. (single case); others general |
-| Host-supplier dependence & knowledge lock-in | Asset/Capability | Pedroletti (2025); Li et al. (2025) | Wiesmann et al. (2017); Bilbao-Ubillos et al. (2024) | Gupta et al. (2023) | Yes — Pedroletti (single China→Italy case); others general |
-| GVC stickiness / offshore sunk-cost inertia | Asset/Capability | — | Bilbao-Ubillos et al. (2024) | D'Ambrosio & Lavoratori (2025) | No |
-| Regional ecosystem readiness | Asset/Capability | Pegoraro et al. (2022) | Bilbao-Ubillos et al. (2024) | — | Yes — Pegoraro et al. (single case) |
-| Hollowed-out supply base / supplier-network rebuilding | Cost/Operational | Mirzaei et al. (2021); Di Mauro et al. (2018) | Wiesmann et al. (2017); Ocicka (2016) | Gupta et al. (2023) | Partial — Di Mauro et al. (2 of 4 cases from China, unattributed) |
-| New fixed costs & switching/reconfiguration costs | Cost/Operational | Li et al. (2025) | Espíndola et al. (2023) | D'Ambrosio & Lavoratori (2025); Gupta et al. (2023) | No |
-| High-cost home environment | Cost/Operational | Mirzaei et al. (2021); Li et al. (2025) | — | D'Ambrosio & Lavoratori (2025) | No |
-| Hybrid-operation coordination complexity (partial reshoring) | Cost/Operational | Pedroletti (2025) | — | — | Yes — Pedroletti (single case) |
-| Underestimated operational adjustments | Cost/Operational | Boffelli et al. (2021) | — | — | No — hosts were Romania, Morocco, Croatia, Hungary (full text verified) |
-| Organisational readiness, behavioural biases, learning-by-trial | Cultural/Organisational | Boffelli et al. (2021) | Wiesmann et al. (2017) | D'Ambrosio & Lavoratori (2025) | No — Boffelli et al.'s hosts were European/North African (full text verified) |
-| Intra-organisational silos & weak employee involvement | Cultural/Organisational | Mirzaei et al. (2021) | — | — | No |
-| Adverse host-supplier relational response | Cultural/Organisational | Pedroletti (2025) | — | — | Yes — Pedroletti (single case) |
-| Governance mode of the return (gap) | Cultural/Organisational | — | Pedroletti & Ciabuschi (2023) | — | No — reported as under-researched dimension |
-| Digital/organisational adaptation burden | Cultural/Organisational | — | Bilbao-Ubillos et al. (2024); Espíndola et al. (2023) | Gupta et al. (2023); D'Ambrosio & Lavoratori (2025) | No |
-| Host-country exit regulation | Regulatory/Institutional | Li et al. (2025) | Di Stefano & Fratocchi (2019) | — | Partial — Li et al. explicitly name China (and Poland) among the affected host locations |
-| Social-responsibility & workforce-resistance exit constraints | Regulatory/Institutional | — | Di Stefano & Fratocchi (2019) | — | No |
-| Home-country compliance burden & institutional frictions | Regulatory/Institutional | Mirzaei et al. (2021) | — | Gupta et al. (2023) | No |
+The complete coding table cross-referencing every theme to its contributing sources and their evidence types is provided in Appendix B. To keep the evidence close to its discussion, each category is reported with its own table (Tables 1–4), showing the evidence types available for each theme (direct empirical, literature-review, and conceptual sources listed separately) and the Asia-specificity status of the supporting evidence; these tables appear in Sections 4.2 to 4.5 respectively. Evidence types are not aggregated, and a theme is recorded as Asia-specific only where a source explicitly links an Asian host location to a return home.
 
 ## 4.2 Regulatory/Institutional Barriers
 
 Of the four categories, the regulatory/institutional category is supported by the least direct empirical evidence: as Table 1 shows, only two of its themes have any direct empirical source, and one theme rests on review evidence alone. Most of the category's content is accordingly review-level or conceptual.
+
+**Table 1.** *Regulatory/institutional barrier themes, evidence types, and Asia-specificity status.*
+
+| Barrier theme | Direct empirical | Review | Conceptual | Asia-specific status |
+|---|---|---|---|---|
+| Host-country exit regulation | Li et al. (2025) | Di Stefano & Fratocchi (2019) | — | Partial — Li et al. explicitly name China (and Poland) among the affected host locations |
+| Social-responsibility & workforce-resistance exit constraints | — | Di Stefano & Fratocchi (2019) | — | No |
+| Home-country compliance burden & institutional frictions | Mirzaei et al. (2021) | — | Gupta et al. (2023) | No |
 
 The first theme concerns host-country constraints on exiting the offshore operation. Among the Swedish manufacturing firms studied by Li et al. (2025), strict host-country layoff regulations, the inability to close or reduce offshore operations quickly, locked investments, and substantial exit costs were identified as barriers; the study explicitly names Poland and China among the offshored locations where strict layoff regulations applied, although the finding is reported across the sample rather than disaggregated by individual host country. The review literature reports convergent constraints: Di Stefano and Fratocchi (2019) note national closure regulations, foreign-plant exit costs in the form of closure fees and fiscal obligations, and host-country layoff constraints as obstacles to exiting offshore production discussed in the back-shoring literature. Together, the direct finding and the review evidence indicate that the disengagement side of reshoring can itself be regulated in ways that delay or burden implementation.
 
@@ -46,6 +31,16 @@ The review literature adds a social dimension to exit that operates alongside fo
 On the home side, institutional frictions take a different form. Mirzaei et al. (2021) identify a mismatch between the national education system and manufacturing skill needs as a challenge to competitive domestic manufacturing — a constraint an individual firm cannot readily change. Conceptually, Gupta et al. (2023) identify home-country regulatory compliance — labour regulation, environmental standards, taxation, and production permits — as a constraint that becomes a barrier where it adds significant cost, delay, or capability demands.
 
 ## 4.3 Cultural/Organisational Barriers
+
+**Table 2.** *Cultural/organisational barrier themes, evidence types, and Asia-specificity status.*
+
+| Barrier theme | Direct empirical | Review | Conceptual | Asia-specific status |
+|---|---|---|---|---|
+| Organisational readiness, behavioural biases, learning-by-trial | Boffelli et al. (2021) | Wiesmann et al. (2017) | D'Ambrosio & Lavoratori (2025) | No — Boffelli et al.'s hosts were European/North African (full text verified) |
+| Intra-organisational silos & weak employee involvement | Mirzaei et al. (2021) | — | — | No |
+| Adverse host-supplier relational response | Pedroletti (2025) | — | — | Yes — Pedroletti (single case) |
+| Governance mode of the return (gap) | — | Pedroletti & Ciabuschi (2023) | — | No — reported as under-researched dimension |
+| Digital/organisational adaptation burden | — | Bilbao-Ubillos et al. (2024); Espíndola et al. (2023) | Gupta et al. (2023); D'Ambrosio & Lavoratori (2025) | No |
 
 The strongest direct evidence in this category concerns the implementation stage itself. Across the four fashion-industry relocation cases studied by Boffelli et al. (2021), the failure of relocation initiatives was directly connected to mistakes made in the implementation phase, and the study identifies insufficient internal organisational readiness, managerial behavioural biases, and learning through trial-and-error during implementation as implementation-stage problems; its central conclusion is that reshoring succeeds only if firms manage implementation correctly. The cases involved Romanian, Moroccan, Croatian, and Hungarian host locations, so these findings enter the synthesis as general implementation evidence rather than Asia-specific evidence. The review literature reports related organisational weaknesses — the immaturity of firms' reshoring processes and internal communication gaps (Wiesmann et al., 2017) — and, conceptually, a managerial-capability gap has been argued to constrain reshoring particularly for smaller firms (D'Ambrosio & Lavoratori, 2025).
 
@@ -59,6 +54,16 @@ Finally, where reshoring is technology-enabled, an organisational-adaptation bur
 
 ## 4.4 Cost/Operational Barriers
 
+**Table 3.** *Cost/operational barrier themes, evidence types, and Asia-specificity status.*
+
+| Barrier theme | Direct empirical | Review | Conceptual | Asia-specific status |
+|---|---|---|---|---|
+| Hollowed-out supply base / supplier-network rebuilding | Mirzaei et al. (2021); Di Mauro et al. (2018) | Wiesmann et al. (2017); Ocicka (2016) | Gupta et al. (2023) | Partial — Di Mauro et al. (2 of 4 cases from China, unattributed) |
+| New fixed costs & switching/reconfiguration costs | Li et al. (2025) | Espíndola et al. (2023) | D'Ambrosio & Lavoratori (2025); Gupta et al. (2023) | No |
+| High-cost home environment | Mirzaei et al. (2021); Li et al. (2025) | — | D'Ambrosio & Lavoratori (2025) | No |
+| Hybrid-operation coordination complexity (partial reshoring) | Pedroletti (2025) | — | — | Yes — Pedroletti (single case) |
+| Underestimated operational adjustments | Boffelli et al. (2021) | — | — | No — hosts were Romania, Morocco, Croatia, Hungary (full text verified) |
+
 The first cost/operational theme is the depleted domestic supply base. Mirzaei et al. (2021) find that firms may remain dependent on foreign suppliers even after production returns, because domestic materials, specialised components, supplier know-how, or sufficient local scale are lacking. Di Mauro et al. (2018) similarly report a depleted supply base in high-cost home countries and the need to rebuild suppliers as challenges entailed by backshoring; two of that study's four cases returned from China, although the individual findings are not attributed to specific cases. The review literature reinforces the theme: weak home-country supplier capacity, local networks, and supply-chain integration are reported as barriers (Wiesmann et al., 2017), and the erosion of domestic supplier networks is identified as an implementation concern discussed in the reshoring literature (Ocicka, 2016). Conceptually, a domestic quality-supplier gap is also noted (Gupta et al., 2023).
 
 The return itself generates new costs. Among the Swedish firms studied by Li et al. (2025), cost miscalculation was identified where actual cost difficulties arose during or after relocation. At review level, implementation-cost escalation and cost-coordination complexity are reported among the barriers at the reshoring–Industry 4.0 intersection (Espíndola et al., 2023). Conceptually, D'Ambrosio and Lavoratori (2025) describe the new fixed costs of reshoring — building or restoring a plant, acquiring equipment and automation, hiring and training workers, and rebuilding a domestic supplier network — as among the most direct implementation barriers, and switching and reconfiguration costs, including duplicate operations during the transition, are conceptually identified by Gupta et al. (2023). These new costs of the return are distinct from the sunk costs of the offshore operation, which are reported separately in Section 4.5.
@@ -70,6 +75,16 @@ Where only part of production returns, hybrid operation creates its own operatio
 Finally, the underestimation of operational adjustments during the transfer — linked to reconfiguring the manufacturing process and adapting internal production — emerged as the strongest implementation barrier in the multi-case fashion study of Boffelli et al. (2021). The finding is the study's own rating and is not extended beyond its four-case sample.
 
 ## 4.5 Asset/Capability Barriers
+
+**Table 4.** *Asset/capability barrier themes, evidence types, and Asia-specificity status.*
+
+| Barrier theme | Direct empirical | Review | Conceptual | Asia-specific status |
+|---|---|---|---|---|
+| Domestic skilled-labour & competence gap | Pegoraro et al. (2022); Li et al. (2025); Di Mauro et al. (2018); Mirzaei et al. (2021) | Wiesmann et al. (2017); Ocicka (2016); Bilbao-Ubillos et al. (2024) | D'Ambrosio & Lavoratori (2025); Gupta et al. (2023) | Yes — Pegoraro et al. (single China→UK case); others general/partial |
+| Domestic capacity, facilities & machinery gap | Pegoraro et al. (2022); Li et al. (2025); Mirzaei et al. (2021) | Wiesmann et al. (2017) | D'Ambrosio & Lavoratori (2025); Gupta et al. (2023) | Yes — Pegoraro et al. (single case); others general |
+| Host-supplier dependence & knowledge lock-in | Pedroletti (2025); Li et al. (2025) | Wiesmann et al. (2017); Bilbao-Ubillos et al. (2024) | Gupta et al. (2023) | Yes — Pedroletti (single China→Italy case); others general |
+| GVC stickiness / offshore sunk-cost inertia | — | Bilbao-Ubillos et al. (2024) | D'Ambrosio & Lavoratori (2025) | No |
+| Regional ecosystem readiness | Pegoraro et al. (2022) | Bilbao-Ubillos et al. (2024) | — | Yes — Pegoraro et al. (single case) |
 
 The loss of domestic skilled labour and manufacturing competence is the most broadly supported barrier in the corpus, appearing in direct case evidence, across the review literature, and in conceptual argument. In the China-to-UK case reported by Pegoraro et al. (2022), the firm initially lacked the knowledge to produce the part independently; workforce training and the learning curve — mastering new equipment, training staff, accumulating practical experience, and reaching acceptable quality — extended over roughly a twelve-month period in that case. Among Swedish firms, an internal competence gap reflecting competencies lost over years of offshoring was identified by Li et al. (2025), and a domestic skilled-labour shortage — loss of tacit knowledge, deficits in core manufacturing competencies, and high training time and cost — by Mirzaei et al. (2021). Di Mauro et al. (2018) report a scarcity of specialised manpower and the loss of domestic competences as constraints on implementing the return. At review level, a skilled-labour shortage and internal capability gap (Wiesmann et al., 2017), a technical-skills shortage together with a generational manufacturing-skills gap (Ocicka, 2016), and a digital technical-skills shortage (Bilbao-Ubillos et al., 2024) are reported; conceptually, a domestic skilled-workforce shortage (D'Ambrosio & Lavoratori, 2025) and a domestic labour-availability gap (Gupta et al., 2023) are argued.
 

@@ -1,6 +1,6 @@
 # Appendix B — Coding Table
 
-**Appendix B. Barrier-theme coding table: each barrier theme cross-referenced to its contributing sources and the evidence type each source provides.** Evidence types (direct empirical / review / conceptual) are recorded separately per source and are not aggregated. Verification and Asia-specificity qualifications are given in Table 1 (Chapter 4, Section 4.1).
+**Appendix B. Barrier-theme coding table: each barrier theme cross-referenced to its contributing sources and the evidence type each source provides.** Evidence types (direct empirical / review / conceptual) are recorded separately per source and are not aggregated. Verification and Asia-specificity qualifications are given in Tables 1–4 (Chapter 4, Sections 4.2–4.5).
 
 | Theme | Framework category | Source | Evidence type |
 |---|---|---|---|
@@ -45,7 +45,7 @@
 | 3.1 | Cultural/Organisational | A02 (Boffelli et al., 2021) | Direct empirical (partial China attribution) |
 | 3.1 | Cultural/Organisational | A06 (Wiesmann et al., 2017) | Review |
 | 3.1 | Cultural/Organisational | A16 (D'Ambrosio & Lavoratori, 2025) | Conceptual |
-| 3.2 | Cultural/Organisational | A20 (Mirzaei et al., 2021) | Direct empirical (Table 1 vs. Table 4 provenance to verify) |
+| 3.2 | Cultural/Organisational | A20 (Mirzaei et al., 2021) | Direct empirical (general Swedish) |
 | 3.3 | Cultural/Organisational | A18 (Pedroletti, 2025) | Direct empirical (single case, China→Italy) |
 | 3.4 | Cultural/Organisational | A01 (Pedroletti & Ciabuschi, 2023) | Review (reported as under-researched dimension / gap) |
 | 3.5 | Cultural/Organisational | A17 (Bilbao-Ubillos et al., 2024) | Review |

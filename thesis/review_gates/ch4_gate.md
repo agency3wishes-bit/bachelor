@@ -46,6 +46,8 @@ Reason: consistency with Table 1 and with the evidence matrix's exclusion of A15
 
 Optional only — no likely effect on the grade: Table 1 is wide; at assembly it may render better rotated (landscape) or split by category in the .docx export.
 
+**Addendum (2026-07-15):** acted on. Table 1 has been split into four category tables (Tables 1–4), one per barrier category, each positioned in its own section (4.2–4.5) rather than all in 4.1. In-text references to "Table 1" throughout this gate file describe the single-table structure that existed at the time of the original review; the content and evidence-type/Asia-specificity data referenced are unchanged, only the presentation was split.
+
 ## PART G — STOP DECISION
 
 Post-correction: **STOP: The section is ready. Further rewriting would be stylistic preference rather than academic necessity.**
