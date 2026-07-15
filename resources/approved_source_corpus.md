@@ -499,6 +499,21 @@ Auto-extracted from `Final_Source_Classification_33.xlsx`. This is the approved 
 - **Inclusion / exclusion rationale:** Explains each PRISMA item and provides detailed reporting recommendations and examples; companion to the PRISMA Statement.
 - **Access / source link:** https://doi.org/10.1136/bmj.n160
 
+## Approved addition — Contextual source (user-approved 2026-07-14)
+
+### C06 — Barbieri et al. (2020)
+- **Reference (APA 7):** Barbieri, P., Boffelli, A., Elia, S., Fratocchi, L., Kalchschmidt, M., & Samson, D. (2020). What can we learn about reshoring after Covid-19? *Operations Management Research, 13*(3–4), 131–136. https://doi.org/10.1007/s12063-020-00160-1
+- **Publication type:** Journal editorial (invited commentary) in a peer-reviewed journal — not a peer-reviewed empirical or review article
+- **Formal analytical sample:** No
+- **Final role:** Background/context — editorial
+- **Evidence level:** L3 — contextual evidence (anecdotal press-sourced examples; conceptual short-term/long-term trigger framework)
+- **Implementation relevance:** Low (decision/trigger-stage focus)
+- **Asia specificity:** Contextual (China as disruption origin; no Asia-to-home implementation evidence)
+- **Use in barrier synthesis:** No — context only
+- **Primary thesis chapters:** Introduction; Discussion
+- **Inclusion rationale:** Full-text verified (PDF read in full). Provides clean, citable support for the claim that COVID-19 acted as a trigger/accelerator of reshoring decisions. Caution: its reshoring definition bundles near-shoring with back-reshoring (broader than the thesis definition); same author team as A02 — never count alongside A02 as independent evidence.
+- **Access:** Open (author-held PDF); Springer
+
 ## Approved additions — Primary theoretical literature (user-approved 2026-07-14)
 
 These two sources were approved by the author as additions to the corpus. They are **primary theoretical literature only**: not reshoring studies, not implementation-barrier evidence, not part of the 21-source formal analytical sample, and not counted as included studies in the PRISMA flow diagram.

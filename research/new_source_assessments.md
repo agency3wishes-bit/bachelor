@@ -32,7 +32,7 @@ Five candidate sources submitted by the author (found via Google Scholar, terms 
 - **Evidence type:** Direct empirical (single/exploratory case), pending full text
 - **New contribution if included:** The corpus's only host-perspective study; would strengthen the thinnest side of theme 3.3 and the host-supplier cluster
 - **Double-counting risk:** Low — no host-perspective source exists in the corpus
-- **RECOMMENDATION: FULL-TEXT VERIFICATION REQUIRED.** Cannot enter the sample under the thesis's own rule (full-text assessment required; currently inaccessible). Strong candidate **if** lawful full-text access is obtained (university library / interlibrary loan). Until then it must not be cited. Note the definitional check to perform on the full text: confirm the studied relocation is a genuine home-country return, and clarify whether the findings concern the host firm's adaptation (context for the reshoring firm's barriers) or barriers experienced by the reshoring firm itself.
+- **RECOMMENDATION: FULL-TEXT VERIFICATION REQUIRED → CLOSED AS REJECTED BY AUTHOR DECISION (2026-07-14): the thesis admits open-access sources only, and this article is paywalled.** It must not be cited. Note the definitional check to perform on the full text: confirm the studied relocation is a genuine home-country return, and clarify whether the findings concern the host firm's adaptation (context for the reshoring firm's barriers) or barriers experienced by the reshoring firm itself.
 
 ## NS3 — Dikler (2021): "Reshoring: An Overview, Recent Trends, and Predictions for the Future" (SSRN preprint)
 
@@ -63,7 +63,7 @@ Five candidate sources submitted by the author (found via Google Scholar, terms 
 - **Evidence type:** Contextual/conceptual commentary; anecdotes are press-sourced, not researched cases
 - **New contribution:** A citable, full-text-verified statement that COVID-19 acted as a *trigger/accelerator* of reshoring decisions — cleaner support for the Introduction's pandemic sentence than Somoza Medina (C04), whose index mixes relocation signals
 - **Double-counting risk:** Moderate — same author team as A02 (Boffelli, Fratocchi, Kalchschmidt) and overlapping thematic territory with A12/C04; must never be counted as evidence alongside A02
-- **RECOMMENDATION: APPROVE AS CONTEXTUAL SOURCE ONLY.** Suitable for the Introduction (and possibly Discussion) as context for the pandemic-trigger claim, with the editorial status named when relied on. Not eligible for the formal analytical sample (editorial; no primary or systematic evidence; decision-stage focus). If approved, assign ID C06, add to the corpus with role "Background/context — editorial", and permitted chapters Introduction; Discussion. Do not code into any barrier theme.
+- **RECOMMENDATION: APPROVE AS CONTEXTUAL SOURCE ONLY — CONFIRMED BY AUTHOR (2026-07-14); added to the corpus as C06.** Suitable for the Introduction (and possibly Discussion) as context for the pandemic-trigger claim, with the editorial status named when relied on. Not eligible for the formal analytical sample (editorial; no primary or systematic evidence; decision-stage focus). If approved, assign ID C06, add to the corpus with role "Background/context — editorial", and permitted chapters Introduction; Discussion. Do not code into any barrier theme.
 
 ---
 
