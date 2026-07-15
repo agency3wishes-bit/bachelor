@@ -13,7 +13,7 @@ Working tracker (not part of the thesis text). Updated after the Author Response
 
 ## Blocking items (placeholders remain in the text — do not estimate)
 
-1. **Final documented Google Scholar update search (Ch. 3, §3.2 placeholder).** Must record: exact search strings and Boolean combinations; any publication-year restriction; actual search date; approximate displayed result count; records actually screened; duplicates; full texts assessed; exclusions with reasons; newly included studies. Required to complete the PRISMA flow diagram (Appendix A). PRISMA flow documents the 21-study formal sample only; methodology sources are not counted; contextual sources reported separately.
+1. **Final documented Google Scholar update search (Ch. 3, §3.2 placeholder).** Scope reduced 2026-07-15 to three strings (~15–20 minutes total), justified in `resources/update_search_protocol.md` §0 by Snyder's (2019) own endorsement of combining a documented database search with citation searching rather than requiring database-search saturation alone. Must record: exact search strings; any publication-year restriction; actual search date; approximate displayed result count; records actually screened; duplicates; full texts assessed; exclusions with reasons; newly included studies. Required to complete the PRISMA flow diagram (Appendix A). PRISMA flow documents the 21-study formal sample only; methodology sources are not counted; contextual sources reported separately.
 
 ## Standing constraints (unchanged)
 
