@@ -48,7 +48,7 @@ Desk audit of every corpus source's access status, based on the recorded access 
 |---|---|---|
 | M01 | Snyder (2019) | ✅ OPEN — JBR gold OA; **full text held & verified** (resources/sources/M01.pdf) |
 | M02 | Thomas & Harden (2008) | ✅ OPEN — BMC gold OA; **full text held & verified** (resources/sources/M02.pdf) |
-| M03/M05 | Page et al. (2021) ×2 | ✅ OPEN — BMJ (OA) |
+| M03/M05 | Page et al. (2021) ×2 | ✅ OPEN — BMJ OA; **full texts held & verified** (resources/sources/M03.pdf, M05.pdf); suffixes settled: M05 = 2021a, M03 = 2021b |
 | M04 | Mayring (2014) | ✅ OPEN — open monograph (author-confirmed PDF; stable URL still to be inserted) |
 
 ## Theory sources (2 — approved under the library-access criterion, not the OA rule)
@@ -69,7 +69,7 @@ The thesis continues the accepted proposal: the title and the three research que
 ## Reliability status of the thesis content (summary)
 
 1. Every literature-based claim in Chapters 1–5 is calibrated to a recorded verification tag (DIRECT/PARTIAL/UNVERIFIED) in `research/source_notes/` and audited in `research/evidence_matrix.md` and the review-gate files. No claim exceeds its tag.
-2. Verification depth (updated 2026-07-15): **thirty-one sources now read at full text within this project** — A01–A21, A25, A29 (all 21 formal-sample and all supporting A-sources), A08, C01–C06, M01, M02 (PDFs stored in resources/sources/). Only M03, M04, and M05 (open methodology sources) remain without stored PDFs. Two docx-derived claims were overturned by full text (A02's China attribution; A15's labour-migration item) and corrected throughout the thesis. Remaining notes rest on search-snippet evidence plus the author's earlier NotebookLM-assisted coding.
+2. Verification depth (updated 2026-07-15): **thirty-three sources now read at full text within this project** — A01–A21, A25, A29 (all 21 formal-sample and all supporting A-sources), A08, C01–C06, M01, M02 (PDFs stored in resources/sources/). Only M04 (Mayring's open monograph, SSOAR) remains without a stored PDF. Two docx-derived claims were overturned by full text (A02's China attribution; A15's labour-migration item) and corrected throughout the thesis. Remaining notes rest on search-snippet evidence plus the author's earlier NotebookLM-assisted coding.
 3. Known contradictions and unverifiable figures (A10 sample size; C03 percentages) remain excluded from the text. **A11's 11.64% figure is now verified at full text** (static barriers as share of TCA from low-cost countries; survey of 60 Polish firms) and may be used if wanted.
 4. No page-level citations exist anywhere; no direct quotations are used.
 5. The Asia-specific evidence base is transparently thin (two single-case studies) and the thesis says so in 4.1, 5.1, and 5.4.

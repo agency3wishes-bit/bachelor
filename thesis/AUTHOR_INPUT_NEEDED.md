@@ -19,7 +19,7 @@ Working tracker (not part of the thesis text). Updated after the Author Response
 
 2. No verified page numbers for any source; no direct quotations or page references until the original PDFs are checked. Paraphrases without page numbers are acceptable under APA 7.
 3. **A11's "11.64%" figure is now VERIFIED at full text** (2026-07-15: static barriers = 11.64% of the Total Cost of Acquisition from low-cost countries; author's survey of 60 large Polish firms; decision-stage driver framing) — available for use if wanted. C03's country-level percentages remain unverified and absent. A11 page range corrected to 103–117 (PDF-verified; corpus said 103–118).
-4. Page et al. (2021a/2021b) suffixes provisional until the final alphabetised APA 7 reference list is assembled; then enforce consistency across in-text citations, Chapter 3, appendices, and the reference list.
+4. ~~Page et al. suffixes~~ — settled from the full texts (2026-07-15): M05 (explanation and elaboration) = 2021a; M03 (statement) = 2021b — matching the thesis's existing citations. Verify once more against the complete alphabetised reference list at assembly (pro forma).
 
 ## Corpus corrections found during full-text verification (for the workbook)
 
