@@ -18,7 +18,7 @@ Desk audit of every corpus source's access status, based on the recorded access 
 | A11 | Ocicka (2016) | ✅ OPEN — management-poland.com PDF; **full text held & verified** (resources/sources/A11.pdf) |
 | A12 | Stentoft et al. (2025) | ✅ **full text held & verified** (resources/sources/A12.pdf) |
 | A13 | Pegoraro et al. (2022) | ✅ OPEN — PMC; **full text held & verified** (resources/sources/A13.pdf) |
-| A14 | Pourhejazy & Ashby (2021) | ✅ OPEN — MDPI IJERPH (gold OA) |
+| A14 | Pourhejazy & Ashby (2021) | ✅ OPEN — MDPI gold OA; **full text held & verified** (resources/sources/A14.pdf) |
 | A15 | Robinson & Hsieh (2016) | ✅ **full text held & verified** (resources/sources/A15.pdf) |
 | A16 | D'Ambrosio & Lavoratori (2025) | ✅ **full text held & verified** (resources/sources/A16.pdf) |
 | A17 | Bilbao-Ubillos et al. (2024) | ✅ OPEN — ERMBE gold OA; **full text held & verified** (resources/sources/A17.pdf) |
@@ -33,11 +33,11 @@ Desk audit of every corpus source's access status, based on the recorded access 
 
 | ID | Source | Access status |
 |---|---|---|
-| A08 | Bolter & Robey (2020) | ✅ OPEN — Upjohn Institute PDF |
+| A08 | Bolter & Robey (2020) | ✅ OPEN; **full text held & verified** (resources/sources/A08.pdf) |
 | C01 | Yang (2016) | ✅ OPEN (SpringerOpen, confirmed from PDF); **full text held & verified** (resources/sources/C01.pdf) |
-| C02 | Xing et al. (2024) | ✅ OPEN — Nature HSSC (gold OA) |
+| C02 | Xing et al. (2024) | ✅ OPEN — Nature HSSC gold OA; **full text held & verified** (resources/sources/C02.pdf) |
 | C03 | Gao et al. (2022) | ✅ **full text held & verified** (resources/sources/C03.pdf) |
-| C04 | Somoza Medina (2022) | ✅ OPEN — MDPI Land (gold OA) |
+| C04 | Somoza Medina (2022) | ✅ OPEN — MDPI gold OA; **full text held & verified** (resources/sources/C04.pdf) |
 | C05 | McCully & Simola (2024) | ✅ OPEN — EconStor; **full text held & verified** (resources/sources/C05.pdf) |
 | C06 | Barbieri et al. (2020) | ✅ OPEN in practice — author-held PDF (verified: read in full) |
 | — | (A14 counted in formal sample above) | |
@@ -47,7 +47,7 @@ Desk audit of every corpus source's access status, based on the recorded access 
 | ID | Source | Access status |
 |---|---|---|
 | M01 | Snyder (2019) | ✅ OPEN — JBR gold OA; **full text held & verified** (resources/sources/M01.pdf) |
-| M02 | Thomas & Harden (2008) | ✅ OPEN — BMC (gold OA) |
+| M02 | Thomas & Harden (2008) | ✅ OPEN — BMC gold OA; **full text held & verified** (resources/sources/M02.pdf) |
 | M03/M05 | Page et al. (2021) ×2 | ✅ OPEN — BMJ (OA) |
 | M04 | Mayring (2014) | ✅ OPEN — open monograph (author-confirmed PDF; stable URL still to be inserted) |
 
@@ -69,7 +69,7 @@ The thesis continues the accepted proposal: the title and the three research que
 ## Reliability status of the thesis content (summary)
 
 1. Every literature-based claim in Chapters 1–5 is calibrated to a recorded verification tag (DIRECT/PARTIAL/UNVERIFIED) in `research/source_notes/` and audited in `research/evidence_matrix.md` and the review-gate files. No claim exceeds its tag.
-2. Verification depth (updated 2026-07-15): **twenty-six sources now read at full text within this project** — A01–A07, A09–A13, A15–A21, A25, A29, C01, C03, C05, C06, M01 (PDFs stored in resources/sources/). Two docx-derived claims were overturned by full text (A02's China attribution; A15's labour-migration item) and corrected throughout the thesis. Remaining notes rest on search-snippet evidence plus the author's earlier NotebookLM-assisted coding.
+2. Verification depth (updated 2026-07-15): **thirty-one sources now read at full text within this project** — A01–A21, A25, A29 (all 21 formal-sample and all supporting A-sources), A08, C01–C06, M01, M02 (PDFs stored in resources/sources/). Only M03, M04, and M05 (open methodology sources) remain without stored PDFs. Two docx-derived claims were overturned by full text (A02's China attribution; A15's labour-migration item) and corrected throughout the thesis. Remaining notes rest on search-snippet evidence plus the author's earlier NotebookLM-assisted coding.
 3. Known contradictions and unverifiable figures (A10 sample size; C03 percentages) remain excluded from the text. **A11's 11.64% figure is now verified at full text** (static barriers as share of TCA from low-cost countries; survey of 60 Polish firms) and may be used if wanted.
 4. No page-level citations exist anywhere; no direct quotations are used.
 5. The Asia-specific evidence base is transparently thin (two single-case studies) and the thesis says so in 4.1, 5.1, and 5.4.
