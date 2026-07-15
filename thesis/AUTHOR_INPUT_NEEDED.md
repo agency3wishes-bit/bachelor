@@ -25,6 +25,8 @@ Working tracker (not part of the thesis text). Updated after the Author Response
 
 8. **A02 (Boffelli et al., 2021): Asia specificity must be corrected to Low.** Full text shows the four cases' hosts are Romania, Morocco, Croatia, Hungary — no China case. The workbook's "some cases involve China" and Medium rating are wrong; the thesis text has been corrected accordingly.
 9. A11 page range: 103–117 (workbook says 103–118). C01 reference format: *Bandung: Journal of the Global South, 3*, Article 3.
+10. **A15 (Robinson & Hsieh): the docx-coded labour-migration-policy item does not exist in the paper** — removed from Ch4, Table 1, Appendix B, and the matrix (2026-07-15). A15 remains driver/strategic-renewal evidence only.
+11. A10's own abstract (105 articles) and methods (96→33) give different counts — internal to the source; cite neither.
 
 ## Formatting items (assembly phase)
 

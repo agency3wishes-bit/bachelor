@@ -139,7 +139,7 @@ Table 1 maps all eighteen barrier themes to their framework category, the eviden
 | Digital/organisational adaptation burden | Cultural/Organisational | — | Bilbao-Ubillos et al. (2024); Espíndola et al. (2023) | Gupta et al. (2023); D'Ambrosio & Lavoratori (2025) | No |
 | Host-country exit regulation | Regulatory/Institutional | Li et al. (2025) | Di Stefano & Fratocchi (2019) | — | Partial — Li et al. explicitly name China (and Poland) among the affected host locations |
 | Social-responsibility & workforce-resistance exit constraints | Regulatory/Institutional | — | Di Stefano & Fratocchi (2019) | — | No |
-| Home-country compliance burden & institutional frictions | Regulatory/Institutional | Mirzaei et al. (2021) | — | Gupta et al. (2023); Robinson & Hsieh (2016, contextual) | No |
+| Home-country compliance burden & institutional frictions | Regulatory/Institutional | Mirzaei et al. (2021) | — | Gupta et al. (2023) | No |
 
 ## 4.2 Regulatory/Institutional Barriers
 
@@ -149,7 +149,7 @@ The first theme concerns host-country constraints on exiting the offshore operat
 
 The review literature adds a social dimension to exit that operates alongside formal regulation. Di Stefano and Fratocchi (2019) report that social-responsibility considerations — managerial reluctance to close a facility or lay off its workforce — can constrain the decision and implementation of foreign-plant closure, and the same review notes potential employee resistance during the closure of foreign production facilities, although the available evidence for this latter point is limited and context-dependent. No direct empirical study in the sample observes these constraints, and they are therefore reported strictly as review evidence.
 
-On the home side, institutional frictions take a different form. Mirzaei et al. (2021) identify a mismatch between the national education system and manufacturing skill needs as a challenge to competitive domestic manufacturing — a constraint an individual firm cannot readily change. Conceptually, Gupta et al. (2023) identify home-country regulatory compliance — labour regulation, environmental standards, taxation, and production permits — as a constraint that becomes a barrier where it adds significant cost, delay, or capability demands. Contextually, labour-migration-policy conditions have been noted as a constraint on expanding domestic manufacturing (Robinson & Hsieh, 2016), although this point is reported here as background rather than as a firm-level finding.
+On the home side, institutional frictions take a different form. Mirzaei et al. (2021) identify a mismatch between the national education system and manufacturing skill needs as a challenge to competitive domestic manufacturing — a constraint an individual firm cannot readily change. Conceptually, Gupta et al. (2023) identify home-country regulatory compliance — labour regulation, environmental standards, taxation, and production permits — as a constraint that becomes a barrier where it adds significant cost, delay, or capability demands.
 
 ## 4.3 Cultural/Organisational Barriers
 
