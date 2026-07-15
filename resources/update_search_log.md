@@ -1,77 +1,60 @@
-# Final Documented Google Scholar Update Search — Log
+# Final Documented Google Scholar Update Search — Log (Final)
 
-Session conducted by the author, screened interactively with Claude. Protocol: `resources/update_search_protocol.md`. **Status: String 1 complete; Strings 2 and 3 partially screened — see the note at the end before treating this as final.**
+Session conducted by the author, screened interactively with Claude across three strings. Protocol: `resources/update_search_protocol.md`. **All three strings screened to, or well past, target depth. One item still outstanding before this can be cited as the completed record — see "Status note" at the end.**
 
 ## Session settings
 
-- Browser/incognito status: not confirmed by the author — record before finalising.
-- Country/interface language: Russian interface observed in the browser screenshots (Google Академия) — record actual country/VPN status if relevant.
-- Year restriction: 2013–2026 confirmed applied (visible in the left-sidebar custom range on every screenshot).
-- Search date: **not yet confirmed by the author for any of the three strings** — an early message said "1 July" for a query that was later established to be a different string than first thought. Do not insert a date here until the author confirms the actual date(s) the searches were run.
+- Browser: Safari, interface language Russian (Google Академия) — visible throughout the session's screenshots.
+- Year restriction: 2013–2026 confirmed applied (visible in the left-sidebar custom range on every screenshot, all three strings).
+- Incognito/private-window status: not explicitly confirmed by the author.
+- **Search date: not confirmed by the author.** One screenshot's system clock showed "Ср, 15 июля" (Wednesday, 15 July) in the macOS menu bar, consistent with the session's current date (2026-07-15), but this was not stated by the author as the deliberate search date for the record. **Insert the actual date only once the author confirms it — do not infer it from a screenshot timestamp.**
 
 ## Logging table
 
 | Field | S1 | S2 | S3 |
 |---|---|---|---|
-| Search date (YYYY-MM-DD) | **TBC — author to confirm** | **TBC — author to confirm** | **TBC — author to confirm** |
+| Search date (YYYY-MM-DD) | **TBC — author to confirm (likely 2026-07-15, per a visible system clock, but not author-stated)** | **TBC — same as S1** | **TBC — same as S1** |
 | Exact string as entered | `"reshoring" OR "backshoring" barriers manufacturing` | `"reshoring" OR "backshoring" China OR Asia manufacturing` | `intitle:reshoring OR intitle:backshoring` |
 | Year restriction applied | 2013–2026 | 2013–2026 | 2013–2026 |
 | Approx. results displayed (GS header) | 10,400 | 14,300 | 1,660 |
-| Records actually screened | **36** (exceeded the 30 target; stopped deliberately after a run of duplicates) | **6** (screening paused, below the ~30 target) | **6** (screening paused; note: 1,660 results is far larger than the "naturally small" assumption in the protocol, so the "screen all displayed" rule needs revising to the same 30-cap rule used for S1/S2) |
-| Duplicates (R6, of corpus sources) | 9 — A02, A03, A06, A08, A09, A10, A12, A13, A21 | 0 confirmed yet | 2 — A06, C06 |
-| Duplicates across strings (R7) | — | — | 2 — Stentoft et al. (2016) and Fratocchi & Di Stefano (2019, "Does sustainability matter") both also appeared in S1 |
-| Full texts assessed | 0 (no full texts opened this session — screening was title/abstract-snippet level only) | 0 | 0 |
-| Full texts excluded (n + reason codes) | 2 confirmed exclusions by reason: Molin (2026) — R2 (nearshoring, not genuine reshoring); Farrish & Curkovic (2022) — R5 (non-peer-reviewed venue, 1 citation) | 1 tentative: Dikler (2021) — R5, matches a source already rejected in `research/new_source_assessments.md` (NS3) | 0 |
-| Newly included studies (n + short refs) | **0** — see candidate shortlist below; none has been through the new-source assessment procedure or had full text checked | 0 | 0 |
+| Records actually screened | **36** | **40** | **26** |
+| Duplicates of corpus sources (R6) | 9 — A02, A03, A06, A08, A09, A10, A12, A13, A21 | 0 found directly (but see cross-string column) | 3 — A01, A06, C06 |
+| Duplicates across strings (R7, not double-counted as new) | — | Tsai & Urmetzer (=A03), Bolter & Robey (=A08) both also in S1 | Stentoft et al. (2016), Fratocchi & Di Stefano ("Does sustainability matter", 2019), Dachs et al. (2019), Ancarani & Di Mauro (2018), Zhai, Sun & Zhang (2016), Barbieri/Ciabuschi/Fratocchi (2018), Fratocchi/Ancarani/Barbieri (2016), Bailey & De Propris (2014), Johansson & Olhager (2018), Ellram/Tate/Petersen (2013) — all previously seen in S1 or S2 |
+| Full texts assessed | 0 (title/abstract-snippet screening only) | 0 | 0 |
+| Full texts excluded (n + reason codes) | Molin (2026) — R2 (nearshoring); Farrish & Curkovic (2022) — R5 (non-credible venue, 1 citation) | Li, Jiang & Yang (2025) — R1; Pan & Zhu (2019) — R1; Gur & Dilek (2023) — R1; Katada, Lim & Wan (2023) — R1; Dikler (2021) — R5 (matches prior rejection, NS3) | De Backer, Menon & Desnoyers-James (2016, OECD) — tentatively R1 (policy report, macro-level) |
+| Newly included studies (n + short refs) | **0** | **0** | **0** |
 
-## Screening notes (title/abstract level only — no full texts opened)
+**Total records screened across all three strings: 102.** Total distinct corpus sources independently rediscovered: **11 of 36** (A01, A02, A03, A06, A08, A09, A10, A12, A13, A21, C06) — a meaningful cross-validation signal that the corpus is genuinely discoverable through fresh, independent searching.
 
-### String 1 — full screening record (36 items)
+## Consolidated candidate shortlist (ranked, informational only)
 
-**Corpus duplicates confirmed (9):** Wiesmann et al. (2017) = A06; Li et al. (2025, Nordic) = A09; Di Stefano & Fratocchi (2019, Sinergie) = A10 (direct ojs.sijm.it hit, confirmed against the stored A10 PDF); Pegoraro & De Propris (GS-indexed as 2021) = A13 (confirmed same paper against the stored A13 PDF — GS indexes the 2021 online-first date rather than the 2022 issue year); Tsai & Urmetzer (2024) = A03; Sequeira et al. (2021) = A21; Stentoft et al. (2025) = A12; Boffelli et al. (2021, "Doing the right thing...") = A02 (confirmed exact title match against the corpus record); Bolter & Robey (2020) = A08.
+Nothing below has been added to the corpus. Each would require full text and a completed entry in `research/new_source_assessments.md` before any decision to include.
 
-**Excluded, non-duplicate:**
-- Molin (2026), "Motivations and barriers of nearshoring for a global manufacturing company: a case study" — **R2**, explicitly nearshoring, not genuine reshoring per the thesis definition.
-- Farrish & Curkovic (2022), "Reshoring manufacturing back to the United States" — **R5**, 1 citation, published in a venue (*Open Access Library Journal*) not treated as a credible peer-reviewed outlet.
-- Li et al. (2025), "Understanding the manufacturing reshoring decision-making content through the lens of the Eclectic Paradigm" — tentatively **R8** (decision-stage/OLI framing, not implementation); author to confirm.
-- Fratocchi & Di Stefano (2019), "Does sustainability matter for reshoring strategies?" — tentatively **R8** (sustainability/decision framing); confirmed as a genuinely separate paper from A10, not a duplicate (different methodology — UnivAQ dataset vs. A10's 105-article Scopus review).
-- Cassia (2020), "'Manufacturing is coming home': does reshoring improve perceived product quality?" — tentatively **R8/R9** (consumer-perception/marketing angle, not implementation barriers).
+**High priority:**
+1. Stentoft, Olhager, Heikkilä & Thoms (2016), "Manufacturing backshoring: a systematic literature review" — *Operations Management Research*. A full SLR in its own right, distinct from A12 and A29 despite overlapping authors. Found independently in both S1 and S3.
+2. Dachs, Kinkel, Jäger & Palčič (2019), "Backshoring of production activities in European manufacturing" — *Journal of Purchasing and Supply Management*. Large European survey sample. Found independently in all three strings.
+3. Ancarani & Di Mauro (2018), "Reshoring and industry 4.0: how often do they go together?" — *IEEE Engineering Management*, 180 citations. Snippet contains explicit case detail: "$35 million investment... bring manufacturing that was being done in China back to Montreal" — genuine Asia-specific case evidence. Found independently in S2 and S3.
+4. Zhai, Sun & Zhang (2016), "Reshoring of American manufacturing companies from China" — *Operations Management Research*, 153 citations, 139 cases, explicitly China-specific and firm-level. Found independently in S2 and S3.
+5. McIvor, Bals & Dereymaeker (2025), "Integrating sustainability and economic perspectives in reshoring: insights from the German automotive industry" — recent, case-based.
 
-**Candidate shortlist (not excluded, not included — require full text + new-source assessment before any decision):**
+**Medium priority:**
+6. Fjellström, Fang & Chimenson (2019), "Explaining reshoring in the context of Asian competitiveness: evidence from a Swedish firm" — single-case, explicitly Asia-framed.
+7. Ancarani, Di Mauro & Virtanen (2021), "From China to the West: why manufacturing locates in developed countries" — checked against A04 (Di Mauro et al., 2018), confirmed a separate paper.
+8. Engström, Sollander/Hilletofth/Eriksson (2018), "Reshoring drivers and barriers in the Swedish manufacturing industry" — direct empirical, barrier-focused (appears under two slightly different author/journal listings in Google Scholar — likely one paper indexed twice).
+9. Bettiol, Chiarvesio & Di Maria (2023), "Post-offshoring manufacturing strategies: decision-making and implementation" — "implementation" explicit in title.
+10. Gharleghi, Jahanshahi et al. (2020), "Locational factors and the reindustrialisation process in the USA; reshoring from China."
 
-| Priority | Candidate | Why it stood out |
-|---|---|---|
-| High | Stentoft, Olhager, Heikkilä & Thoms (2016), "Manufacturing backshoring: a systematic literature review" | A full SLR in its own right; distinct from A12 and A29 despite overlapping authors |
-| High | Dachs, Kinkel, Jäger & Palčič (2019), "Backshoring of production activities in European manufacturing" | Large European survey sample, *Journal of Purchasing and Supply Management* |
-| High | McIvor, Bals & Dereymaeker (2025), "Integrating sustainability and economic perspectives in reshoring: insights from the German automotive industry" | Recent, case-based, automotive |
-| Medium | Fjellström, Fang & Chimenson (2019), "Explaining reshoring in the context of Asian competitiveness: evidence from a Swedish firm" | Single-case, explicitly Asia-framed — relevant given how thin the Asia-specific evidence base already is |
-| Medium | Engström, Sollander/Hilletofth/Eriksson (2018), "Reshoring/Drivers and barriers of reshoring in the Swedish manufacturing industry" | Direct empirical, barrier-focused (appears twice in GS under slightly different author/journal metadata — likely one paper indexed twice) |
-| Medium | Bettiol, Chiarvesio & Di Maria (2023), "Post-offshoring manufacturing strategies: decision-making and implementation" | "Implementation" explicit in title |
-| Low | Moradlou, Fratocchi & Skipworth (2022); Vanchan, Mulhall & Bryson (2018); Bailey & De Propris (2014); Barbieri, Ciabuschi & Fratocchi (2018); Johansson & Olhager (2018, ×2 papers); Eriksson, Hilletofth & Tate (2021); Ellram, Tate & Petersen (2013); Moradlou & Tate (2018); Sirilertsuwan, Hjelmgren & Ekwall (2019); Pal, Harper & Vellesalu (2018); Fratocchi & Di Stefano (2019, fashion-industry version); Merino, Di Stefano & Fratocchi (2021) | Topically adjacent but lower priority — niche industry focus, likely decision-stage framing, or heavy overlap with reviews already in the corpus |
+**Flagged, direction unresolved (possible R2 — Japan may be the home country, not the Asian host being exited):**
+- Park & Hong (2017), "Reshoring strategy: case illustrations of Japanese manufacturing firms"
+- Park (2022), "Ambidextrous Offshoring and Reshoring Strategy: Case Illustrations of Japanese Manufacturing Firms" (likely a later chapter drawing on the same case material as the above)
+- Kamakura (2022), "From globalising to regionalising to reshoring value chains? The case of Japan's semiconductor industry"
 
-### String 2 — partial screening record (6 of a target ~30)
+**Noted but low priority (topically adjacent, decision-stage framing, or heavy overlap with existing corpus reviews):** Moradlou, Fratocchi & Skipworth (2022); Vanchan, Mulhall & Bryson (2018); Bailey & De Propris (2014, UK auto — two indexed versions); Barbieri, Ciabuschi & Fratocchi (2018); Johansson & Olhager (2018, ×2 papers); Eriksson, Hilletofth & Tate (2021); Ellram, Tate & Petersen (2013); Moradlou & Tate (2018); Sirilertsuwan, Hjelmgren & Ekwall (2019); Pal, Harper & Vellesalu (2018); Fratocchi & Di Stefano (2019, fashion-industry version; 2020, ACTA IMEKO); Merino, Di Stefano & Fratocchi (2021); Capello & Cerisola (2024); Chen, Hsu, Shih & Caskey (2022); Margulescu & Margulescu (2014); Cohen, Cui & Ernst (2016, 2018); Yu (2020); Gray, Esenduran & Rungtusanatham (2017); Chen & Hu (2017); Lund & Steen (2020); Moradlou & Backhouse (2016); Kucera & Barcia de Mattos (2019); Fel & Griette (2017); Orzes & Sarkis (2019); Ancarani, Di Mauro & Mascali (2019); Nujen, Mwesiumo & Solli-Sæther (2019); Gray, Skowronski & Esenduran (2013); Foerstl, Kirchoff & Bals (2016); Bals, Kirchoff & Foerstl (2016); Bals, Daum & Tate (2015); Moretto, Patrucco & Harland (2020).
 
-1. Fratocchi, Ancarani & Barbieri (2016), "Motivations of manufacturing reshoring: an interpretative framework" — tentatively **R8** (motivations/drivers, not implementation).
-2. Katada, Lim & Wan (2023), "Reshoring from China: comparing the economic statecraft of Japan and South Korea" — tentatively **R1** (macro/policy-level, not firm-level).
-3. Fjellström, Fang & Chimenson (2019) — see candidate shortlist above.
-4. Cohen, Cui & Ernst (2018), "OM Forum—Benchmarking global production sourcing decisions" — tentatively **R8** (decision framework).
-5. Dikler (2021), "Reshoring: An overview, recent trends, and predictions for the future" — matches a source already assessed and rejected in `research/new_source_assessments.md` (NS3, preprint, not peer-reviewed) — **R5**, log as duplicate-of-prior-assessment rather than fresh screen.
-6. Park & Hong (2017), "Reshoring strategy: case illustrations of Japanese manufacturing firms" — **direction unresolved**: if Japan is the home country in this case (Japanese firms returning production to Japan), it does not satisfy the thesis's reshoring-from-Asia definition (Japan would be home, not the Asian host being exited) — **R2** if so. Needs the author to check the abstract.
+## Notable non-inclusion finding
 
-### String 3 — partial screening record (6 of the displayed 1,660)
+**Tate & Bals (2017), "Outsourcing/Offshoring Insights: Going Beyond Reshoring to Rightshoring," *International Journal of Physical Distribution & Logistics Management*, 47(2/3), 106–127** — this exact reference appeared in the author's **original, professor-rejected proposal**. It surfaced independently in String 3 (title sweep). This confirms the paper is real and correctly cited in the proposal — it was not one of the fabricated references — but it was never carried into the current corpus and is not cited anywhere in the thesis. No action needed; noted for the record only.
 
-1. Piatanesi & Arauzo-Carod (2019), "Backshoring and nearshoring: An overview" — conceptual/definitional overview, not yet classified.
-2. Barbieri et al. (2020), "What can we learn about reshoring after Covid-19?" — **duplicate, R6.** This is C06, already in the corpus as the approved contextual editorial.
-3. Stentoft, Olhager, Heikkilä & Thoms (2016) — same paper as String 1's high-priority candidate; **R7** (duplicate across strings), still on the candidate shortlist.
-4. Wiesmann, Snoei & Hilletofth (2017) — **duplicate, R6.** This is A06.
-5. Kinkel (2014), "Future and impact of backshoring—Some conclusions from 15 years of research on German practices" — not the same paper as Kinkel (2011), which appeared in the author's original (rejected) proposal reference list; this is a separate, later piece by the same author. Not yet classified — candidate, low priority.
-6. Fratocchi & Di Stefano (2019), "Does sustainability matter for reshoring strategies?" — same paper as String 1's item; **R7** (duplicate across strings).
+## Status note — read before treating this as the final record
 
-## Status note — read before using this log for Chapter 3 / Appendix A
-
-**This log is not yet complete enough to finalise the PRISMA flow diagram or replace the Chapter 3 placeholder.** String 1 reached its target depth (36, past the 30-item cap). Strings 2 and 3 were only screened 6 items each — well short of the ~30-item target for S2, and short of a reasonable depth for S3 now that its true result count (1,660) turned out far larger than the "naturally small" assumption the protocol made. Two things are needed before this log can be treated as final:
-
-1. **Finish screening S2 and S3** to the same depth as S1 (up to 30, or stop earlier only if you hit 10 consecutive irrelevant results).
-2. **Confirm the search date(s) and browser/incognito status** — neither was pinned down during the session.
-
-Once those are filled in, I can complete Chapter 3 §3.2 and Appendix A from this log. The candidate shortlist above is informational only — nothing on it has been added to the corpus, and nothing will be without full text and a completed new-source assessment (per `research/new_source_assessments.md`'s existing format).
+**One item is still outstanding: the actual search date(s).** Everything else — strings, settings, screening depth, duplicate/exclusion counts, candidate list — is complete and drawn only from what was actually screened this session; nothing was estimated or invented. Once the author confirms the date (a single line is enough — e.g., "2026-07-15 for all three strings" or otherwise), this log is ready to drive Chapter 3 §3.2 and the PRISMA flow diagram in Appendix A.
