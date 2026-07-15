@@ -11,7 +11,7 @@ Desk audit of every corpus source's access status, based on the recorded access 
 | A03 | Tsai & Urmetzer (2024) | ✅ OPEN copy — Cambridge institutional repository (publisher page Wiley) |
 | A04 | Di Mauro et al. (2018) | ✅ **full text held & verified** (resources/sources/A04.pdf) |
 | A05 | Wan et al. (2019) | ✅ **full text held & verified** (resources/sources/A05.pdf) |
-| A06 | Wiesmann et al. (2017) | ✅ OPEN copy — DiVA postprint (diva2:967745); note: postprint pagination differs from journal pages 15–42 |
+| A06 | Wiesmann et al. (2017) | ✅ OPEN — DiVA postprint; **full text held & verified** (resources/sources/A06.pdf); cite journal pagination only from the version of record |
 | A07 | Espíndola et al. (2023) | ✅ OPEN — MDPI (gold OA) |
 | A09 | Li et al. (2025) | ✅ OPEN (CC-BY, confirmed from PDF); **full text held & verified** (resources/sources/A09.pdf) |
 | A10 | Di Stefano & Fratocchi (2019) | ✅ OPEN — Sinergie OJS (OA journal) |
@@ -69,7 +69,7 @@ The thesis continues the accepted proposal: the title and the three research que
 ## Reliability status of the thesis content (summary)
 
 1. Every literature-based claim in Chapters 1–5 is calibrated to a recorded verification tag (DIRECT/PARTIAL/UNVERIFIED) in `research/source_notes/` and audited in `research/evidence_matrix.md` and the review-gate files. No claim exceeds its tag.
-2. Verification depth (updated 2026-07-15): **twenty-one sources now read at full text within this project** — A01, A02, A04, A05, A09, A11, A12, A13, A16, A17, A18, A19, A20, A21, A25, A29, C01, C03, C05, C06, M01 (PDFs stored in resources/sources/). One docx-derived claim was overturned by full text (A02's China attribution) and corrected throughout the thesis. Remaining notes rest on search-snippet evidence plus the author's earlier NotebookLM-assisted coding.
+2. Verification depth (updated 2026-07-15): **twenty-two sources now read at full text within this project** — A01, A02, A04, A05, A06, A09, A11, A12, A13, A16, A17, A18, A19, A20, A21, A25, A29, C01, C03, C05, C06, M01 (PDFs stored in resources/sources/). One docx-derived claim was overturned by full text (A02's China attribution) and corrected throughout the thesis. Remaining notes rest on search-snippet evidence plus the author's earlier NotebookLM-assisted coding.
 3. Known contradictions and unverifiable figures (A10 sample size; C03 percentages) remain excluded from the text. **A11's 11.64% figure is now verified at full text** (static barriers as share of TCA from low-cost countries; survey of 60 Polish firms) and may be used if wanted.
 4. No page-level citations exist anywhere; no direct quotations are used.
 5. The Asia-specific evidence base is transparently thin (two single-case studies) and the thesis says so in 4.1, 5.1, and 5.4.
