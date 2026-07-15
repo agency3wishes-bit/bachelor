@@ -59,7 +59,7 @@ Use PRISMA 2020's **two-arm flow**, which exists precisely for this situation:
 2. Set the custom year range 2013–2026; confirm sort by relevance.
 3. Run S1–S5 exactly as written; after each string, immediately record: exact string, approx. displayed count, number screened.
 4. For every candidate: check English language → full-text accessibility → peer-review status/publication type → manufacturing relevance → genuine-reshoring definition; log exclusions with reason codes.
-5. Log duplicates against the existing 33-source corpus (R6) and across strings (R7).
+5. Log duplicates against the existing 34-source corpus (R6) and across strings (R7).
 6. List any newly included study with full bibliographic details; do not add it to the thesis until it has been through the new-source assessment procedure (see `research/new_source_assessments.md` for the format).
 7. Save the completed log as `resources/update_search_log.md`; the PRISMA diagram and the 3.2 placeholder are completed only from this log.
 8. Do not estimate anything you failed to record — rerun the string instead.
