@@ -10,10 +10,11 @@ Working tracker (not part of the thesis text). Updated after the Author Response
 - ~~"Quality-assessment dimensions" terminology~~ → replaced with "evidence-classification dimensions" plus the author's interpretation-guidance sentence (§3.2).
 - ~~A10 sample-size contradiction~~ → resolved by exclusion: neither figure is used; only revisit if supervisor/examiner asks (then check the original article directly).
 - ~~Appendix B~~ → canonical file created at `thesis/appendices/Appendix_B_Coding_Table.md`; Chapter 4 keeps Table 1 plus a cross-reference.
+- ~~Final documented Google Scholar update search~~ → completed 2026-07-15, run live and interactively (author screened results, Claude classified duplicates/exclusions and did the bookkeeping). Three predefined strings, 102 records screened, 11 corpus sources independently rediscovered, 8 formal exclusions, 0 new inclusions. Logged in full at `resources/update_search_log.md`. Ch. 3 §3.2 placeholder replaced with the real results, plus an explicit timeline clarification (author's actual literature search began ~29 June 2026 and ran over several weeks; the 15 July session was a final documented verification pass, not the start of the search — this distinction is now stated directly in the thesis text to prevent misreading). Appendix A (PRISMA flow diagram) built at `thesis/appendices/Appendix_A_PRISMA_Flow.md`.
 
 ## Blocking items (placeholders remain in the text — do not estimate)
 
-1. **Final documented Google Scholar update search (Ch. 3, §3.2 placeholder).** Scope reduced 2026-07-15 to three strings (~15–20 minutes total), justified in `resources/update_search_protocol.md` §0 by Snyder's (2019) own endorsement of combining a documented database search with citation searching rather than requiring database-search saturation alone. Must record: exact search strings; any publication-year restriction; actual search date; approximate displayed result count; records actually screened; duplicates; full texts assessed; exclusions with reasons; newly included studies. Required to complete the PRISMA flow diagram (Appendix A). PRISMA flow documents the 21-study formal sample only; methodology sources are not counted; contextual sources reported separately.
+(none currently — see "Resolved" below)
 
 ## Standing constraints (unchanged)
 

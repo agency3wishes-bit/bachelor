@@ -1,19 +1,21 @@
 # Final Documented Google Scholar Update Search — Log (Final)
 
-Session conducted by the author, screened interactively with Claude across three strings. Protocol: `resources/update_search_protocol.md`. **All three strings screened to, or well past, target depth. One item still outstanding before this can be cited as the completed record — see "Status note" at the end.**
+Session conducted by the author, screened interactively with Claude across three strings, on **2026-07-15**. Protocol: `resources/update_search_protocol.md`.
+
+**Important timeline clarification (author-confirmed, 2026-07-15):** this document logs a single, specific verification/documentation search — three predefined strings, run and screened on 15 July 2026. It is **not** the beginning of the author's literature search, and this record must not be read as implying that. The author's actual literature search and source evaluation began around **29 June 2026** and continued over several weeks: sources were progressively identified, read in full, and evaluated for inclusion throughout that period, and the corpus (`resources/approved_source_corpus.md`) was substantially complete well before 15 July. The exact strings, dates, and result counts of that earlier, week-spanning process were not recorded prospectively and cannot be reconstructed (see Chapter 3 §3.2) — which is precisely why this separate, dated, three-string search exists: to give the methodology one search stage that is verifiably and prospectively documented, run as a final check after the corpus was already built, not as its starting point.
 
 ## Session settings
 
+- Search date: **2026-07-15**, all three strings, single session.
 - Browser: Safari, interface language Russian (Google Академия) — visible throughout the session's screenshots.
 - Year restriction: 2013–2026 confirmed applied (visible in the left-sidebar custom range on every screenshot, all three strings).
 - Incognito/private-window status: not explicitly confirmed by the author.
-- **Search date: not confirmed by the author.** One screenshot's system clock showed "Ср, 15 июля" (Wednesday, 15 July) in the macOS menu bar, consistent with the session's current date (2026-07-15), but this was not stated by the author as the deliberate search date for the record. **Insert the actual date only once the author confirms it — do not infer it from a screenshot timestamp.**
 
 ## Logging table
 
 | Field | S1 | S2 | S3 |
 |---|---|---|---|
-| Search date (YYYY-MM-DD) | **TBC — author to confirm (likely 2026-07-15, per a visible system clock, but not author-stated)** | **TBC — same as S1** | **TBC — same as S1** |
+| Search date (YYYY-MM-DD) | 2026-07-15 | 2026-07-15 | 2026-07-15 |
 | Exact string as entered | `"reshoring" OR "backshoring" barriers manufacturing` | `"reshoring" OR "backshoring" China OR Asia manufacturing` | `intitle:reshoring OR intitle:backshoring` |
 | Year restriction applied | 2013–2026 | 2013–2026 | 2013–2026 |
 | Approx. results displayed (GS header) | 10,400 | 14,300 | 1,660 |
@@ -55,6 +57,6 @@ Nothing below has been added to the corpus. Each would require full text and a c
 
 **Tate & Bals (2017), "Outsourcing/Offshoring Insights: Going Beyond Reshoring to Rightshoring," *International Journal of Physical Distribution & Logistics Management*, 47(2/3), 106–127** — this exact reference appeared in the author's **original, professor-rejected proposal**. It surfaced independently in String 3 (title sweep). This confirms the paper is real and correctly cited in the proposal — it was not one of the fabricated references — but it was never carried into the current corpus and is not cited anywhere in the thesis. No action needed; noted for the record only.
 
-## Status note — read before treating this as the final record
+## Status note
 
-**One item is still outstanding: the actual search date(s).** Everything else — strings, settings, screening depth, duplicate/exclusion counts, candidate list — is complete and drawn only from what was actually screened this session; nothing was estimated or invented. Once the author confirms the date (a single line is enough — e.g., "2026-07-15 for all three strings" or otherwise), this log is ready to drive Chapter 3 §3.2 and the PRISMA flow diagram in Appendix A.
+**Complete.** Search date confirmed by the author as 2026-07-15 for all three strings, with the timeline clarification above (search process began ~29 June 2026, this record documents only the later verification/update pass). This log is ready to drive Chapter 3 §3.2 and the PRISMA flow diagram in Appendix A.
