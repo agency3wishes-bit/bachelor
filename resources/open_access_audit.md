@@ -17,12 +17,12 @@ Desk audit of every corpus source's access status, based on the recorded access 
 | A10 | Di Stefano & Fratocchi (2019) | ✅ OPEN — Sinergie OJS (OA journal) |
 | A11 | Ocicka (2016) | ✅ OPEN — management-poland.com PDF; **full text held & verified** (resources/sources/A11.pdf) |
 | A12 | Stentoft et al. (2025) | ⚠ Springer page — confirm access route |
-| A13 | Pegoraro et al. (2022) | ✅ OPEN — PubMed Central copy |
+| A13 | Pegoraro et al. (2022) | ✅ OPEN — PMC; **full text held & verified** (resources/sources/A13.pdf) |
 | A14 | Pourhejazy & Ashby (2021) | ✅ OPEN — MDPI IJERPH (gold OA) |
 | A15 | Robinson & Hsieh (2016) | ✅ OPEN copy — SOAS eprints mirror (publisher page Springer) |
 | A16 | D'Ambrosio & Lavoratori (2025) | ✅ OPEN copy — Reading CentAUR repository (publisher page Springer) |
 | A17 | Bilbao-Ubillos et al. (2024) | ✅ OPEN — ERMBE gold OA; **full text held & verified** (resources/sources/A17.pdf) |
-| A18 | Pedroletti (2025) | ✅ OPEN copy — Uppsala DiVA (FULLTEXT02); publisher page ScienceDirect |
+| A18 | Pedroletti (2025) | ✅ OPEN copy — DiVA; **full text held & verified** (resources/sources/A18.pdf) |
 | A19 | Kamp & Gibaja (2021) | ✅ OPEN (CC-BY, confirmed from PDF); **full text held & verified** (resources/sources/A19.pdf) |
 | A20 | Mirzaei et al. (2021) | ✅ **full text held & verified** (resources/sources/A20.pdf) |
 | A21 | Sequeira et al. (2021) | ✅ **full text held & verified** (resources/sources/A21.pdf) |
@@ -36,7 +36,7 @@ Desk audit of every corpus source's access status, based on the recorded access 
 | A08 | Bolter & Robey (2020) | ✅ OPEN — Upjohn Institute PDF |
 | C01 | Yang (2016) | ⚠ Brill page — Bandung journal historically OA; confirm |
 | C02 | Xing et al. (2024) | ✅ OPEN — Nature HSSC (gold OA) |
-| C03 | Gao et al. (2022) | ⚠ Oxford Academic page — typically paywalled; confirm access route |
+| C03 | Gao et al. (2022) | ✅ **full text held & verified** (resources/sources/C03.pdf) |
 | C04 | Somoza Medina (2022) | ✅ OPEN — MDPI Land (gold OA) |
 | C05 | McCully & Simola (2024) | ✅ OPEN — EconStor; **full text held & verified** (resources/sources/C05.pdf) |
 | C06 | Barbieri et al. (2020) | ✅ OPEN in practice — author-held PDF (verified: read in full) |
@@ -46,7 +46,7 @@ Desk audit of every corpus source's access status, based on the recorded access 
 
 | ID | Source | Access status |
 |---|---|---|
-| M01 | Snyder (2019) | ✅ OPEN — JBR article is gold OA |
+| M01 | Snyder (2019) | ✅ OPEN — JBR gold OA; **full text held & verified** (resources/sources/M01.pdf) |
 | M02 | Thomas & Harden (2008) | ✅ OPEN — BMC (gold OA) |
 | M03/M05 | Page et al. (2021) ×2 | ✅ OPEN — BMJ (OA) |
 | M04 | Mayring (2014) | ✅ OPEN — open monograph (author-confirmed PDF; stable URL still to be inserted) |
@@ -60,13 +60,13 @@ Desk audit of every corpus source's access status, based on the recorded access 
 
 ## Bottom line
 
-- **No paywalled-only source is load-bearing without an identified open copy**, except the ⚠ items above (now 4 formal-sample studies: A02, A04, A05, A12; plus 2 contextual: C01, C03). For each ⚠ item the author should record, in one line each, where the full text was obtained (institutional repository, author copy, ResearchGate, journal OA status at the time). This protects the Methodology's "full text accessible" statement.
+- **No paywalled-only source is load-bearing without an identified open copy**, except the ⚠ items above (now 4 formal-sample studies: A02, A04, A05, A12; plus 1 contextual: C01). For each ⚠ item the author should record, in one line each, where the full text was obtained (institutional repository, author copy, ResearchGate, journal OA status at the time). This protects the Methodology's "full text accessible" statement.
 - If any ⚠ source turns out to have been assessed at abstract level only, it must be reclassified or removed — Chapter 3's eligibility statement depends on it.
 
 ## Reliability status of the thesis content (summary)
 
 1. Every literature-based claim in Chapters 1–5 is calibrated to a recorded verification tag (DIRECT/PARTIAL/UNVERIFIED) in `research/source_notes/` and audited in `research/evidence_matrix.md` and the review-gate files. No claim exceeds its tag.
-2. Verification depth (updated 2026-07-15): **eleven sources now read at full text within this project** — A01, A09, A11, A17, A19, A20, A21, A25, A29, C05, C06 (PDFs stored in resources/sources/). Remaining notes rest on search-snippet evidence plus the author's earlier NotebookLM-assisted coding.
+2. Verification depth (updated 2026-07-15): **fifteen sources now read at full text within this project** — A01, A09, A11, A13, A17, A18, A19, A20, A21, A25, A29, C03, C05, C06, M01 (PDFs stored in resources/sources/). Remaining notes rest on search-snippet evidence plus the author's earlier NotebookLM-assisted coding.
 3. Known contradictions and unverifiable figures (A10 sample size; C03 percentages) remain excluded from the text. **A11's 11.64% figure is now verified at full text** (static barriers as share of TCA from low-cost countries; survey of 60 Polish firms) and may be used if wanted.
 4. No page-level citations exist anywhere; no direct quotations are used.
 5. The Asia-specific evidence base is transparently thin (two single-case studies) and the thesis says so in 4.1, 5.1, and 5.4.
