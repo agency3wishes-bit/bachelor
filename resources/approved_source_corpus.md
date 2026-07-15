@@ -482,7 +482,7 @@ Auto-extracted from `Final_Source_Classification_33.xlsx`. This is the approved 
 - **Use in barrier synthesis:** No — methodology only
 - **Primary thesis chapters:** Methodology
 - **Inclusion / exclusion rationale:** Supports systematic rule-bound coding and the hybrid deductive–inductive category-development procedure.
-- **Access / source link:** Open PDF confirmed by the user; final stable URL to be inserted
+- **Access / source link:** Open PDF confirmed by the user; final stable URL to be inserted [RESOLVED 2026-07-15, full-text verified from the SSOAR copy itself: https://nbn-resolving.org/urn:nbn:de:0168-ssoar-395173 — use this URL in the reference list]
 
 ### M05 — Page et al. (2021) — PRISMA Explanation
 - **Year:** 2021
