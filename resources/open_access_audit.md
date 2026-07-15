@@ -62,6 +62,10 @@ Desk audit of every corpus source's access status, based on the recorded access 
 
 - **All access flags are now cleared.** Every formal-sample and contextual source is either published open access, has an identified open repository copy, or is held as a full-text PDF in `resources/sources/` — the Methodology's "full text accessible" statement is fully covered.
 
+## Source-existence statement (proposal continuity)
+
+The thesis continues the accepted proposal: the title and the three research questions are preserved verbatim throughout. The proposal's original source list was rejected by the supervisor because it contained AI-generated (non-existent) references; the present corpus replaces it entirely. **Every source in the current corpus has been confirmed to exist**: 21 sources are held as full-text PDFs in `resources/sources/` and were read and verified within this project; the remaining sources are confirmed via their publisher or repository records (DOI, journal, volume/issue, author list). No reference in the thesis is unverifiable, and no source from the rejected proposal list was carried over.
+
 ## Reliability status of the thesis content (summary)
 
 1. Every literature-based claim in Chapters 1–5 is calibrated to a recorded verification tag (DIRECT/PARTIAL/UNVERIFIED) in `research/source_notes/` and audited in `research/evidence_matrix.md` and the review-gate files. No claim exceeds its tag.
