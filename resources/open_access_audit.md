@@ -1,0 +1,71 @@
+# Open-Access and Reliability Audit — Full Corpus (2026-07-14)
+
+Desk audit of every corpus source's access status, based on the recorded access links and the source notes. Publisher pages could not be fetched from this environment (network-restricted), so statuses are classified by link type and known repository copies; items marked ⚠ need the author's one-line confirmation of where the full text was actually accessed.
+
+## Formal analytical sample (21)
+
+| ID | Source | Access status |
+|---|---|---|
+| A01 | Pedroletti & Ciabuschi (2023) | ✅ OPEN — Uppsala DiVA full-text PDF |
+| A02 | Boffelli et al. (2021) | ⚠ Springer page — confirm access route (OA status of this OMR article unverified) |
+| A03 | Tsai & Urmetzer (2024) | ✅ OPEN copy — Cambridge institutional repository (publisher page Wiley) |
+| A04 | Di Mauro et al. (2018) | ⚠ ScienceDirect page — typically paywalled; confirm access route |
+| A05 | Wan et al. (2019) | ⚠ ScienceDirect page — confirm access route |
+| A06 | Wiesmann et al. (2017) | ✅ OPEN copy — DiVA postprint (diva2:967745); note: postprint pagination differs from journal pages 15–42 |
+| A07 | Espíndola et al. (2023) | ✅ OPEN — MDPI (gold OA) |
+| A09 | Li et al. (2025) | ⚠ Emerald page — confirm access route |
+| A10 | Di Stefano & Fratocchi (2019) | ✅ OPEN — Sinergie OJS (OA journal) |
+| A11 | Ocicka (2016) | ✅ OPEN — management-poland.com PDF |
+| A12 | Stentoft et al. (2025) | ⚠ Springer page — confirm access route |
+| A13 | Pegoraro et al. (2022) | ✅ OPEN — PubMed Central copy |
+| A14 | Pourhejazy & Ashby (2021) | ✅ OPEN — MDPI IJERPH (gold OA) |
+| A15 | Robinson & Hsieh (2016) | ✅ OPEN copy — SOAS eprints mirror (publisher page Springer) |
+| A16 | D'Ambrosio & Lavoratori (2025) | ✅ OPEN copy — Reading CentAUR repository (publisher page Springer) |
+| A17 | Bilbao-Ubillos et al. (2024) | ✅ OPEN — ERMBE (Elsevier gold OA journal) |
+| A18 | Pedroletti (2025) | ✅ OPEN copy — Uppsala DiVA (FULLTEXT02); publisher page ScienceDirect |
+| A19 | Kamp & Gibaja (2021) | ⚠ Springer page — confirm access route |
+| A20 | Mirzaei et al. (2021) | ✅ OPEN copies indexed (PMC/DiVA); confirm which was used |
+| A21 | Sequeira et al. (2021) | ⚠ Emerald page — confirm access route (decision-tools use only; low stakes) |
+| A29 | Heikkilä et al. (2018) | ⚠ ResearchGate author-shared PDF — accessible, but confirm this was the copy used |
+
+## Contextual/policy sources (8)
+
+| ID | Source | Access status |
+|---|---|---|
+| A08 | Bolter & Robey (2020) | ✅ OPEN — Upjohn Institute PDF |
+| C01 | Yang (2016) | ⚠ Brill page — Bandung journal historically OA; confirm |
+| C02 | Xing et al. (2024) | ✅ OPEN — Nature HSSC (gold OA) |
+| C03 | Gao et al. (2022) | ⚠ Oxford Academic page — typically paywalled; confirm access route |
+| C04 | Somoza Medina (2022) | ✅ OPEN — MDPI Land (gold OA) |
+| C05 | McCully & Simola (2024) | ✅ OPEN — EconStor PDF |
+| C06 | Barbieri et al. (2020) | ✅ OPEN in practice — author-held PDF (verified: read in full) |
+| — | (A14 counted in formal sample above) | |
+
+## Methodology sources (5)
+
+| ID | Source | Access status |
+|---|---|---|
+| M01 | Snyder (2019) | ✅ OPEN — JBR article is gold OA |
+| M02 | Thomas & Harden (2008) | ✅ OPEN — BMC (gold OA) |
+| M03/M05 | Page et al. (2021) ×2 | ✅ OPEN — BMJ (OA) |
+| M04 | Mayring (2014) | ✅ OPEN — open monograph (author-confirmed PDF; stable URL still to be inserted) |
+
+## Theory sources (2 — approved under the library-access criterion, not the OA rule)
+
+| ID | Source | Access status |
+|---|---|---|
+| T01 | Williamson (1985) | Library-accessible book (Internet Archive controlled lending; university holdings) — not OA, per the approval terms |
+| T02 | Barney (1991) | ⚠ SAGE — typically paywalled; library-accessible. Approved on that basis; not subject to the OA-only rule for studies |
+
+## Bottom line
+
+- **No paywalled-only source is load-bearing without an identified open copy**, except the ⚠ items above (9 studies + 2 contextual). For each ⚠ item the author should record, in one line each, where the full text was obtained (institutional repository, author copy, ResearchGate, journal OA status at the time). This protects the Methodology's "full text accessible" statement.
+- If any ⚠ source turns out to have been assessed at abstract level only, it must be reclassified or removed — Chapter 3's eligibility statement depends on it.
+
+## Reliability status of the thesis content (summary)
+
+1. Every literature-based claim in Chapters 1–5 is calibrated to a recorded verification tag (DIRECT/PARTIAL/UNVERIFIED) in `research/source_notes/` and audited in `research/evidence_matrix.md` and the review-gate files. No claim exceeds its tag.
+2. Verification depth is honest but limited: only C06 has been read at full text within this project; all other notes rest on search-snippet evidence plus the author's earlier NotebookLM-assisted coding (secondary, but derived from actual PDFs).
+3. Known contradictions and unverifiable figures (A10 sample size; A11 11.64%; C03 percentages) are excluded from the text.
+4. No page-level citations exist anywhere; no direct quotations are used.
+5. The Asia-specific evidence base is transparently thin (two single-case studies) and the thesis says so in 4.1, 5.1, and 5.4.
