@@ -18,7 +18,7 @@ Working tracker (not part of the thesis text). Updated after the Author Response
 ## Standing constraints (unchanged)
 
 2. No verified page numbers for any source; no direct quotations or page references until the original PDFs are checked. Paraphrases without page numbers are acceptable under APA 7.
-3. A11's "11.64% of TCA" figure and C03's country-level reshoring percentages stay absent unless verified in the original full texts (definitions, denominators, context).
+3. **A11's "11.64%" figure is now VERIFIED at full text** (2026-07-15: static barriers = 11.64% of the Total Cost of Acquisition from low-cost countries; author's survey of 60 large Polish firms; decision-stage driver framing) — available for use if wanted. C03's country-level percentages remain unverified and absent. A11 page range corrected to 103–117 (PDF-verified; corpus said 103–118).
 4. Page et al. (2021a/2021b) suffixes provisional until the final alphabetised APA 7 reference list is assembled; then enforce consistency across in-text citations, Chapter 3, appendices, and the reference list.
 
 ## Formatting items (assembly phase)

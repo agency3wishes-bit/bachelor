@@ -78,7 +78,7 @@ Core empirical: **A02, A09, A13, A18** (L1) · Supporting empirical: **A04, A15,
 4. **No page numbers exist for any source.** A06's NotebookLM pages come from a postprint; A18's (35/49/58/80) are flagged as not real journal pages. No in-text page citation until PDFs are checked.
 5. **Tranfield, Denyer & Smart (2003)** is suggested by the docx as a methods citation but is **not in the approved corpus** — do not cite.
 6. **TCE/RBV attribution:** for A01, A02, A06, A07, A09, A15, A16, A17, A18 the TCE/RBV mapping is the thesis's own interpretive overlay, not the papers' declared frameworks (A09 uses OLI; A18 uses network/internationalization theory; A16 builds on Antràs). Discussion must attribute theories to authors only where confirmed, and own the interpretive layer explicitly.
-7. **A11 "11.64% of TCA"** figure: still unverified by both passes — do not cite.
+7. **A11 "11.64% of TCA"** figure: VERIFIED at full text (2026-07-15) — static barriers = 11.64% of TCA from low-cost countries, author's survey of 60 large Polish firms (dynamic 47.39%, hidden 40.97%). May be cited as decision-stage driver evidence with that exact framing; never as an implementation barrier.
 
 ## Drivers explicitly NOT to be coded as barriers (protocol §4E guardrail, aggregated from source notes)
 
