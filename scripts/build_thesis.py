@@ -284,10 +284,12 @@ for ch in CHAPTERS:
     doc.add_page_break()
 
 render_blocks(doc, REFS.read_text())
-doc.add_page_break()
-render_blocks(doc, APP_A.read_text())
-doc.add_page_break()
-render_blocks(doc, APP_B.read_text(), table_font=9)
+# Appendices excluded from the submission build pending the supervisor's answer;
+# re-enable the three lines below to restore them (files remain in thesis/appendices/).
+# doc.add_page_break()
+# render_blocks(doc, APP_A.read_text())
+# doc.add_page_break()
+# render_blocks(doc, APP_B.read_text(), table_font=9)
 
 add_page_numbers(doc)
 doc.save(str(T/'FINAL_THESIS.docx'))
