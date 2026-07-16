@@ -173,7 +173,10 @@ def portrait(section):
         section.page_width, section.page_height = section.page_height, section.page_width
     section.top_margin = section.bottom_margin = section.left_margin = section.right_margin = Inches(1)
 
+CAPTION_RE = re.compile(r'^\*\*Table \d+\.\*\*')
+
 def render_blocks(doc, text, landscape_tables=False, table_font=10):
+    pending_caption = None
     for kind, payload in parse_md_blocks(text):
         if kind == 'h1':
             doc.add_heading(payload, level=1)
@@ -191,13 +194,28 @@ def render_blocks(doc, text, landscape_tables=False, table_font=10):
             header, rows = payload
             if landscape_tables:
                 s = doc.add_section(WD_SECTION.NEW_PAGE); landscape(s)
+                if pending_caption:
+                    p = doc.add_paragraph(); add_runs(p, pending_caption)
+                    pending_caption = None
                 add_table(doc, header, rows, font_pt=table_font)
                 s2 = doc.add_section(WD_SECTION.NEW_PAGE); portrait(s2)
             else:
+                if pending_caption:
+                    p = doc.add_paragraph(); add_runs(p, pending_caption)
+                    pending_caption = None
                 add_table(doc, header, rows, font_pt=table_font)
         else:
+            if landscape_tables and CAPTION_RE.match(payload):
+                # hold the caption so it lands inside the landscape section with its table
+                pending_caption = payload
+                continue
+            if pending_caption:
+                p = doc.add_paragraph(); add_runs(p, pending_caption)
+                pending_caption = None
             p = doc.add_paragraph()
             add_runs(p, payload)
+    if pending_caption:
+        p = doc.add_paragraph(); add_runs(p, pending_caption)
 
 def add_toc_field(doc):
     p = doc.add_paragraph()
