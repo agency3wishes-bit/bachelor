@@ -1,8 +1,6 @@
 # Appendix A — PRISMA 2020 Flow Diagram
 
-Constructed per PRISMA 2020's two-arm flow structure (Page, McKenzie, et al., 2021; Page, Moher, et al., 2021), as justified in Chapter 3, §3.2. Arm 1 reports the documented update search (15 July 2026); Arm 2 reports the reconstructable full-text stage of the original, undocumented exploratory search. The diagram documents the 21-study formal analytical sample only; methodology sources (n = 5) and contextual sources (n = 8) are retained for the thesis but are not "included studies" in the PRISMA sense and are reported separately beneath the diagram, consistent with Chapter 3, §3.2.
-
-Source data: `resources/update_search_log.md` (Arm 1) and `resources/approved_source_corpus.md` / `research/new_source_assessments.md` (Arm 2, reconstructable stages only). No historical count or date from the original exploratory phase is estimated.
+Constructed per PRISMA 2020's two-arm flow structure (Page, McKenzie, et al., 2021; Page, Moher, et al., 2021), as described in Chapter 3, §3.2. Arm 1 reports the documented update search (15 July 2026); Arm 2 reports the reconstructable full-text stage of the original exploratory search. The diagram documents the 21-study formal analytical sample only; methodology sources (n = 5) and contextual sources (n = 8) are retained for the thesis but are not "included studies" in the PRISMA sense and are reported separately beneath the diagram. No count or date from the original exploratory phase is estimated.
 
 ---
 
@@ -12,15 +10,14 @@ Source data: `resources/update_search_log.md` (Arm 1) and `resources/approved_so
 Records identified through database searching
 (Google Scholar, 3 predefined strings, 15 July 2026)
                     n = 102
-        (36 + 40 + 26 screened across S1/S2/S3;
+        (36 + 40 + 26 screened across the three strings;
    displayed result counts of 10,400 / 14,300 / 1,660
      reflect database breadth, not records screened)
                        │
                        ▼
         Duplicate records removed
-   (already present in the approved corpus)
+   (already present in the review corpus)
                     n = 11
-   [A01, A02, A03, A06, A08, A09, A10, A12, A13, A21, C06]
                        │
                        ▼
               Records screened
@@ -29,14 +26,14 @@ Records identified through database searching
                        ▼
          Records excluded, with reason
                     n = 8
-   R2 (nearshoring, not genuine reshoring): 1
-   R5 (non-peer-reviewed / inaccessible / low-credibility venue): 2
-   R1 (macro/policy-level, not firm-level): 5
+   Nearshoring, not genuine reshoring: 1
+   Non-peer-reviewed / inaccessible / low-credibility venue: 2
+   Macro/policy-level, not firm-level: 5
                        │
                        ▼
    Records not further assessed within thesis scope
-    (candidate shortlist retained, not pursued to
-     full text or formal new-source assessment)
+    (topically adjacent records noted but not pursued
+             to full-text assessment)
                     n = 83
                        │
                        ▼
@@ -57,21 +54,19 @@ Records identified via other methods
     policy/decision-support + 5 methodology)
                        │
                        ▼
-   Reports individually assessed and excluded
-   through the documented new-source procedure
-        (research/new_source_assessments.md)
+     Reports individually assessed and excluded
                     n = 4
-   NS1 — not genuine reshoring (China+1/re-offshoring pattern)
-   NS2 — closed access, could not be verified open access
-   NS3 — preprint, not peer-reviewed
-   NS4 — duplicate of an already-included source (A08)
+   Not genuine reshoring (China+1/re-offshoring pattern): 1
+   Closed access (full text not openly accessible): 1
+   Preprint, not peer-reviewed: 1
+   Duplicate of an already-included source: 1
                        │
                        ▼
       Studies included in formal analytical sample
                     n = 21
 ```
 
-† Footnote: records identified via the original exploratory search process (Arm 2) were not counted prospectively, because that phase preceded the decision to adopt a documented search protocol; the update search (Arm 1) provides the documented, reproducible search record for this thesis. No number is estimated for this cell.
+† Records identified via the original exploratory search process (Arm 2) were not counted prospectively, because that phase preceded the adoption of a documented search protocol; the update search (Arm 1) provides the documented, reproducible search record for this thesis.
 
 ---
 
@@ -84,10 +79,6 @@ Bilbao-Ubillos et al. (2024); Boffelli et al. (2021); D'Ambrosio and Lavoratori 
 **Additional sources retained outside the formal analytical sample** (not "included studies" in the PRISMA sense, reported here for transparency):
 - Contextual/policy/decision-support sources: n = 8
 - Methodology sources: n = 5
-- Primary theoretical sources (Williamson, 1985; Barney, 1991), approved on a separate library-access basis, used only in §2.2 and §5.2: n = 2 — not part of this flow diagram at all.
+- Primary theoretical sources (Williamson, 1985; Barney, 1991), used only in Sections 2.2 and 5.2: n = 2 — not part of this flow diagram.
 
 **Corpus total: n = 36.**
-
-## Note on the Arm 1 candidate shortlist
-
-The 83 records in Arm 1 that were screened but not individually excluded with a formal reason code were set aside within the scope of this thesis rather than misclassified with an invented reason. A ranked shortlist of the more topically relevant among them — headed by Stentoft et al. (2016), Dachs et al. (2019), Ancarani & Di Mauro (2018), and Zhai et al. (2016) — is retained in `resources/update_search_log.md` as a resource for potential future extension of this review. None has been added to the corpus; any future addition would require full-text retrieval and a completed entry in `research/new_source_assessments.md`, per the same procedure already used for C06.

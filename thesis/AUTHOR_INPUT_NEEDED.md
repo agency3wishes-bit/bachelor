@@ -31,6 +31,8 @@ Working tracker (not part of the thesis text). Updated after the Author Response
 
 ## Formatting items (assembly phase)
 
-5. ~~Table 1 (Ch. 4)~~ → resolved 2026-07-15: split into four category-specific tables (Tables 1–4), one per barrier category, each placed in its own section (4.2–4.5) instead of one large table in 4.1. Use **landscape orientation** for all four in the Word export.
-6. Abstract is **provisional** (drafted before Chapter 6 exists) — recheck after Discussion and Conclusion are final.
-7. Acknowledgements contain placeholders ([Supervisor's name], etc.) for the author to personalise.
+5. ~~Table 1 (Ch. 4)~~ → resolved 2026-07-15: split into four category-specific tables (Tables 1–4), one per section (4.2–4.5); all four set in **landscape** in `thesis/FINAL_THESIS.docx`.
+6. ~~Abstract~~ → finalised 2026-07-15 after Chapter 6 was completed and author review (182 words).
+7. **Acknowledgements still contain placeholders** ([Supervisor's name], [Institution or programme], [Family member or friend]) — the author must personalise these in `thesis/0_Front_Matter.md` (and they carry into `FINAL_THESIS.docx` on rebuild).
+8. **FINAL_THESIS.docx title page**: the degree-programme line is a placeholder ("[Degree programme as on the student record sheet]") — the author must fill in the official programme name. Name (Serdiuk Aleksandra), ID (12045860), "Vienna, July 2026", and supervisor (Dr. Aveed Raha) are filled from the approved proposal.
+9. **Table of Contents in FINAL_THESIS.docx** is a Word field: open the document, right-click the ToC line, and choose "Update Field" to populate it with headings and page numbers.

@@ -4,58 +4,58 @@
 
 | Theme | Framework category | Source | Evidence type |
 |---|---|---|---|
-| 1.1 | Asset/Capability | A13 (Pegoraro et al., 2022) | Direct empirical (single case, China→UK) |
-| 1.1 | Asset/Capability | A09 (Li et al., 2025) | Direct empirical (general Nordic/Swedish) |
-| 1.1 | Asset/Capability | A04 (Di Mauro et al., 2018) | Direct empirical (limited; partial China attribution) |
-| 1.1 | Asset/Capability | A20 (Mirzaei et al., 2021) | Direct empirical (general Swedish) |
-| 1.1 | Asset/Capability | A06 (Wiesmann et al., 2017) | Review |
-| 1.1 | Asset/Capability | A11 (Ocicka, 2016) | Review |
-| 1.1 | Asset/Capability | A17 (Bilbao-Ubillos et al., 2024) | Review |
-| 1.1 | Asset/Capability | A16 (D'Ambrosio & Lavoratori, 2025) | Conceptual |
-| 1.1 | Asset/Capability | A25 (Gupta et al., 2023) | Conceptual |
-| 1.2 | Asset/Capability | A13 (Pegoraro et al., 2022) | Direct empirical (single case, China→UK) |
-| 1.2 | Asset/Capability | A09 (Li et al., 2025) | Direct empirical (general Nordic/Swedish) |
-| 1.2 | Asset/Capability | A20 (Mirzaei et al., 2021) | Direct empirical (general Swedish) |
-| 1.2 | Asset/Capability | A06 (Wiesmann et al., 2017) | Review |
-| 1.2 | Asset/Capability | A16 (D'Ambrosio & Lavoratori, 2025) | Conceptual |
-| 1.2 | Asset/Capability | A25 (Gupta et al., 2023) | Conceptual |
-| 1.3 | Asset/Capability | A18 (Pedroletti, 2025) | Direct empirical (single case, China→Italy) |
-| 1.3 | Asset/Capability | A09 (Li et al., 2025) | Direct empirical (general Nordic/Swedish) |
-| 1.3 | Asset/Capability | A06 (Wiesmann et al., 2017) | Review |
-| 1.3 | Asset/Capability | A17 (Bilbao-Ubillos et al., 2024) | Review |
-| 1.3 | Asset/Capability | A25 (Gupta et al., 2023) | Conceptual |
-| 1.4 | Asset/Capability | A17 (Bilbao-Ubillos et al., 2024) | Review |
-| 1.4 | Asset/Capability | A16 (D'Ambrosio & Lavoratori, 2025) | Conceptual (core argument) |
-| 1.5 | Asset/Capability | A13 (Pegoraro et al., 2022) | Direct empirical (single case, China→UK) |
-| 1.5 | Asset/Capability | A17 (Bilbao-Ubillos et al., 2024) | Review |
-| 2.1 | Cost/Operational | A20 (Mirzaei et al., 2021) | Direct empirical (general Swedish) |
-| 2.1 | Cost/Operational | A04 (Di Mauro et al., 2018) | Direct empirical (limited; partial China attribution) |
-| 2.1 | Cost/Operational | A06 (Wiesmann et al., 2017) | Review |
-| 2.1 | Cost/Operational | A11 (Ocicka, 2016) | Review |
-| 2.1 | Cost/Operational | A25 (Gupta et al., 2023) | Conceptual |
-| 2.2 | Cost/Operational | A09 (Li et al., 2025) | Direct empirical (only where actual cost difficulties occurred) |
-| 2.2 | Cost/Operational | A07 (Espíndola et al., 2023) | Review |
-| 2.2 | Cost/Operational | A16 (D'Ambrosio & Lavoratori, 2025) | Conceptual |
-| 2.2 | Cost/Operational | A25 (Gupta et al., 2023) | Conceptual |
-| 2.3 | Cost/Operational | A20 (Mirzaei et al., 2021) | Direct empirical (labour cost named by all five firms) |
-| 2.3 | Cost/Operational | A09 (Li et al., 2025) | Direct empirical (general Nordic/Swedish) |
-| 2.3 | Cost/Operational | A16 (D'Ambrosio & Lavoratori, 2025) | Conceptual |
-| 2.4 | Cost/Operational | A18 (Pedroletti, 2025) | Direct empirical (single case, China→Italy) |
-| 2.5 | Cost/Operational | A02 (Boffelli et al., 2021) | Direct empirical (top-rated barrier in study; partial China attribution) |
-| 3.1 | Cultural/Organisational | A02 (Boffelli et al., 2021) | Direct empirical (partial China attribution) |
-| 3.1 | Cultural/Organisational | A06 (Wiesmann et al., 2017) | Review |
-| 3.1 | Cultural/Organisational | A16 (D'Ambrosio & Lavoratori, 2025) | Conceptual |
-| 3.2 | Cultural/Organisational | A20 (Mirzaei et al., 2021) | Direct empirical (general Swedish) |
-| 3.3 | Cultural/Organisational | A18 (Pedroletti, 2025) | Direct empirical (single case, China→Italy) |
-| 3.4 | Cultural/Organisational | A01 (Pedroletti & Ciabuschi, 2023) | Review (reported as under-researched dimension / gap) |
-| 3.5 | Cultural/Organisational | A17 (Bilbao-Ubillos et al., 2024) | Review |
-| 3.5 | Cultural/Organisational | A07 (Espíndola et al., 2023) | Review |
-| 3.5 | Cultural/Organisational | A25 (Gupta et al., 2023) | Conceptual |
-| 3.5 | Cultural/Organisational | A16 (D'Ambrosio & Lavoratori, 2025) | Conceptual |
-| 4.1 | Regulatory/Institutional | A09 (Li et al., 2025) | Direct empirical (general; "Asian host" framing is interpretive gloss) |
-| 4.1 | Regulatory/Institutional | A10 (Di Stefano & Fratocchi, 2019) | Review |
-| 4.2 | Regulatory/Institutional | A10 (Di Stefano & Fratocchi, 2019) | Review (provisional; workforce-resistance item traces to Engström et al.) |
-| 4.3 | Regulatory/Institutional | A20 (Mirzaei et al., 2021) | Direct empirical (education/industry skills mismatch) |
-| 4.3 | Regulatory/Institutional | A25 (Gupta et al., 2023) | Conceptual |
+| 1.1 | Asset/Capability | Pegoraro et al. (2022) | Direct empirical (single case, China→UK) |
+| 1.1 | Asset/Capability | Li et al. (2025) | Direct empirical (general Nordic/Swedish) |
+| 1.1 | Asset/Capability | Di Mauro et al. (2018) | Direct empirical (limited; partial China attribution) |
+| 1.1 | Asset/Capability | Mirzaei et al. (2021) | Direct empirical (general Swedish) |
+| 1.1 | Asset/Capability | Wiesmann et al. (2017) | Review |
+| 1.1 | Asset/Capability | Ocicka (2016) | Review |
+| 1.1 | Asset/Capability | Bilbao-Ubillos et al. (2024) | Review |
+| 1.1 | Asset/Capability | D'Ambrosio & Lavoratori (2025) | Conceptual |
+| 1.1 | Asset/Capability | Gupta et al. (2023) | Conceptual |
+| 1.2 | Asset/Capability | Pegoraro et al. (2022) | Direct empirical (single case, China→UK) |
+| 1.2 | Asset/Capability | Li et al. (2025) | Direct empirical (general Nordic/Swedish) |
+| 1.2 | Asset/Capability | Mirzaei et al. (2021) | Direct empirical (general Swedish) |
+| 1.2 | Asset/Capability | Wiesmann et al. (2017) | Review |
+| 1.2 | Asset/Capability | D'Ambrosio & Lavoratori (2025) | Conceptual |
+| 1.2 | Asset/Capability | Gupta et al. (2023) | Conceptual |
+| 1.3 | Asset/Capability | Pedroletti (2025) | Direct empirical (single case, China→Italy) |
+| 1.3 | Asset/Capability | Li et al. (2025) | Direct empirical (general Nordic/Swedish) |
+| 1.3 | Asset/Capability | Wiesmann et al. (2017) | Review |
+| 1.3 | Asset/Capability | Bilbao-Ubillos et al. (2024) | Review |
+| 1.3 | Asset/Capability | Gupta et al. (2023) | Conceptual |
+| 1.4 | Asset/Capability | Bilbao-Ubillos et al. (2024) | Review |
+| 1.4 | Asset/Capability | D'Ambrosio & Lavoratori (2025) | Conceptual (core argument) |
+| 1.5 | Asset/Capability | Pegoraro et al. (2022) | Direct empirical (single case, China→UK) |
+| 1.5 | Asset/Capability | Bilbao-Ubillos et al. (2024) | Review |
+| 2.1 | Cost/Operational | Mirzaei et al. (2021) | Direct empirical (general Swedish) |
+| 2.1 | Cost/Operational | Di Mauro et al. (2018) | Direct empirical (limited; partial China attribution) |
+| 2.1 | Cost/Operational | Wiesmann et al. (2017) | Review |
+| 2.1 | Cost/Operational | Ocicka (2016) | Review |
+| 2.1 | Cost/Operational | Gupta et al. (2023) | Conceptual |
+| 2.2 | Cost/Operational | Li et al. (2025) | Direct empirical (only where actual cost difficulties occurred) |
+| 2.2 | Cost/Operational | Espíndola et al. (2023) | Review |
+| 2.2 | Cost/Operational | D'Ambrosio & Lavoratori (2025) | Conceptual |
+| 2.2 | Cost/Operational | Gupta et al. (2023) | Conceptual |
+| 2.3 | Cost/Operational | Mirzaei et al. (2021) | Direct empirical (labour cost named by all five firms) |
+| 2.3 | Cost/Operational | Li et al. (2025) | Direct empirical (general Nordic/Swedish) |
+| 2.3 | Cost/Operational | D'Ambrosio & Lavoratori (2025) | Conceptual |
+| 2.4 | Cost/Operational | Pedroletti (2025) | Direct empirical (single case, China→Italy) |
+| 2.5 | Cost/Operational | Boffelli et al. (2021) | Direct empirical (top-rated barrier in study; partial China attribution) |
+| 3.1 | Cultural/Organisational | Boffelli et al. (2021) | Direct empirical (partial China attribution) |
+| 3.1 | Cultural/Organisational | Wiesmann et al. (2017) | Review |
+| 3.1 | Cultural/Organisational | D'Ambrosio & Lavoratori (2025) | Conceptual |
+| 3.2 | Cultural/Organisational | Mirzaei et al. (2021) | Direct empirical (general Swedish) |
+| 3.3 | Cultural/Organisational | Pedroletti (2025) | Direct empirical (single case, China→Italy) |
+| 3.4 | Cultural/Organisational | Pedroletti & Ciabuschi (2023) | Review (reported as under-researched dimension / gap) |
+| 3.5 | Cultural/Organisational | Bilbao-Ubillos et al. (2024) | Review |
+| 3.5 | Cultural/Organisational | Espíndola et al. (2023) | Review |
+| 3.5 | Cultural/Organisational | Gupta et al. (2023) | Conceptual |
+| 3.5 | Cultural/Organisational | D'Ambrosio & Lavoratori (2025) | Conceptual |
+| 4.1 | Regulatory/Institutional | Li et al. (2025) | Direct empirical (general; China named among affected hosts) |
+| 4.1 | Regulatory/Institutional | Di Stefano & Fratocchi (2019) | Review |
+| 4.2 | Regulatory/Institutional | Di Stefano & Fratocchi (2019) | Review (limited, context-dependent evidence) |
+| 4.3 | Regulatory/Institutional | Mirzaei et al. (2021) | Direct empirical (education/industry skills mismatch) |
+| 4.3 | Regulatory/Institutional | Gupta et al. (2023) | Conceptual |
 
-*Appendix B notes:* (i) A03 (Tsai & Urmetzer, 2024) appears in the formal analytical sample but contributes no barrier evidence and is therefore absent from this table. (ii) A15 contributes no barrier-theme entry: its docx-coded labour-migration item was disconfirmed at full text (2026-07-15), and its skills/machinery content was confirmed absent — the source is driver/strategic-renewal evidence only. (iii) Themes 1.4, 3.4, 3.5, and 4.2 have no direct empirical source — this is reported honestly and not filled by promoting review or conceptual evidence to empirical status.
+*Appendix B notes:* (i) Tsai and Urmetzer (2024) appears in the formal analytical sample but serves terminology and framework purposes only and therefore has no barrier-theme entry. (ii) Robinson and Hsieh (2016) likewise has no barrier-theme entry: it contributes driver and strategic-renewal evidence rather than implementation-barrier evidence. (iii) Themes 1.4, 3.4, 3.5, and 4.2 have no direct empirical source; they rest on review and conceptual evidence only, as recorded above.

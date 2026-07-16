@@ -36,7 +36,7 @@ On the home side, institutional frictions take a different form. Mirzaei et al. 
 
 | Barrier theme | Direct empirical | Review | Conceptual | Asia-specific status |
 |---|---|---|---|---|
-| Organisational readiness, behavioural biases, learning-by-trial | Boffelli et al. (2021) | Wiesmann et al. (2017) | D'Ambrosio & Lavoratori (2025) | No — Boffelli et al.'s hosts were European/North African (full text verified) |
+| Organisational readiness, behavioural biases, learning-by-trial | Boffelli et al. (2021) | Wiesmann et al. (2017) | D'Ambrosio & Lavoratori (2025) | No — Boffelli et al.'s hosts were European and North African |
 | Intra-organisational silos & weak employee involvement | Mirzaei et al. (2021) | — | — | No |
 | Adverse host-supplier relational response | Pedroletti (2025) | — | — | Yes — Pedroletti (single case) |
 | Governance mode of the return (gap) | — | Pedroletti & Ciabuschi (2023) | — | No — reported as under-researched dimension |
@@ -62,7 +62,7 @@ Finally, where reshoring is technology-enabled, an organisational-adaptation bur
 | New fixed costs & switching/reconfiguration costs | Li et al. (2025) | Espíndola et al. (2023) | D'Ambrosio & Lavoratori (2025); Gupta et al. (2023) | No |
 | High-cost home environment | Mirzaei et al. (2021); Li et al. (2025) | — | D'Ambrosio & Lavoratori (2025) | No |
 | Hybrid-operation coordination complexity (partial reshoring) | Pedroletti (2025) | — | — | Yes — Pedroletti (single case) |
-| Underestimated operational adjustments | Boffelli et al. (2021) | — | — | No — hosts were Romania, Morocco, Croatia, Hungary (full text verified) |
+| Underestimated operational adjustments | Boffelli et al. (2021) | — | — | No — hosts were Romania, Morocco, Croatia, and Hungary |
 
 The first cost/operational theme is the depleted domestic supply base. Mirzaei et al. (2021) find that firms may remain dependent on foreign suppliers even after production returns, because domestic materials, specialised components, supplier know-how, or sufficient local scale are lacking. Di Mauro et al. (2018) similarly report a depleted supply base in high-cost home countries and the need to rebuild suppliers as challenges entailed by backshoring; two of that study's four cases returned from China, although the individual findings are not attributed to specific cases. The review literature reinforces the theme: weak home-country supplier capacity, local networks, and supply-chain integration are reported as barriers (Wiesmann et al., 2017), and the erosion of domestic supplier networks is identified as an implementation concern discussed in the reshoring literature (Ocicka, 2016). Conceptually, a domestic quality-supplier gap is also noted (Gupta et al., 2023).
 
