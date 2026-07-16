@@ -280,8 +280,7 @@ doc.add_page_break()
 
 for ch in CHAPTERS:
     txt = ch.read_text()
-    is_results = ch.name.startswith('4_')
-    render_blocks(doc, txt, landscape_tables=is_results, table_font=10)
+    render_blocks(doc, txt, landscape_tables=False, table_font=10)
     doc.add_page_break()
 
 render_blocks(doc, REFS.read_text())

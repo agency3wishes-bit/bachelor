@@ -1,6 +1,6 @@
 # Appendix B — Coding Table
 
-**Appendix B. Barrier-theme coding table: each barrier theme cross-referenced to its contributing sources and the evidence type each source provides.** Evidence types (direct empirical / review / conceptual) are recorded separately per source and are not aggregated. Verification and Asia-specificity qualifications are given in Tables 1–4 (Chapter 4, Sections 4.2–4.5).
+**Appendix B. Barrier-theme coding table: each barrier theme cross-referenced to its contributing sources and the evidence type each source provides.** Evidence types (direct empirical / review / conceptual) are recorded separately per source and are not aggregated. Asia-specificity qualifications are summarised in Table 1 (Chapter 4, Section 4.1).
 
 | Theme | Framework category | Source | Evidence type |
 |---|---|---|---|

@@ -31,7 +31,7 @@ Working tracker (not part of the thesis text). Updated after the Author Response
 
 ## Formatting items (assembly phase)
 
-5. ~~Table 1 (Ch. 4)~~ → resolved 2026-07-15: split into four category-specific tables (Tables 1–4), one per section (4.2–4.5); all four set in **landscape** in `thesis/FINAL_THESIS.docx`.
+5. ~~Table presentation (Ch. 4)~~ → final decision 2026-07-16 (author asked for the cleanest option; the benchmark thesis contains no tables at all): ONE compact portrait overview table (Table 1, §4.1 — the 'matrix' the approved proposal promises, 18 themes × evidence types × Asia-specificity with ✓/— marks), full source-by-source detail in Appendix B only. The four landscape category tables were removed; the document no longer contains landscape sections.
 6. ~~Abstract~~ → finalised 2026-07-15 after Chapter 6 was completed and author review (182 words).
 7. **Acknowledgements still contain placeholders** ([Supervisor's name], [Institution or programme], [Family member or friend]) — the author must personalise these in `thesis/0_Front_Matter.md` (and they carry into `FINAL_THESIS.docx` on rebuild).
 8. **FINAL_THESIS.docx title page**: the degree-programme line is a placeholder ("[Degree programme as on the student record sheet]") — the author must fill in the official programme name. Name (Serdiuk Aleksandra), ID (12045860), "Vienna, July 2026", and supervisor (Dr. Aveed Raha) are filled from the approved proposal.
