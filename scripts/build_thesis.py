@@ -64,6 +64,7 @@ def base_doc():
     pf = st.paragraph_format
     pf.line_spacing_rule = WD_LINE_SPACING.ONE_POINT_FIVE
     pf.space_after = Pt(6)
+    pf.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
     for i in (1,2,3):
         h = doc.styles[f'Heading {i}']
         h.font.name = 'Times New Roman'; h.font.color.rgb = None
@@ -217,6 +218,22 @@ def render_blocks(doc, text, landscape_tables=False, table_font=10):
     if pending_caption:
         p = doc.add_paragraph(); add_runs(p, pending_caption)
 
+def add_page_numbers(doc):
+    # bottom-centre page number on every section; hide on the literal first page (title page)
+    sec0 = doc.sections[0]
+    sec0.different_first_page_header_footer = True
+    for sec in doc.sections:
+        footer = sec.footer
+        footer.is_linked_to_previous = False if sec is sec0 else True
+    fp = sec0.footer.paragraphs[0]
+    fp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    fld = OxmlElement('w:fldSimple'); fld.set(qn('w:instr'), 'PAGE')
+    r = OxmlElement('w:r'); tt = OxmlElement('w:t'); tt.text = '1'
+    r.append(tt); fld.append(r)
+    fp._p.append(fld)
+    for run in fp.runs:
+        run.font.name = 'Times New Roman'; run.font.size = Pt(12)
+
 def add_toc_field(doc):
     p = doc.add_paragraph()
     fld = OxmlElement('w:fldSimple')
@@ -244,7 +261,7 @@ cpar('Serdiuk Aleksandra', 12, True, after=0)
 cpar('12045860', 12, False, after=40)
 cpar('Vienna, July 2026', 12, False, after=40)
 cpar('Studienrichtung lt. Studienblatt / degree programme as it appears on the student record sheet:', 11, False, after=4)
-cpar('[Degree programme as on the student record sheet]', 12, False, after=20)
+cpar('Bachelorstudium Internationale Betriebswirtschaft', 12, False, after=20)
 cpar('Betreut von / Supervisor: Dr. Aveed Raha', 12, False)
 doc.add_page_break()
 
@@ -273,6 +290,7 @@ render_blocks(doc, APP_A.read_text())
 doc.add_page_break()
 render_blocks(doc, APP_B.read_text(), table_font=9)
 
+add_page_numbers(doc)
 doc.save(str(T/'FINAL_THESIS.docx'))
 
 # ===== COMPILED_DRAFT_FULL.docx (simple clean formatting, no title page/toc) =====
