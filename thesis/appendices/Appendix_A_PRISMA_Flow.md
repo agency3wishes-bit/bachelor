@@ -1,6 +1,6 @@
 # Appendix A — PRISMA 2020 Flow Diagram
 
-Constructed per PRISMA 2020's two-arm flow structure (Page et al., 2021a, 2021b), as justified in Chapter 3, §3.2. Arm 1 reports the documented update search (15 July 2026); Arm 2 reports the reconstructable full-text stage of the original, undocumented exploratory search. The diagram documents the 21-study formal analytical sample only; methodology sources (n = 5) and contextual sources (n = 8) are retained for the thesis but are not "included studies" in the PRISMA sense and are reported separately beneath the diagram, consistent with Chapter 3, §3.2.
+Constructed per PRISMA 2020's two-arm flow structure (Page, McKenzie, et al., 2021; Page, Moher, et al., 2021), as justified in Chapter 3, §3.2. Arm 1 reports the documented update search (15 July 2026); Arm 2 reports the reconstructable full-text stage of the original, undocumented exploratory search. The diagram documents the 21-study formal analytical sample only; methodology sources (n = 5) and contextual sources (n = 8) are retained for the thesis but are not "included studies" in the PRISMA sense and are reported separately beneath the diagram, consistent with Chapter 3, §3.2.
 
 Source data: `resources/update_search_log.md` (Arm 1) and `resources/approved_source_corpus.md` / `research/new_source_assessments.md` (Arm 2, reconstructable stages only). No historical count or date from the original exploratory phase is estimated.
 
@@ -77,7 +77,9 @@ Records identified via other methods
 
 ## Total studies included in the review
 
-**Formal analytical sample: n = 21** (Arms 1 + 2 combined; all 21 entered via Arm 2, none via Arm 1).
+**Formal analytical sample: n = 21** (Arms 1 + 2 combined; all 21 entered via Arm 2, none via Arm 1):
+
+Bilbao-Ubillos et al. (2024); Boffelli et al. (2021); D'Ambrosio and Lavoratori (2025); Di Mauro et al. (2018); Di Stefano and Fratocchi (2019); Espíndola et al. (2023); Gupta et al. (2023); Heikkilä et al. (2018); Kamp and Gibaja (2021); Li et al. (2025); Mirzaei et al. (2021); Ocicka (2016); Pedroletti (2025); Pedroletti and Ciabuschi (2023); Pegoraro et al. (2022); Pourhejazy and Ashby (2021); Robinson and Hsieh (2016); Stentoft et al. (2025); Tsai and Urmetzer (2024); Wan et al. (2019); Wiesmann et al. (2017). Full bibliographic details are given in the reference list.
 
 **Additional sources retained outside the formal analytical sample** (not "included studies" in the PRISMA sense, reported here for transparency):
 - Contextual/policy/decision-support sources: n = 8

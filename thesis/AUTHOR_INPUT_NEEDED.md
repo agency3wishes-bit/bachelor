@@ -20,7 +20,7 @@ Working tracker (not part of the thesis text). Updated after the Author Response
 
 2. No verified page numbers for any source; no direct quotations or page references until the original PDFs are checked. Paraphrases without page numbers are acceptable under APA 7.
 3. **A11's "11.64%" figure is now VERIFIED at full text** (2026-07-15: static barriers = 11.64% of the Total Cost of Acquisition from low-cost countries; author's survey of 60 large Polish firms; decision-stage driver framing) — available for use if wanted. C03's country-level percentages remain unverified and absent. A11 page range corrected to 103–117 (PDF-verified; corpus said 103–118).
-4. ~~Page et al. suffixes~~ — settled from the full texts (2026-07-15): M05 (explanation and elaboration) = 2021a; M03 (statement) = 2021b — matching the thesis's existing citations. Verify once more against the complete alphabetised reference list at assembly (pro forma).
+4. ~~Page et al. suffixes~~ — **OVERTURNED at reference-list assembly (2026-07-15, from the two PDFs' actual bylines):** the two papers have *different* author lists (statement: Page, McKenzie, … Moher; E&E: Page, Moher, … McKenzie), so APA 7's a/b suffixes (which require identical authors) do not apply. Correct APA 7 form distinguishes them by second author: (Page, McKenzie, et al., 2021) = statement; (Page, Moher, et al., 2021) = E&E. In-text citations in Ch. 3 §3.2 and Appendix A updated accordingly; reference list orders the statement first (McKenzie < Moher).
 
 ## Corpus corrections found during full-text verification (for the workbook)
 
