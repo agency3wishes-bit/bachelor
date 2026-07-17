@@ -57,6 +57,11 @@ from docx.oxml import OxmlElement
 
 def base_doc():
     doc = Document()
+    from docx.enum.style import WD_STYLE_TYPE
+    for cap_style in ('FigureCaption', 'TableCaption'):
+        s = doc.styles.add_style(cap_style, WD_STYLE_TYPE.PARAGRAPH)
+        s.base_style = doc.styles['Normal']
+        s.font.name = 'Times New Roman'; s.font.size = Pt(12)
     st = doc.styles['Normal']
     st.font.name = 'Times New Roman'; st.font.size = Pt(12)
     st.element.rPr.rFonts.set(qn('w:eastAsia'), 'Times New Roman')
@@ -225,6 +230,9 @@ def render_blocks(doc, text, landscape_tables=False, table_font=10):
                 pending_caption = None
             p = doc.add_paragraph()
             add_runs(p, payload)
+            m_cap = re.match(r'^\*\*(Figure|Table) \d+\.\*\*', payload)
+            if m_cap:
+                p.style = doc.styles[f'{m_cap.group(1)}Caption']
     if pending_caption:
         p = doc.add_paragraph(); add_runs(p, pending_caption)
 
@@ -244,12 +252,12 @@ def add_page_numbers(doc):
     for run in fp.runs:
         run.font.name = 'Times New Roman'; run.font.size = Pt(12)
 
-def add_toc_field(doc):
+def add_toc_field(doc, instr='TOC \\o "1-3" \\h \\z \\u', placeholder='Table of Contents'):
     p = doc.add_paragraph()
     fld = OxmlElement('w:fldSimple')
-    fld.set(qn('w:instr'), 'TOC \\o "1-3" \\h \\z \\u')
+    fld.set(qn('w:instr'), instr)
     r = OxmlElement('w:r'); t = OxmlElement('w:t')
-    t.text = 'Right-click and choose "Update Field" to generate the Table of Contents.'
+    t.text = f'Right-click and choose "Update Field" to generate the {placeholder}.'
     r.append(t); fld.append(r)
     p._p.append(fld)
 
@@ -283,9 +291,13 @@ doc.add_page_break()
 doc.add_heading('Abstract', level=1)
 p = doc.add_paragraph(); add_runs(p, abstract)
 doc.add_page_break()
-# ToC
+# ToC (template: List of Figures / List of Tables follow the ToC when present)
 doc.add_heading('Table of Contents', level=1)
 add_toc_field(doc)
+doc.add_heading('List of Figures', level=1)
+add_toc_field(doc, instr='TOC \\h \\z \\t "FigureCaption,1"', placeholder='List of Figures')
+doc.add_heading('List of Tables', level=1)
+add_toc_field(doc, instr='TOC \\h \\z \\t "TableCaption,1"', placeholder='List of Tables')
 doc.add_page_break()
 
 for ch in CHAPTERS:

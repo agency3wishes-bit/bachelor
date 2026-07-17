@@ -1,4 +1,4 @@
-# References
+# 7 References
 
 Barbieri, P., Boffelli, A., Elia, S., Fratocchi, L., Kalchschmidt, M., & Samson, D. (2020). What can we learn about reshoring after Covid-19? *Operations Management Research, 13*(3–4), 131–136. https://doi.org/10.1007/s12063-020-00160-1
 

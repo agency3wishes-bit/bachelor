@@ -313,7 +313,7 @@ This thesis aimed to provide an answer to a question that the reshoring literatu
 **Scope and closing remarks.** This contribution should be read within the bounds that the thesis has carefully set out throughout. The formal analytical sample consists of twenty-one studies, while the direct implementation evidence that is genuinely Asia-specific is based on two single case studies, both reporting returns from China to Western Europe (Pegoraro et al., 2022; Pedroletti, 2025). The framework should thus be viewed as a map of what the current literature reveals, rather than a ranking of universal barriers, and certainly not a statement that can be generalized to the Asian markets in general. In that context, the results show that the challenge of reshoring is not so much about the decision to reshore as about the reconstruction of the productive capability that has been eroded over the years by offshoring — and that reshoring is a different project, with its own rationale, its own costs, and its own potential for partial or incomplete success.
 
 
-# References
+# 7 References
 
 Barbieri, P., Boffelli, A., Elia, S., Fratocchi, L., Kalchschmidt, M., & Samson, D. (2020). What can we learn about reshoring after Covid-19? *Operations Management Research, 13*(3–4), 131–136. https://doi.org/10.1007/s12063-020-00160-1
 
