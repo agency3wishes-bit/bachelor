@@ -253,13 +253,49 @@ def add_page_numbers(doc):
         run.font.name = 'Times New Roman'; run.font.size = Pt(12)
 
 def add_toc_field(doc, instr='TOC \\o "1-3" \\h \\z \\u', placeholder='Table of Contents'):
+    # Standard begin/separate/text/end field-char run sequence (matches what Word itself
+    # writes) rather than w:fldSimple, which some non-Word renderers display incorrectly.
     p = doc.add_paragraph()
-    fld = OxmlElement('w:fldSimple')
-    fld.set(qn('w:instr'), instr)
-    r = OxmlElement('w:r'); t = OxmlElement('w:t')
+
+    def _run(el_children):
+        r = OxmlElement('w:r')
+        for child in el_children:
+            r.append(child)
+        p._p.append(r)
+
+    begin = OxmlElement('w:fldChar'); begin.set(qn('w:fldCharType'), 'begin')
+    begin.set(qn('w:dirty'), 'true')
+    _run([begin])
+
+    instr_el = OxmlElement('w:instrText')
+    instr_el.set(qn('xml:space'), 'preserve')
+    instr_el.text = f' {instr} '
+    _run([instr_el])
+
+    sep = OxmlElement('w:fldChar'); sep.set(qn('w:fldCharType'), 'separate')
+    _run([sep])
+
+    t = OxmlElement('w:t')
+    t.set(qn('xml:space'), 'preserve')
     t.text = f'Right-click and choose "Update Field" to generate the {placeholder}.'
-    r.append(t); fld.append(r)
-    p._p.append(fld)
+    _run([t])
+
+    end = OxmlElement('w:fldChar'); end.set(qn('w:fldCharType'), 'end')
+    _run([end])
+
+def force_field_update_on_open(doc):
+    # Without a Word/LibreOffice layout engine available at build time, TOC/List-of-Figures/
+    # List-of-Tables page numbers cannot be pre-computed here. Setting updateFields makes
+    # Word recalculate all fields automatically the moment the document is opened, so the
+    # reader never has to right-click "Update Field" manually.
+    settings_el = doc.settings.element
+    upd = OxmlElement('w:updateFields')
+    upd.set(qn('w:val'), 'true')
+    compat = settings_el.find(qn('w:compat'))
+    if compat is not None:
+        compat.addprevious(upd)
+    else:
+        settings_el.append(upd)
 
 # ===== FINAL_THESIS.docx =====
 doc = base_doc()
@@ -313,6 +349,7 @@ doc.add_page_break()
 render_blocks(doc, APP_B.read_text(), table_font=9)
 
 add_page_numbers(doc)
+force_field_update_on_open(doc)
 doc.save(str(T/'FINAL_THESIS.docx'))
 
 # ===== COMPILED_DRAFT_FULL.docx (simple clean formatting, no title page/toc) =====
