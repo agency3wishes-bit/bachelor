@@ -9,8 +9,7 @@ T = REPO / 'thesis'
 CHAPTERS = [T/'1_Introduction.md', T/'2_Literature_Review.md', T/'3_Research_Methodology.md',
             T/'4_Results.md', T/'5_Discussion.md', T/'6_Conclusion.md']
 REFS = T/'7_References.md'
-APP_A = T/'appendices'/'Appendix_A_PRISMA_Flow.md'
-APP_B = T/'appendices'/'Appendix_B_Coding_Table.md'
+APP_B = T/'appendices'/'Appendix_Coding_Records.md'
 FRONT = T/'0_Front_Matter.md'
 
 def front_parts():
@@ -27,7 +26,6 @@ md_parts = ['# Barriers to Reshoring from Asian Markets: A Systematic Literature
 for ch in CHAPTERS:
     md_parts.append(ch.read_text().strip() + '\n')
 md_parts.append(REFS.read_text().strip() + '\n')
-md_parts.append(APP_A.read_text().strip() + '\n')
 md_parts.append(APP_B.read_text().strip() + '\n')
 full_md = '\n\n'.join(md_parts)
 (T/'COMPILED_DRAFT_FULL.md').write_text(full_md)
@@ -44,6 +42,7 @@ def strip_md(s):
         l = re.sub(r'^\|\s*', '', l); l = re.sub(r'\s*\|$', '', l)
         l = l.replace(' | ', '   ')
         l = l.replace('```', '')
+        l = re.sub(r'^!\[([^\]]*)\]\(([^)]+)\)\s*$', r'[\1 — image: \2]', l)
         out.append(l)
     return '\n'.join(out)
 (T/'COMPILED_DRAFT_FULL.txt').write_text(strip_md(full_md))
@@ -140,6 +139,10 @@ def parse_md_blocks(text):
                 block.append(lines[i]); i += 1
             i += 1
             yield ('code', block); continue
+        m_img = re.match(r'^!\[([^\]]*)\]\(([^)]+)\)\s*$', line.strip())
+        if m_img:
+            yield ('img', m_img.group(2))
+            i += 1; continue
         if line.startswith('|'):
             tbl = []
             while i < len(lines) and lines[i].startswith('|'):
@@ -159,7 +162,7 @@ def parse_md_blocks(text):
         # paragraph: accumulate until blank
         par = [line]
         i += 1
-        while i < len(lines) and lines[i].strip() and not lines[i].startswith(('|','#','```')):
+        while i < len(lines) and lines[i].strip() and not lines[i].startswith(('|','#','```','![')):
             par.append(lines[i]); i += 1
         yield ('p', ' '.join(par))
 
@@ -185,6 +188,13 @@ def render_blocks(doc, text, landscape_tables=False, table_font=10):
             doc.add_heading(payload, level=2)
         elif kind == 'h3':
             doc.add_heading(payload, level=3)
+        elif kind == 'img':
+            img_path = T / payload
+            p = doc.add_paragraph()
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.SINGLE
+            r = p.add_run()
+            r.add_picture(str(img_path), width=Inches(6.2))
         elif kind == 'code':
             for cl in payload:
                 p = doc.add_paragraph()
@@ -284,12 +294,11 @@ for ch in CHAPTERS:
     doc.add_page_break()
 
 render_blocks(doc, REFS.read_text())
-# Appendices excluded from the submission build pending the supervisor's answer;
-# re-enable the three lines below to restore them (files remain in thesis/appendices/).
-# doc.add_page_break()
-# render_blocks(doc, APP_A.read_text())
-# doc.add_page_break()
-# render_blocks(doc, APP_B.read_text(), table_font=9)
+# Per the supervisor's instruction (17 July 2026): the PRISMA flow diagram (Figure 1)
+# and the coding table (Table 1) sit in Chapter 3; the single Appendix carries the
+# detailed per-source coding records. The old Appendix A was superseded by Figure 1.
+doc.add_page_break()
+render_blocks(doc, APP_B.read_text(), table_font=9)
 
 add_page_numbers(doc)
 doc.save(str(T/'FINAL_THESIS.docx'))

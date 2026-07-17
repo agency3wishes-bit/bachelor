@@ -2,6 +2,10 @@
 
 Working tracker (not part of the thesis text). Updated after the Author Response to Open Items (2026-07-14).
 
+## Supervisor directive implemented (2026-07-17)
+
+Per the supervisor's e-mail reply: the PRISMA flow diagram is now **Figure 1** in Ch. 3 §3.2 (rendered image, `thesis/figures/figure1_prisma.png`), the barrier-coding table is now **Table 1** in Ch. 3 §3.3, and the Ch. 4 overview matrix was renumbered to **Table 2**. Detailed per-source coding records remain as the single **Appendix** (`thesis/appendices/Appendix_Coding_Records.md` — renamed from Appendix B since it is now the only appendix; old Appendix A file deleted, superseded by Figure 1). The Appendix is included in `FINAL_THESIS.docx` and does not count toward thesis length per the supervisor.
+
 ## Resolved by the Author Response (applied)
 
 - ~~Screening sequence confirmation~~ → replaced with the author's confirmed iterative-process wording (Ch. 3, §3.2); Google Scholar named as the sole discovery platform; manual screening of peer-review status/publication type explicitly stated (not automatic filters).

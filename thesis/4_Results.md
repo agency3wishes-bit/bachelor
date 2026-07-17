@@ -10,9 +10,9 @@ There are 3 types of contributing evidence. There are four main empirical studie
 
 There are few examples of direct implementation evidence specific to Asia. It is based on two single-cases; the first concerns a case from China to UK (Pegoraro et al., 2022), and the second concerns a partial reshoring from China to Italy (Pedroletti, 2025). Two of the four case firms moved production out of China in the multi-case study, Di Mauro et al. (2018), although the findings are not always attributed to the individual cases. The four fashion cases of Boffelli et al. (2021) are by contrast Romanian, Moroccan, Croatian and Hungarian host-areas and thus the results of this implementation enter the synthesis as general, rather than Asia-specific evidence. The results of Li et al. (2025) are also presented as general Nordic/Swedish evidence, except that it specifically mentions China among the host locations that are impacted by strict layoff regulations (see Section 4.2).
 
-The eighteen themes, the types of evidence that support each, and the themes' Asia-specificity are summarized in Table 1.
+The eighteen themes, the types of evidence that support each, and the themes' Asia-specificity are summarized in Table 2.
 
-**Table 1.** *The eighteen reshoring implementation-barrier themes by framework category, the evidence types available for each theme, and the Asia-specificity of the supporting evidence.*
+**Table 2.** *The eighteen reshoring implementation-barrier themes by framework category, the evidence types available for each theme, and the Asia-specificity of the supporting evidence.*
 
 | Barrier theme | Category | Direct empirical | Review | Conceptual | Asia-specific |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@ The eighteen themes, the types of evidence that support each, and the themes' As
 
 ## 4.2 Regulatory/Institutional Barriers
 
-The least empirical evidence comes in the regulatory/institutional category: as seen in Table 1, there are only two themes in this category that have direct empirical source and one theme with only review evidence. The content in most of this category, therefore, is at review or conceptual level.
+The least empirical evidence comes in the regulatory/institutional category: as seen in Table 2, there are only two themes in this category that have direct empirical source and one theme with only review evidence. The content in most of this category, therefore, is at review or conceptual level.
 
 The first theme relates to constraints that the host country imposes on exiting the offshore operation. The study by Li et al. (2025) explicitly mentions Poland and China as countries of offshoring that had strict rules regarding layoffs, but the results are presented for the sample and not broken down by individual host country; nevertheless, strict host-country layoff regulations, the difficulty of closing or quickly reducing offshore operations, locked investments, and high exit costs were cited as barriers among the Swedish manufacturing companies examined in their study. Convergent constraints are discussed in the back-shoring literature, including national closure regulations, foreign-plant exit costs in the form of closure-fees and fiscal obligations, and host-country layoff constraints (Di Stefano & Fratocchi, 2019). The findings and the review evidence together suggest that the exit side of reshoring can also be regulated in a way which can delay or burden the reshoring implementation.
 

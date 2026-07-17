@@ -22,6 +22,8 @@ Gao, X., Hewings, G. J. D., & Yang, C. (2022). Offshore, re-shore, re-offshore: 
 
 Gupta, S., Wang, Y., & Czinkota, M. (2023). Reshoring: A road to Industry 4.0 transformation. *British Journal of Management, 34*(3), 1081–1099. https://doi.org/10.1111/1467-8551.12731
 
+Heikkilä, J., Martinsuo, M., & Nenonen, S. (2018). Backshoring of production in the context of a small and open Nordic economy. *Journal of Manufacturing Technology Management, 29*(4), 658–675. https://doi.org/10.1108/JMTM-12-2016-0178
+
 Kamp, B., & Gibaja, J. J. (2021). Adoption of digital technologies and backshoring decisions: Is there a link? *Operations Management Research, 14*(3–4), 380–402. https://doi.org/10.1007/s12063-021-00202-2
 
 Li, H., Hilletofth, P., Eriksson, D., & Hilmola, O.-P. (2025). Exploring drivers, barriers and enablers for manufacturing reshoring in the Nordic countries. *Review of International Business and Strategy, 35*(5), 583–612. https://doi.org/10.1108/RIBS-11-2024-0132
@@ -43,6 +45,8 @@ Pedroletti, D. (2025). Network effects of partial reshoring in the international
 Pedroletti, D., & Ciabuschi, F. (2023). Reshoring: A review and research agenda. *Journal of Business Research, 164*, Article 114005. https://doi.org/10.1016/j.jbusres.2023.114005
 
 Pegoraro, D., De Propris, L., & Chidlow, A. (2022). Regional factors enabling manufacturing reshoring strategies: A case study perspective. *Journal of International Business Policy, 5*(1), 112–133. https://doi.org/10.1057/s42214-021-00112-x
+
+Pourhejazy, P., & Ashby, A. (2021). Reshoring decisions for adjusting supply chains in a changing world: A case study from the apparel industry. *International Journal of Environmental Research and Public Health, 18*(9), Article 4873. https://doi.org/10.3390/ijerph18094873
 
 Robinson, P. K., & Hsieh, L. (2016). Reshoring: A strategic renewal of luxury clothing supply chains. *Operations Management Research, 9*(3–4), 89–101. https://doi.org/10.1007/s12063-016-0116-x
 

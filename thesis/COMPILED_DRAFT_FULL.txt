@@ -109,13 +109,17 @@ For this design, the thesis does not compile primary interview, survey or compan
 
 The literature search and selection was documented using the PRISMA 2020 reporting guidelines (Page, McKenzie, et al., 2021; Page, Moher, et al., 2021), which were not used as a tool of evidence synthesis, but rather as a tool to report on identification, screening, and inclusion. There was only a single literature-discovery tool: Google Scholar. The literature search started in late June 2026 and concluded in the following few weeks, and included a combination of topic-related terms, backward and forward citation searches, and the "related articles" features in Google Scholar: reshoring, backshoring, manufacturing reshoring, reshoring barriers, reshoring implementation, and terms related to supplier dependence, capabilities, and transfer of production. This process was exploratory, not based on a pre-defined list of search strings, and was not prospectively documented, so there are no definitive strings or number of results reported. This process, by the beginning of July, had resulted in the bulk of the literature utilized for this thesis.
 
-A final documented update search was conducted on 15 July 2026 in Google Scholar, to increase the transparency of the search process. The three predefined strings were run with the results recorded as they occurred: search date, exact string, results shown, records screened and exclusions noted with reasons. This was merely a review of the current stock but not the beginning of literature search. 102 records were screened across the three strings, of which 11 records matched with sources already in the corpus. Most others were not included, primarily because they were either macro- or policy-level oriented, focused on nearshoring as opposed to genuine reshoring, or were not easily accessible or not peer-reviewed. There was no new source added due to this. Together with the full-text stage of the earlier search process, this update search provides the documented record of the study-selection process.
+A final documented update search was conducted on 15 July 2026 in Google Scholar, to increase the transparency of the search process. The three predefined strings were run with the results recorded as they occurred: search date, exact string, results shown, records screened and exclusions noted with reasons. This was merely a review of the current stock but not the beginning of literature search. 102 records were screened across the three strings, of which 11 records matched with sources already in the corpus. Most others were not included, primarily because they were either macro- or policy-level oriented, focused on nearshoring as opposed to genuine reshoring, or were not easily accessible or not peer-reviewed. There was no new source added due to this. Together with the full-text stage of the earlier search process, this update search provides the documented record of the study-selection process, which is summarised in the PRISMA 2020 flow diagram in Figure 1.
+
+[Figure 1 — image: figures/figure1_prisma.png]
+
+Figure 1. PRISMA 2020 flow diagram of the study-selection process. The left arm reports the documented update search; the right arm reports the reconstructable full-text stage of the original exploratory search process.
 
 Duplicate entries were handled, and titles, abstracts, and available full text were then screened for eligibility based on the eligibility criteria. Google Scholar does not filter automatically by peer-review status, publication type or language, thus these were manually checked for all the candidate sources. Only sources in English language, and with full texts available online, were included and a source had to be relevant to manufacturing reshoring, and meet the thesis definition of reshoring to be included in the formal analytical sample.
 
 Studies were required to address the actual reshoring process, the return of manufacturing to the company's home country. Barrier coding was not included for studies on China+1, China-to-Southeast-Asia relocation, re-offshoring, nearshoring without a return home, or foreign-to-foreign relocation because these are not considered to be a true reshoring; a few of these were included with contextual notes in the Introduction and Discussion. Asia specificity was not always reported in the literature as a specific host location, so was recorded as a rating for all sources used and only results relating to an explicit Asian host location with a return home are reported as Asia-specific in the Results.
 
-A total of 34 sources are used for the corpus. The barrier framework is based on 21 peer-reviewed studies on reshoring. Further contextual and policy sources, such as macro level relocation patterns and the China+1 dynamics, are described in the Introduction and Discussion but were not coded at the barrier level as they reflect the broader environment but not the level of implementation of the barriers. The research design and coding and synthesis procedures have been justified by five methodology sources, and do not present any barrier evidence. The documented selection record thus only encompasses the 21 studies that form the formal analytical sample; the methodology sources are not counted and the contextual sources are reported separately.
+A total of 34 sources are used for the corpus. The barrier framework is based on 21 peer-reviewed studies on reshoring. Further contextual and policy sources, such as macro level relocation patterns and the China+1 dynamics, are described in the Introduction and Discussion but were not coded at the barrier level as they reflect the broader environment but not the level of implementation of the barriers. The research design and coding and synthesis procedures have been justified by five methodology sources, and do not present any barrier evidence. The documented selection record thus only encompasses the 21 studies that form the formal analytical sample; the methodology sources are not counted and the contextual sources are reported separately. The 21 studies included in the formal analytical sample are: Bilbao-Ubillos et al. (2024); Boffelli et al. (2021); D'Ambrosio and Lavoratori (2025); Di Mauro et al. (2018); Di Stefano and Fratocchi (2019); Espíndola et al. (2023); Gupta et al. (2023); Heikkilä et al. (2018); Kamp and Gibaja (2021); Li et al. (2025); Mirzaei et al. (2021); Ocicka (2016); Pedroletti (2025); Pedroletti and Ciabuschi (2023); Pegoraro et al. (2022); Pourhejazy and Ashby (2021); Robinson and Hsieh (2016); Stentoft et al. (2025); Tsai and Urmetzer (2024); Wan et al. (2019); Wiesmann et al. (2017).
 
 All the sources in the formal sample were also described in terms of two dimensions. The first specifies the kind of evidence that it gives, because it can be of different quality and has a different evidential status, and because it cannot be equated. The second is an Asia-specificity rating (high, medium, or low), assigned as high if the data or case in a source explicitly references an Asian host location and a return home. The two dimensions influenced the interpretation and reporting of the evidence throughout the thesis and referred to the extent to which the evidence was relevant and the nature of the evidence without addressing the methodological quality of each source. A single researcher conducted screening and selection; this is a limitation noted.
 
@@ -123,7 +127,32 @@ All the sources in the formal sample were also described in terms of two dimensi
 
 The evidence that was included was analysed in an adapted way using a three-stage process of synthesising findings across studies developed by Thomas and Harden (2008). In the first phase, the findings of relevant studies in the included studies were coded on the level of meaningful evidence segments. The second stage involved grouping codes into descriptive categories, which remained close to the content of the main studies, when they were conceptually similar. In the third stage, descriptive themes were interpreted to generate higher-order analytical themes to answer the research questions and exceed those identified by any single study individually. One of the strengths of this procedure is that it allows for an audit trail to be kept from the conclusions made in the review to the original text of the primary studies, enabling each analytical theme to be followed through the descriptive themes to the coded evidence.
 
-The coding itself was based on a deductive-inductive logic for which Mayring (2014) provides the methodological basis. Mayring (2014) considers qualitative content analysis as a systematic, rule-governed method in which the application of deductive categories and the development of inductive categories are not mutually exclusive. Based on this, the four categories of the thesis framework — regulatory/institutional, cultural/organisational, cost/operational and asset/capability — were deductively derived from the theoretical framework and the research questions and were used as an a priori coding frame. The included studies were then inductively clustered into more specific category themes within each of these general categories, and the boundaries of the categories were refined when the a priori frame did not adequately cover the coded material. The outcome was a set of barrier themes that were embedded in the four deductive categories.
+The coding itself was based on a deductive-inductive logic for which Mayring (2014) provides the methodological basis. Mayring (2014) considers qualitative content analysis as a systematic, rule-governed method in which the application of deductive categories and the development of inductive categories are not mutually exclusive. Based on this, the four categories of the thesis framework — regulatory/institutional, cultural/organisational, cost/operational and asset/capability — were deductively derived from the theoretical framework and the research questions and were used as an a priori coding frame. The included studies were then inductively clustered into more specific category themes within each of these general categories, and the boundaries of the categories were refined when the a priori frame did not adequately cover the coded material. The outcome was a set of barrier themes that were embedded in the four deductive categories. Table 1 documents this coding: each barrier theme, the category it belongs to, and the studies whose evidence was coded to it, separated by evidence type.
+
+Table 1. Coding of the barrier themes: each theme, its framework category, and the contributing studies by evidence type.
+
+Barrier theme   Category   Direct empirical   Review   Conceptual
+
+Host-country exit regulation   Regulatory/Institutional   Li et al. (2025)   Di Stefano & Fratocchi (2019)   —
+Social-responsibility & workforce-resistance exit constraints   Regulatory/Institutional   —   Di Stefano & Fratocchi (2019)   —
+Home-country compliance burden & institutional frictions   Regulatory/Institutional   Mirzaei et al. (2021)   —   Gupta et al. (2023)
+Organisational readiness, behavioural biases, learning-by-trial   Cultural/Organisational   Boffelli et al. (2021)   Wiesmann et al. (2017)   D'Ambrosio & Lavoratori (2025)
+Intra-organisational silos & weak employee involvement   Cultural/Organisational   Mirzaei et al. (2021)   —   —
+Adverse host-supplier relational response   Cultural/Organisational   Pedroletti (2025)   —   —
+Governance mode of the return (gap)   Cultural/Organisational   —   Pedroletti & Ciabuschi (2023)   —
+Digital/organisational adaptation burden   Cultural/Organisational   —   Bilbao-Ubillos et al. (2024); Espíndola et al. (2023)   Gupta et al. (2023); D'Ambrosio & Lavoratori (2025)
+Hollowed-out supply base / supplier-network rebuilding   Cost/Operational   Mirzaei et al. (2021); Di Mauro et al. (2018)   Wiesmann et al. (2017); Ocicka (2016)   Gupta et al. (2023)
+New fixed costs & switching/reconfiguration costs   Cost/Operational   Li et al. (2025)   Espíndola et al. (2023)   D'Ambrosio & Lavoratori (2025); Gupta et al. (2023)
+High-cost home environment   Cost/Operational   Mirzaei et al. (2021); Li et al. (2025)   —   D'Ambrosio & Lavoratori (2025)
+Hybrid-operation coordination complexity (partial reshoring)   Cost/Operational   Pedroletti (2025)   —   —
+Underestimated operational adjustments   Cost/Operational   Boffelli et al. (2021)   —   —
+Domestic skilled-labour & competence gap   Asset/Capability   Pegoraro et al. (2022); Li et al. (2025); Di Mauro et al. (2018); Mirzaei et al. (2021)   Wiesmann et al. (2017); Ocicka (2016); Bilbao-Ubillos et al. (2024)   D'Ambrosio & Lavoratori (2025); Gupta et al. (2023)
+Domestic capacity, facilities & machinery gap   Asset/Capability   Pegoraro et al. (2022); Li et al. (2025); Mirzaei et al. (2021)   Wiesmann et al. (2017)   D'Ambrosio & Lavoratori (2025); Gupta et al. (2023)
+Host-supplier dependence & knowledge lock-in   Asset/Capability   Pedroletti (2025); Li et al. (2025)   Wiesmann et al. (2017); Bilbao-Ubillos et al. (2024)   Gupta et al. (2023)
+GVC stickiness / offshore sunk-cost inertia   Asset/Capability   —   Bilbao-Ubillos et al. (2024)   D'Ambrosio & Lavoratori (2025)
+Regional ecosystem readiness   Asset/Capability   Pegoraro et al. (2022)   Bilbao-Ubillos et al. (2024)   —
+
+The full source-by-source coding records, including the per-source evidence-type notes, are provided in the Appendix.
 
 The integrity of the synthesis was safeguarded by two coding rules. First, and consistent with the decision rule of the corpus, the three types of evidence (direct findings from the study's data, findings reported by the literature survey, and barriers argued on conceptual grounds) were coded as separate evidence types and reported separately without being combined into a single frequency count, since a survey finding is not the same, nor is a review finding the same, nor is a conceptual argument the same. Second, a motive for considering reshoring (geopolitical unrest, rising Asian wages, disruption of supply chain etc.) was not coded as an implementation barrier unless a study made it clear that it interfered with the process of implementing the reshoring.
 
@@ -144,9 +173,9 @@ There are 3 types of contributing evidence. There are four main empirical studie
 
 There are few examples of direct implementation evidence specific to Asia. It is based on two single-cases; the first concerns a case from China to UK (Pegoraro et al., 2022), and the second concerns a partial reshoring from China to Italy (Pedroletti, 2025). Two of the four case firms moved production out of China in the multi-case study, Di Mauro et al. (2018), although the findings are not always attributed to the individual cases. The four fashion cases of Boffelli et al. (2021) are by contrast Romanian, Moroccan, Croatian and Hungarian host-areas and thus the results of this implementation enter the synthesis as general, rather than Asia-specific evidence. The results of Li et al. (2025) are also presented as general Nordic/Swedish evidence, except that it specifically mentions China among the host locations that are impacted by strict layoff regulations (see Section 4.2).
 
-The eighteen themes, the types of evidence that support each, and the themes' Asia-specificity are summarized in Table 1.
+The eighteen themes, the types of evidence that support each, and the themes' Asia-specificity are summarized in Table 2.
 
-Table 1. The eighteen reshoring implementation-barrier themes by framework category, the evidence types available for each theme, and the Asia-specificity of the supporting evidence.
+Table 2. The eighteen reshoring implementation-barrier themes by framework category, the evidence types available for each theme, and the Asia-specificity of the supporting evidence.
 
 Barrier theme   Category   Direct empirical   Review   Conceptual   Asia-specific
 
@@ -171,7 +200,7 @@ Regional ecosystem readiness   Asset/Capability   ✓   ✓   —   Yes (single 
 
 4.2 Regulatory/Institutional Barriers
 
-The least empirical evidence comes in the regulatory/institutional category: as seen in Table 1, there are only two themes in this category that have direct empirical source and one theme with only review evidence. The content in most of this category, therefore, is at review or conceptual level.
+The least empirical evidence comes in the regulatory/institutional category: as seen in Table 2, there are only two themes in this category that have direct empirical source and one theme with only review evidence. The content in most of this category, therefore, is at review or conceptual level.
 
 The first theme relates to constraints that the host country imposes on exiting the offshore operation. The study by Li et al. (2025) explicitly mentions Poland and China as countries of offshoring that had strict rules regarding layoffs, but the results are presented for the sample and not broken down by individual host country; nevertheless, strict host-country layoff regulations, the difficulty of closing or quickly reducing offshore operations, locked investments, and high exit costs were cited as barriers among the Swedish manufacturing companies examined in their study. Convergent constraints are discussed in the back-shoring literature, including national closure regulations, foreign-plant exit costs in the form of closure-fees and fiscal obligations, and host-country layoff constraints (Di Stefano & Fratocchi, 2019). The findings and the review evidence together suggest that the exit side of reshoring can also be regulated in a way which can delay or burden the reshoring implementation.
 
@@ -275,7 +304,7 @@ This thesis aimed to provide an answer to a question that the reshoring literatu
 
 Core research question. The key obstacles that manufacturing companies encounter when implementing reshoring from Asian markets, on the evidence reviewed, are, first and foremost, the rebuilding of domestic capability: the skills, machinery, tooling, and the ecosystem of suppliers that have been lost over the years of offshoring and cannot be rebuilt through acquisition alone (Pegoraro et al., 2022). This is closely related to reliance on specialised host-country suppliers, as in the case evidence documented, this limited not only the manner in which a return was conducted but also the extent of the return that was possible (Pedroletti, 2025). These capability-side challenges are exacerbated by the underestimation of operational changes and organisational readiness gaps (Boffelli et al., 2021), the new fixed and coordination costs that a return brings, and, less obviously but still, by host-country exit constraints like layoff regulations and closure obligations (Li et al., 2025). All these barriers do not exist in a vacuum: a capability gap may lead to operational and relational challenges, and poor organisational preparedness magnifies any other barriers that a firm faces. Implementation thus becomes a separate and challenging phase, rather than a routine that can be taken for granted after the location decision is made.
 
-Sub-question 1. The identified barriers were grouped into a systematic firm-level framework of four categories: regulatory/institutional, cultural/organisational, cost/operational, and asset/capability, and eighteen barrier themes based on the literature reviewed. This framework, detailed in full in Table 1, brings together evidence previously reported in the literature in a single structure, based on the type of obstacle, and not on industry, country or individual study. It also highlights areas of strong and weak evidence. The asset/capability barriers have the most widespread and consistent evidence support across evidence types, and the regulatory/institutional category has the least evidence support. This is not a final conclusion on the significance of regulatory barriers in the real world, but rather a characteristic of the evidence base.
+Sub-question 1. The identified barriers were grouped into a systematic firm-level framework of four categories: regulatory/institutional, cultural/organisational, cost/operational, and asset/capability, and eighteen barrier themes based on the literature reviewed. This framework, detailed in full in Table 2, brings together evidence previously reported in the literature in a single structure, based on the type of obstacle, and not on industry, country or individual study. It also highlights areas of strong and weak evidence. The asset/capability barriers have the most widespread and consistent evidence support across evidence types, and the regulatory/institutional category has the least evidence support. This is not a final conclusion on the significance of regulatory barriers in the real world, but rather a characteristic of the evidence base.
 
 Sub-question 2. These findings suggest that the barriers identified can be mitigated by tackling them at the point in the return process where they occur. A true total-cost analysis of the return and a capability audit of what the firm controls (not the host-country supplier) helps prevent the underestimation that the evidence repeatedly documents, before commitment. Host country regulatory and contractual due diligence should be budgeted as a separate line item at the exit stage, rather than as an incidental to the move. Capability should be planned as a system of machinery, tooling, software and workforce training, not as a single purchase, during transfer and rebuilding. Wherever the supplier and training ecosystem has thinned, early engagement with the home region's ecosystem is indicated. If the reliance on Asian suppliers cannot be unwound rapidly, a phased or partial approach may be a way of reducing risk, but managers must plan for the cross-country coordination as a permanent operating state. All of these measures have a more general implication: implementation capacity, cross-functional coordination and organisational readiness, is a resource that firms should develop intentionally, as the evidence suggests that it is what makes the other barriers more or less harmful.
 
@@ -308,6 +337,8 @@ Gao, X., Hewings, G. J. D., & Yang, C. (2022). Offshore, re-shore, re-offshore: 
 
 Gupta, S., Wang, Y., & Czinkota, M. (2023). Reshoring: A road to Industry 4.0 transformation. British Journal of Management, 34(3), 1081–1099. https://doi.org/10.1111/1467-8551.12731
 
+Heikkilä, J., Martinsuo, M., & Nenonen, S. (2018). Backshoring of production in the context of a small and open Nordic economy. Journal of Manufacturing Technology Management, 29(4), 658–675. https://doi.org/10.1108/JMTM-12-2016-0178
+
 Kamp, B., & Gibaja, J. J. (2021). Adoption of digital technologies and backshoring decisions: Is there a link? Operations Management Research, 14(3–4), 380–402. https://doi.org/10.1007/s12063-021-00202-2
 
 Li, H., Hilletofth, P., Eriksson, D., & Hilmola, O.-P. (2025). Exploring drivers, barriers and enablers for manufacturing reshoring in the Nordic countries. Review of International Business and Strategy, 35(5), 583–612. https://doi.org/10.1108/RIBS-11-2024-0132
@@ -329,6 +360,8 @@ Pedroletti, D. (2025). Network effects of partial reshoring in the international
 Pedroletti, D., & Ciabuschi, F. (2023). Reshoring: A review and research agenda. Journal of Business Research, 164, Article 114005. https://doi.org/10.1016/j.jbusres.2023.114005
 
 Pegoraro, D., De Propris, L., & Chidlow, A. (2022). Regional factors enabling manufacturing reshoring strategies: A case study perspective. Journal of International Business Policy, 5(1), 112–133. https://doi.org/10.1057/s42214-021-00112-x
+
+Pourhejazy, P., & Ashby, A. (2021). Reshoring decisions for adjusting supply chains in a changing world: A case study from the apparel industry. International Journal of Environmental Research and Public Health, 18(9), Article 4873. https://doi.org/10.3390/ijerph18094873
 
 Robinson, P. K., & Hsieh, L. (2016). Reshoring: A strategic renewal of luxury clothing supply chains. Operations Management Research, 9(3–4), 89–101. https://doi.org/10.1007/s12063-016-0116-x
 
@@ -353,95 +386,9 @@ Xing, L., Jiang, S., Yin, S., & Liu, F. (2024). Substitution effect of Asian eco
 Yang, C. (2016). Relocating labour-intensive manufacturing firms from China to Southeast Asia: A preliminary investigation. Bandung: Journal of the Global South, 3, Article 3. https://doi.org/10.1186/s40728-016-0031-4
 
 
-Appendix A — PRISMA 2020 Flow Diagram
+Appendix — Detailed Coding Records
 
-Constructed per PRISMA 2020's two-arm flow structure (Page, McKenzie, et al., 2021; Page, Moher, et al., 2021), as described in Chapter 3, §3.2. Arm 1 reports the documented update search (15 July 2026); Arm 2 reports the reconstructable full-text stage of the original exploratory search. The diagram documents the 21-study formal analytical sample only; methodology sources (n = 5) and contextual sources (n = 8) are retained for the thesis but are not "included studies" in the PRISMA sense and are reported separately beneath the diagram. No count or date from the original exploratory phase is estimated.
-
----
-
-Arm 1 — Identification via databases (documented update search)
-
-
-Records identified through database searching
-(Google Scholar, 3 predefined strings, 15 July 2026)
-                    n = 102
-        (36 + 40 + 26 screened across the three strings;
-   displayed result counts of 10,400 / 14,300 / 1,660
-     reflect database breadth, not records screened)
-                       │
-                       ▼
-        Duplicate records removed
-   (already present in the review corpus)
-                    n = 11
-                       │
-                       ▼
-              Records screened
-                    n = 91
-                       │
-                       ▼
-         Records excluded, with reason
-                    n = 8
-   Nearshoring, not genuine reshoring: 1
-   Non-peer-reviewed / inaccessible / low-credibility venue: 2
-   Macro/policy-level, not firm-level: 5
-                       │
-                       ▼
-   Records not further assessed within thesis scope
-    (topically adjacent records noted but not pursued
-             to full-text assessment)
-                    n = 83
-                       │
-                       ▼
-        New studies included from Arm 1
-                    n = 0
-
-
-Arm 2 — Identification via other methods (original exploratory search, backward/forward citation searching, related-article suggestions)
-
-
-Records identified via other methods
-        n = not recorded (exploratory phase) †
-                       │
-                       ▼
-        Reports sought and assessed at full text
-                    n = 34
-   (21 formal analytical sample + 8 contextual/
-    policy/decision-support + 5 methodology)
-                       │
-                       ▼
-     Reports individually assessed and excluded
-                    n = 4
-   Not genuine reshoring (China+1/re-offshoring pattern): 1
-   Closed access (full text not openly accessible): 1
-   Preprint, not peer-reviewed: 1
-   Duplicate of an already-included source: 1
-                       │
-                       ▼
-      Studies included in formal analytical sample
-                    n = 21
-
-
-† Records identified via the original exploratory search process (Arm 2) were not counted prospectively, because that phase preceded the adoption of a documented search protocol; the update search (Arm 1) provides the documented, reproducible search record for this thesis.
-
----
-
-Total studies included in the review
-
-Formal analytical sample: n = 21 (Arms 1 + 2 combined; all 21 entered via Arm 2, none via Arm 1):
-
-Bilbao-Ubillos et al. (2024); Boffelli et al. (2021); D'Ambrosio and Lavoratori (2025); Di Mauro et al. (2018); Di Stefano and Fratocchi (2019); Espíndola et al. (2023); Gupta et al. (2023); Heikkilä et al. (2018); Kamp and Gibaja (2021); Li et al. (2025); Mirzaei et al. (2021); Ocicka (2016); Pedroletti (2025); Pedroletti and Ciabuschi (2023); Pegoraro et al. (2022); Pourhejazy and Ashby (2021); Robinson and Hsieh (2016); Stentoft et al. (2025); Tsai and Urmetzer (2024); Wan et al. (2019); Wiesmann et al. (2017). Full bibliographic details are given in the reference list.
-
-Additional sources retained outside the formal analytical sample (not "included studies" in the PRISMA sense, reported here for transparency):
-- Contextual/policy/decision-support sources: n = 8
-- Methodology sources: n = 5
-- Primary theoretical sources (Williamson, 1985; Barney, 1991), used only in Sections 2.2 and 5.2: n = 2 — not part of this flow diagram.
-
-Corpus total: n = 36.
-
-
-Appendix B — Coding Table
-
-Appendix B. Barrier-theme coding table: each barrier theme cross-referenced to its contributing sources and the evidence type each source provides. Evidence types (direct empirical / review / conceptual) are recorded separately per source and are not aggregated. Asia-specificity qualifications are summarised in Table 1 (Chapter 4, Section 4.1).
+Appendix. Barrier-theme coding records: each barrier theme cross-referenced to its contributing sources and the evidence type each source provides. Evidence types (direct empirical / review / conceptual) are recorded separately per source and are not aggregated. This appendix provides the detailed source-by-source records behind the coding summarised in Table 1 (Chapter 3, Section 3.3); Asia-specificity qualifications are summarised in Table 2 (Chapter 4, Section 4.1).
 
 Theme   Framework category   Source   Evidence type
 
@@ -499,4 +446,4 @@ Theme   Framework category   Source   Evidence type
 4.3   Regulatory/Institutional   Mirzaei et al. (2021)   Direct empirical (education/industry skills mismatch)
 4.3   Regulatory/Institutional   Gupta et al. (2023)   Conceptual
 
-Appendix B notes: (i) Tsai and Urmetzer (2024) appears in the formal analytical sample but serves terminology and framework purposes only and therefore has no barrier-theme entry. (ii) Robinson and Hsieh (2016) likewise has no barrier-theme entry: it contributes driver and strategic-renewal evidence rather than implementation-barrier evidence. (iii) Themes 1.4, 3.4, 3.5, and 4.2 have no direct empirical source; they rest on review and conceptual evidence only, as recorded above.
+Appendix notes: (i) Tsai and Urmetzer (2024) appears in the formal analytical sample but serves terminology and framework purposes only and therefore has no barrier-theme entry. (ii) Robinson and Hsieh (2016) likewise has no barrier-theme entry: it contributes driver and strategic-renewal evidence rather than implementation-barrier evidence. (iii) Themes 1.4, 3.4, 3.5, and 4.2 have no direct empirical source; they rest on review and conceptual evidence only, as recorded above.

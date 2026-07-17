@@ -1,6 +1,6 @@
-# Appendix B — Coding Table
+# Appendix — Detailed Coding Records
 
-**Appendix B. Barrier-theme coding table: each barrier theme cross-referenced to its contributing sources and the evidence type each source provides.** Evidence types (direct empirical / review / conceptual) are recorded separately per source and are not aggregated. Asia-specificity qualifications are summarised in Table 1 (Chapter 4, Section 4.1).
+**Appendix. Barrier-theme coding records: each barrier theme cross-referenced to its contributing sources and the evidence type each source provides.** Evidence types (direct empirical / review / conceptual) are recorded separately per source and are not aggregated. This appendix provides the detailed source-by-source records behind the coding summarised in Table 1 (Chapter 3, Section 3.3); Asia-specificity qualifications are summarised in Table 2 (Chapter 4, Section 4.1).
 
 | Theme | Framework category | Source | Evidence type |
 |---|---|---|---|
@@ -58,4 +58,4 @@
 | 4.3 | Regulatory/Institutional | Mirzaei et al. (2021) | Direct empirical (education/industry skills mismatch) |
 | 4.3 | Regulatory/Institutional | Gupta et al. (2023) | Conceptual |
 
-*Appendix B notes:* (i) Tsai and Urmetzer (2024) appears in the formal analytical sample but serves terminology and framework purposes only and therefore has no barrier-theme entry. (ii) Robinson and Hsieh (2016) likewise has no barrier-theme entry: it contributes driver and strategic-renewal evidence rather than implementation-barrier evidence. (iii) Themes 1.4, 3.4, 3.5, and 4.2 have no direct empirical source; they rest on review and conceptual evidence only, as recorded above.
+*Appendix notes:* (i) Tsai and Urmetzer (2024) appears in the formal analytical sample but serves terminology and framework purposes only and therefore has no barrier-theme entry. (ii) Robinson and Hsieh (2016) likewise has no barrier-theme entry: it contributes driver and strategic-renewal evidence rather than implementation-barrier evidence. (iii) Themes 1.4, 3.4, 3.5, and 4.2 have no direct empirical source; they rest on review and conceptual evidence only, as recorded above.
