@@ -109,7 +109,7 @@ No primary data were collected through interviews, surveys, or company observati
 
 ## 3.2 Data Collection Methods
 
-The literature search and study-selection process are reported with reference to the PRISMA 2020 guidelines (Page, McKenzie, et al., 2021; Page, Moher, et al., 2021). PRISMA is used here to present the stages of identification, screening, and inclusion, rather than as a method of evidence synthesis. Google Scholar was the only literature-discovery platform used. The search was conducted iteratively between late June and July 2026. It combined terms related to reshoring, backshoring, manufacturing reshoring, implementation barriers, Asia, capabilities, suppliers, and production transfer with backward and forward citation searching and the "related articles" feature.
+The literature search and study-selection process are reported with reference to the PRISMA 2020 guidelines (Page, McKenzie, et al., 2021; Page, Moher, et al., 2021). PRISMA is used here to present the stages of identification, screening, and inclusion, rather than as a method of evidence synthesis. Google Scholar was the only literature-discovery platform used. The literature search was conducted iteratively, beginning in late June 2026. It combined terms related to reshoring, backshoring, manufacturing reshoring, implementation barriers, Asia, capabilities, suppliers, and production transfer with backward and forward citation searching and the "related articles" feature.
 
 Records were manually screened for eligibility. A source had to be in English, be accessible in full text, be peer-reviewed, relate to the return of previously offshored manufacturing activities to the firm's home country, and provide evidence relevant to the implementation of manufacturing reshoring. Asia-specificity was assessed separately because not all studies explicitly identified the former host location. Studies that did not explicitly identify an Asian host location were included only where their findings addressed general manufacturing reshoring barriers relevant to the implementation process; their lack of explicit Asia-specificity was recorded and taken into account when interpreting the results. Studies concerned exclusively with China+1 strategies, re-offshoring, nearshoring without a return home, or foreign-to-foreign relocation were excluded from barrier coding, although some are used as contextual sources in the Introduction and Discussion. The selection process leading to the final analytical sample is summarised in Figure 1.
 
@@ -133,13 +133,13 @@ Table 1 illustrates this coding logic with three representative examples, tracin
 
 | Source finding | Initial code | Barrier theme | Framework category |
 |---|---|---|---|
-| The firm lacked the in-house knowledge to manufacture the part; training took about a year before quality was acceptable (Pegoraro et al., 2022) | Loss of production know-how | Domestic skilled-labour & competence gap | Asset/Capability |
+| The firm lacked the in-house knowledge to manufacture the part; training took about a year before quality was acceptable (Pegoraro et al., 2022) | Loss of production know-how | Domestic skilled-labour and competence gap | Asset/Capability |
 | Strict host-country layoff regulations were reported to delay firms' exit from the offshore location (Li et al., 2025) | Host-country exit constraint | Host-country exit regulation | Regulatory/Institutional |
 | Reduced order volumes weakened the relationship with the Chinese supplier during a partial return (Pedroletti, 2025) | Deteriorating supplier relationship | Adverse host-supplier relational response | Cultural/Organisational |
 
-Applying this logic across the included studies produced eighteen barrier themes grouped under the four framework categories. The full set of themes, together with the evidence type and Asia-specificity of the supporting studies, is presented in Chapter 4 (Table 2); the detailed source-by-source coding records are provided in the Appendix.
+Applying this logic across the included studies produced eighteen barrier themes grouped under the four framework categories. The full set of themes, together with the evidence type and Asia-specificity of the supporting studies, is presented in Chapter 4 (Table 2); the detailed source-by-source coding matrix is provided in the Appendix.
 
-Two coding rules were applied consistently. Direct empirical findings, review-reported findings, and conceptual arguments were coded and reported as separate evidence types rather than combined into a single count, since they carry different evidential weight. A motive for considering reshoring — such as geopolitical tension or rising wages — was coded as an implementation barrier only where a study showed that it also hindered the implementation process itself.
+Two coding rules were applied consistently. Direct empirical findings, review-reported findings, and conceptual arguments were coded and reported as separate evidence types rather than combined into a single count because they provide different forms of evidential support. A motive for considering reshoring — such as geopolitical tension or rising wages — was coded as an implementation barrier only where a study showed that it also hindered the implementation process itself.
 
 The next chapter presents the eighteen barrier themes identified through this process and organises them within the four categories of the firm-level framework.
 
@@ -163,21 +163,21 @@ The eighteen themes, the types of evidence that support each, and the themes' As
 | Barrier theme | Category | Direct empirical | Review | Conceptual | Asia-specific |
 |---|---|---|---|---|---|
 | Host-country exit regulation | Regulatory/Institutional | ✓ | ✓ | — | Partial |
-| Social-responsibility & workforce-resistance exit constraints | Regulatory/Institutional | — | ✓ | — | No |
-| Home-country compliance burden & institutional frictions | Regulatory/Institutional | ✓ | — | ✓ | No |
+| Social-responsibility and workforce-resistance exit constraints | Regulatory/Institutional | — | ✓ | — | No |
+| Home-country compliance burden and institutional frictions | Regulatory/Institutional | ✓ | — | ✓ | No |
 | Organisational readiness, behavioural biases, learning-by-trial | Cultural/Organisational | ✓ | ✓ | ✓ | No |
-| Intra-organisational silos & weak employee involvement | Cultural/Organisational | ✓ | — | — | No |
+| Intra-organisational silos and weak employee involvement | Cultural/Organisational | ✓ | — | — | No |
 | Adverse host-supplier relational response | Cultural/Organisational | ✓ | — | — | Yes (single case) |
 | Governance mode of the return (gap) | Cultural/Organisational | — | ✓ | — | No |
 | Digital/organisational adaptation burden | Cultural/Organisational | — | ✓ | ✓ | No |
 | Hollowed-out supply base / supplier-network rebuilding | Cost/Operational | ✓ | ✓ | ✓ | Partial |
-| New fixed costs & switching/reconfiguration costs | Cost/Operational | ✓ | ✓ | ✓ | No |
+| New fixed costs and switching/reconfiguration costs | Cost/Operational | ✓ | ✓ | ✓ | No |
 | High-cost home environment | Cost/Operational | ✓ | — | ✓ | No |
 | Hybrid-operation coordination complexity (partial reshoring) | Cost/Operational | ✓ | — | — | Yes (single case) |
 | Underestimated operational adjustments | Cost/Operational | ✓ | — | — | No |
-| Domestic skilled-labour & competence gap | Asset/Capability | ✓ | ✓ | ✓ | Yes (single case; others general) |
-| Domestic capacity, facilities & machinery gap | Asset/Capability | ✓ | ✓ | ✓ | Yes (single case) |
-| Host-supplier dependence & knowledge lock-in | Asset/Capability | ✓ | ✓ | ✓ | Yes (single case) |
+| Domestic skilled-labour and competence gap | Asset/Capability | ✓ | ✓ | ✓ | Yes (single case; others general) |
+| Domestic capacity, facilities and machinery gap | Asset/Capability | ✓ | ✓ | ✓ | Yes (single case) |
+| Host-supplier dependence and knowledge lock-in | Asset/Capability | ✓ | ✓ | ✓ | Yes (single case) |
 | GVC stickiness / offshore sunk-cost inertia | Asset/Capability | — | ✓ | ✓ | No |
 | Regional ecosystem readiness | Asset/Capability | ✓ | ✓ | — | Yes (single case) |
 
