@@ -1,6 +1,6 @@
 # Appendix — Detailed Coding Records
 
-**Appendix. Barrier-theme coding records: each barrier theme cross-referenced to its contributing sources and the evidence type each source provides.** Evidence types (direct empirical / review / conceptual) are recorded separately per source and are not aggregated. This appendix provides the detailed source-by-source records behind the coding summarised in Table 1 (Chapter 3, Section 3.3); Asia-specificity qualifications are summarised in Table 2 (Chapter 4, Section 4.1).
+**Appendix. Barrier-theme coding records: each barrier theme cross-referenced to its contributing sources and the evidence type each source provides.** Evidence types (direct empirical / review / conceptual) are recorded separately per source and are not aggregated. This appendix provides the detailed source-by-source records behind the barrier coding summarised in Table 2 (Chapter 4, Section 4.1); Table 1 (Chapter 3, Section 3.3) illustrates the coding logic with representative examples rather than the full set of records.
 
 | Theme | Framework category | Source | Evidence type |
 |---|---|---|---|

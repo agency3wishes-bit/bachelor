@@ -2,6 +2,10 @@
 
 Working tracker (not part of the thesis text). Updated after the Author Response to Open Items (2026-07-14).
 
+## Chapter 3 simplified per author's request (2026-07-18)
+
+Chapter 3 was rewritten to show only the three elements the supervisor asked for (literature search, study selection, coding procedure), dropping the two-arm exploratory/documented-update-search reconstruction, the full 21-study name list, and the defensive hedging language. Figure 1 is now a single simple flow diagram (Google Scholar search → eligibility screening → 34 full texts assessed → 21 included / 13 excluded from barrier coding) using only honestly-confirmable numbers. Table 1 is now a short 3-row illustration of the coding logic (source finding → initial code → barrier theme → framework category) rather than the full 18-theme matrix; the full matrix remains in Chapter 4 (Table 2) and the full per-source records remain in the Appendix. The detailed methodological-limitations paragraph was removed from Ch. 3 and consolidated with the overlapping content already in Section 5.4 (no substance lost). "Corpus" was replaced with "analytical sample," "included studies," or "reviewed literature" throughout. Heikkilä et al. (2018) and Pourhejazy & Ashby (2021) - previously anchored only by the now-removed 21-study list - were given a one-sentence citation in Ch. 2 §2.3 (drivers/decision-stage evidence) so they remain validly cited in the reference list.
+
 ## Supervisor directive implemented (2026-07-17)
 
 Per the supervisor's e-mail reply: the PRISMA flow diagram is now **Figure 1** in Ch. 3 §3.2 (rendered image, `thesis/figures/figure1_prisma.png`), the barrier-coding table is now **Table 1** in Ch. 3 §3.3, and the Ch. 4 overview matrix was renumbered to **Table 2**. Detailed per-source coding records remain as the single **Appendix** (`thesis/appendices/Appendix_Coding_Records.md` — renamed from Appendix B since it is now the only appendix; old Appendix A file deleted, superseded by Figure 1). The Appendix is included in `FINAL_THESIS.docx` and does not count toward thesis length per the supervisor.
