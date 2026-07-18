@@ -1,8 +1,6 @@
 # 3 Research Methodology
 
-This chapter outlines how the study was designed and carried out. Because the thesis asks a question about existing evidence — what barriers manufacturing firms face when implementing reshoring from Asian markets — rather than a question requiring new company data, the value of the answer depends on how the existing studies were found, selected, and analysed. The credibility of a literature-based synthesis rests on making that process transparent enough for the reader to judge it (Snyder, 2019).
-
-The chapter therefore documents the three steps on which the synthesis is built. Section 3.1 explains why a systematic literature review is the appropriate design for the research questions. Section 3.2 describes the literature search and the criteria used to select the analytical sample, summarised in the flow diagram in Figure 1. Section 3.3 explains how the findings of the included studies were coded into barrier themes and how those themes were organised within the four categories of the firm-level framework, illustrated in Table 1. Methodological limitations are discussed in Section 5.4 alongside the findings to which they relate.
+Because the thesis asks a question about existing evidence — what barriers manufacturing firms face when implementing reshoring from Asian markets — rather than a question requiring new company data, the value of the answer depends on how the existing studies were found, selected, and analysed. The credibility of a literature-based synthesis rests on making that process transparent enough for the reader to judge it (Snyder, 2019). What follows therefore documents the three steps on which the synthesis is built: the choice of a systematic literature review as the research design, the literature search and the criteria used to select the analytical sample (summarised in Figure 1), and the coding procedure through which the findings of the included studies were organised into barrier themes within the four categories of the firm-level framework (illustrated in Table 1). The limitations of this approach are discussed later, alongside the findings to which they relate.
 
 ## 3.1 Research Design
 
@@ -24,7 +22,7 @@ Records were manually screened for eligibility. To be included in the analytical
 
 The study-selection process resulted in an analytical sample of 21 peer-reviewed studies that met the eligibility criteria and were coded for evidence of reshoring implementation barriers. Additional sources were used separately to provide contextual background, methodological guidance, and the theoretical foundations of the thesis. These supporting sources were not part of the analytical sample and were not coded for barrier evidence.
 
-Each included study was classified according to the type of evidence it provided — direct empirical, review-based, or conceptual — and according to whether it explicitly linked an Asian host location to a return home. These distinctions are used throughout the Results and Discussion chapters to interpret the evidence with appropriate care.
+Each included study was classified according to the type of evidence it provided — direct empirical, review-based, or conceptual — and according to whether it explicitly linked an Asian host location to a return home. These distinctions are used throughout the reporting and interpretation of the results to treat the evidence with appropriate care.
 
 ## 3.3 Data Analysis Techniques
 
@@ -42,8 +40,8 @@ Table 1 illustrates this coding logic with three representative examples, tracin
 | Strict host-country layoff regulations were reported to delay firms' exit from the offshore location (Li et al., 2025) | Host-country exit constraint | Host-country exit regulation | Regulatory/Institutional |
 | Reduced order volumes weakened the relationship with the Chinese supplier during a partial return (Pedroletti, 2025) | Deteriorating supplier relationship | Adverse host-supplier relational response | Cultural/Organisational |
 
-Applying this logic across the included studies produced eighteen barrier themes grouped under the four framework categories. The full set of themes, together with the evidence type and Asia-specificity of the supporting studies, is presented in Chapter 4 (Table 2); the detailed source-by-source coding matrix is provided in the Appendix.
+Applying this logic across the included studies produced eighteen barrier themes grouped under the four framework categories. The full set of themes, together with the evidence type and Asia-specificity of the supporting studies, is presented in Table 2; the detailed source-by-source coding matrix is provided in the Appendix.
 
 Two coding rules were applied consistently. Direct empirical findings, review-reported findings, and conceptual arguments were coded and reported as separate evidence types rather than combined into a single count because they provide different forms of evidential support. A motive for considering reshoring — such as geopolitical tension or rising wages — was coded as an implementation barrier only where a study showed that it also hindered the implementation process itself.
 
-The next chapter presents the eighteen barrier themes identified through this process and organises them within the four categories of the firm-level framework.
+The eighteen barrier themes that resulted from this process, organised within the four categories of the firm-level framework, are presented next.
