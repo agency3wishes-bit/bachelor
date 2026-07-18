@@ -1,6 +1,8 @@
 # 5 Discussion
 
-This chapter is an interpretation of the eighteen barrier themes reported in Chapter 4, what they mean for firms returning production from Asian host countries, how they reinforce one another, and what follows from them theoretically and managerially. Interpretations made by this thesis are differentiated from findings reported by the original studies throughout, and evidence of direct implementation is given more analytical weight than evidence at the review level or conceptual level.
+This chapter interprets the eighteen barrier themes reported in Chapter 4. Reporting what the literature contains is only the first half of a synthesis; the second half is explaining what the findings mean for firms returning production from Asian host countries, how the barriers reinforce one another, and what follows from them in theoretical and managerial terms.
+
+Section 5.1 discusses the overall pattern of the results and the interactions between the barrier categories. Section 5.2 interprets the findings through Transaction Cost Economics and the Resource-Based View, and Section 5.3 derives the managerial implications that answer the second sub-question of the thesis. Section 5.4 sets out the limitations of the study and the research directions that follow from them. Throughout the chapter, interpretations made by this thesis are distinguished from findings reported by the original studies, and direct implementation evidence is given more analytical weight than review-level or conceptual evidence.
 
 ## 5.1 Discussion of Results
 

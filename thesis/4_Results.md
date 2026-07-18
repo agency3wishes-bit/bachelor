@@ -1,6 +1,8 @@
 # 4 Results
 
-This chapter presents the reshoring implementation barriers from the reviewed literature, first the evidence base on which the synthesis is based, followed by the evidence synthesized category-wise, and finally, the evidence that appears to have the broadest acceptance in the reviewed literature, namely the asset/capability barriers.
+This chapter reports what the reviewed literature shows about the barriers manufacturing firms face when implementing reshoring from Asian markets. Two reading rules apply throughout the chapter. First, the three types of evidence — direct empirical findings, review-reported findings, and conceptual arguments — are kept apart, because a case observation, a review finding, and a conceptual argument do not support a claim in the same way. Second, findings are attributed to an Asian host country only where a study explicitly makes that link; evidence that is general in scope is reported as general.
+
+The chapter proceeds from the evidence base to the barriers themselves. Section 4.1 describes the analytical sample and presents the overview of all eighteen barrier themes in Table 2. Sections 4.2 to 4.5 then report the barriers by framework category, ending with the asset/capability category, which has the broadest support in the reviewed literature.
 
 ## 4.1 Overview of the Analytical Sample and Barrier Landscape
 

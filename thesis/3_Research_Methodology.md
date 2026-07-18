@@ -1,6 +1,8 @@
 # 3 Research Methodology
 
-This chapter outlines the design of the study: the rationale for conducting a systematic literature review, how the literature was searched and screened, and how the included studies were analysed and coded into the firm-level barrier framework. Methodological limitations are discussed together with the findings they qualify in Section 5.4.
+This chapter outlines how the study was designed and carried out. Because the thesis asks a question about existing evidence — what barriers manufacturing firms face when implementing reshoring from Asian markets — rather than a question requiring new company data, the value of the answer depends on how the existing studies were found, selected, and analysed. The credibility of a literature-based synthesis rests on making that process transparent enough for the reader to judge it (Snyder, 2019).
+
+The chapter therefore documents the three steps on which the synthesis is built. Section 3.1 explains why a systematic literature review is the appropriate design for the research questions. Section 3.2 describes the literature search and the criteria used to select the analytical sample, summarised in the flow diagram in Figure 1. Section 3.3 explains how the findings of the included studies were coded into barrier themes and how those themes were organised within the four categories of the firm-level framework, illustrated in Table 1. Methodological limitations are discussed together with the findings they qualify in Section 5.4.
 
 ## 3.1 Research Design
 

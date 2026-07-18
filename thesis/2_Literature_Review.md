@@ -1,6 +1,8 @@
 # 2 Literature Review
 
-This chapter lays the conceptual and theoretical groundwork for the study. It clarifies the concept of reshoring and differentiates it from other types of manufacturing relocation, presents the two theoretical lenses through which the results are interpreted, distinguishes between the drivers of reshoring and the barriers to reshoring, and outlines the research gap that the thesis addresses.
+This chapter lays the conceptual and theoretical groundwork for the study. Reshoring has developed into an active research field over the past decade, but its growth has come with two complications that matter directly for this thesis. The first is terminological: the vocabulary of relocation — reshoring, backshoring, nearshoring, re-offshoring — has been applied inconsistently across studies, so a precise definition is a precondition for any meaningful synthesis (Tsai & Urmetzer, 2024). The second is theoretical: the field has no single unifying theory, and individual studies interpret the phenomenon through different lenses (Wiesmann et al., 2017). A review that ignores either complication risks combining findings that are not actually about the same phenomenon, or reading them through an unstated theoretical frame.
+
+Both complications shape the structure of this chapter. Section 2.1 clarifies the concept of reshoring and separates it from neighbouring forms of relocation that fall outside the scope of this thesis. Section 2.2 presents the two theoretical perspectives used to interpret the results, Transaction Cost Economics and the Resource-Based View. Section 2.3 draws the distinction between the drivers of reshoring and the implementation barriers that are the subject of this study, and Section 2.4 reviews the existing knowledge on reshoring barriers and identifies the research gap the thesis addresses.
 
 ## 2.1 Conceptual Definitions and Key Terms
 

@@ -54,7 +54,9 @@ Structuring the objectives in this way, tied directly to identification, categor
 
 # 2 Literature Review
 
-This chapter lays the conceptual and theoretical groundwork for the study. It clarifies the concept of reshoring and differentiates it from other types of manufacturing relocation, presents the two theoretical lenses through which the results are interpreted, distinguishes between the drivers of reshoring and the barriers to reshoring, and outlines the research gap that the thesis addresses.
+This chapter lays the conceptual and theoretical groundwork for the study. Reshoring has developed into an active research field over the past decade, but its growth has come with two complications that matter directly for this thesis. The first is terminological: the vocabulary of relocation — reshoring, backshoring, nearshoring, re-offshoring — has been applied inconsistently across studies, so a precise definition is a precondition for any meaningful synthesis (Tsai & Urmetzer, 2024). The second is theoretical: the field has no single unifying theory, and individual studies interpret the phenomenon through different lenses (Wiesmann et al., 2017). A review that ignores either complication risks combining findings that are not actually about the same phenomenon, or reading them through an unstated theoretical frame.
+
+Both complications shape the structure of this chapter. Section 2.1 clarifies the concept of reshoring and separates it from neighbouring forms of relocation that fall outside the scope of this thesis. Section 2.2 presents the two theoretical perspectives used to interpret the results, Transaction Cost Economics and the Resource-Based View. Section 2.3 draws the distinction between the drivers of reshoring and the implementation barriers that are the subject of this study, and Section 2.4 reviews the existing knowledge on reshoring barriers and identifies the research gap the thesis addresses.
 
 ## 2.1 Conceptual Definitions and Key Terms
 
@@ -97,7 +99,9 @@ To sum up, the evidence on the drivers of reshoring is well researched, while th
 
 # 3 Research Methodology
 
-This chapter outlines the design of the study: the rationale for conducting a systematic literature review, how the literature was searched and screened, and how the included studies were analysed and coded into the firm-level barrier framework. Methodological limitations are discussed together with the findings they qualify in Section 5.4.
+This chapter outlines how the study was designed and carried out. Because the thesis asks a question about existing evidence — what barriers manufacturing firms face when implementing reshoring from Asian markets — rather than a question requiring new company data, the value of the answer depends on how the existing studies were found, selected, and analysed. The credibility of a literature-based synthesis rests on making that process transparent enough for the reader to judge it (Snyder, 2019).
+
+The chapter therefore documents the three steps on which the synthesis is built. Section 3.1 explains why a systematic literature review is the appropriate design for the research questions. Section 3.2 describes the literature search and the criteria used to select the analytical sample, summarised in the flow diagram in Figure 1. Section 3.3 explains how the findings of the included studies were coded into barrier themes and how those themes were organised within the four categories of the firm-level framework, illustrated in Table 1. Methodological limitations are discussed together with the findings they qualify in Section 5.4.
 
 ## 3.1 Research Design
 
@@ -146,7 +150,9 @@ The next chapter presents the eighteen barrier themes identified through this pr
 
 # 4 Results
 
-This chapter presents the reshoring implementation barriers from the reviewed literature, first the evidence base on which the synthesis is based, followed by the evidence synthesized category-wise, and finally, the evidence that appears to have the broadest acceptance in the reviewed literature, namely the asset/capability barriers.
+This chapter reports what the reviewed literature shows about the barriers manufacturing firms face when implementing reshoring from Asian markets. Two reading rules apply throughout the chapter. First, the three types of evidence — direct empirical findings, review-reported findings, and conceptual arguments — are kept apart, because a case observation, a review finding, and a conceptual argument do not support a claim in the same way. Second, findings are attributed to an Asian host country only where a study explicitly makes that link; evidence that is general in scope is reported as general.
+
+The chapter proceeds from the evidence base to the barriers themselves. Section 4.1 describes the analytical sample and presents the overview of all eighteen barrier themes in Table 2. Sections 4.2 to 4.5 then report the barriers by framework category, ending with the asset/capability category, which has the broadest support in the reviewed literature.
 
 ## 4.1 Overview of the Analytical Sample and Barrier Landscape
 
@@ -232,7 +238,9 @@ The asset/capability category has the most widespread support, with two Asia-spe
 
 # 5 Discussion
 
-This chapter is an interpretation of the eighteen barrier themes reported in Chapter 4, what they mean for firms returning production from Asian host countries, how they reinforce one another, and what follows from them theoretically and managerially. Interpretations made by this thesis are differentiated from findings reported by the original studies throughout, and evidence of direct implementation is given more analytical weight than evidence at the review level or conceptual level.
+This chapter interprets the eighteen barrier themes reported in Chapter 4. Reporting what the literature contains is only the first half of a synthesis; the second half is explaining what the findings mean for firms returning production from Asian host countries, how the barriers reinforce one another, and what follows from them in theoretical and managerial terms.
+
+Section 5.1 discusses the overall pattern of the results and the interactions between the barrier categories. Section 5.2 interprets the findings through Transaction Cost Economics and the Resource-Based View, and Section 5.3 derives the managerial implications that answer the second sub-question of the thesis. Section 5.4 sets out the limitations of the study and the research directions that follow from them. Throughout the chapter, interpretations made by this thesis are distinguished from findings reported by the original studies, and direct implementation evidence is given more analytical weight than review-level or conceptual evidence.
 
 ## 5.1 Discussion of Results
 
