@@ -162,24 +162,24 @@ The eighteen themes, the types of evidence that support each, and the themes' As
 
 | Barrier theme | Category | Direct empirical | Review | Conceptual | Asia-specific |
 |---|---|---|---|---|---|
-| Host-country exit regulation | Regulatory/Institutional | ✓ | ✓ | — | Partial |
-| Social-responsibility and workforce-resistance exit constraints | Regulatory/Institutional | — | ✓ | — | No |
-| Home-country compliance burden and institutional frictions | Regulatory/Institutional | ✓ | — | ✓ | No |
-| Organisational readiness, behavioural biases, learning-by-trial | Cultural/Organisational | ✓ | ✓ | ✓ | No |
-| Intra-organisational silos and weak employee involvement | Cultural/Organisational | ✓ | — | — | No |
-| Adverse host-supplier relational response | Cultural/Organisational | ✓ | — | — | Yes (single case) |
-| Governance mode of the return (gap) | Cultural/Organisational | — | ✓ | — | No |
-| Digital/organisational adaptation burden | Cultural/Organisational | — | ✓ | ✓ | No |
-| Hollowed-out supply base / supplier-network rebuilding | Cost/Operational | ✓ | ✓ | ✓ | Partial |
-| New fixed costs and switching/reconfiguration costs | Cost/Operational | ✓ | ✓ | ✓ | No |
-| High-cost home environment | Cost/Operational | ✓ | — | ✓ | No |
-| Hybrid-operation coordination complexity (partial reshoring) | Cost/Operational | ✓ | — | — | Yes (single case) |
-| Underestimated operational adjustments | Cost/Operational | ✓ | — | — | No |
-| Domestic skilled-labour and competence gap | Asset/Capability | ✓ | ✓ | ✓ | Yes (single case; others general) |
-| Domestic capacity, facilities and machinery gap | Asset/Capability | ✓ | ✓ | ✓ | Yes (single case) |
-| Host-supplier dependence and knowledge lock-in | Asset/Capability | ✓ | ✓ | ✓ | Yes (single case) |
-| GVC stickiness / offshore sunk-cost inertia | Asset/Capability | — | ✓ | ✓ | No |
-| Regional ecosystem readiness | Asset/Capability | ✓ | ✓ | — | Yes (single case) |
+| Host-country exit regulation | Regulatory/Institutional | Yes | Yes | No | Partial |
+| Social-responsibility and workforce-resistance exit constraints | Regulatory/Institutional | No | Yes | No | No |
+| Home-country compliance burden and institutional frictions | Regulatory/Institutional | Yes | No | Yes | No |
+| Organisational readiness, behavioural biases, learning-by-trial | Cultural/Organisational | Yes | Yes | Yes | No |
+| Intra-organisational silos and weak employee involvement | Cultural/Organisational | Yes | No | No | No |
+| Adverse host-supplier relational response | Cultural/Organisational | Yes | No | No | Yes (single case) |
+| Governance mode of the return (gap) | Cultural/Organisational | No | Yes | No | No |
+| Digital/organisational adaptation burden | Cultural/Organisational | No | Yes | Yes | No |
+| Hollowed-out supply base / supplier-network rebuilding | Cost/Operational | Yes | Yes | Yes | Partial |
+| New fixed costs and switching/reconfiguration costs | Cost/Operational | Yes | Yes | Yes | No |
+| High-cost home environment | Cost/Operational | Yes | No | Yes | No |
+| Hybrid-operation coordination complexity (partial reshoring) | Cost/Operational | Yes | No | No | Yes (single case) |
+| Underestimated operational adjustments | Cost/Operational | Yes | No | No | No |
+| Domestic skilled-labour and competence gap | Asset/Capability | Yes | Yes | Yes | Yes (single case; others general) |
+| Domestic capacity, facilities and machinery gap | Asset/Capability | Yes | Yes | Yes | Yes (single case) |
+| Host-supplier dependence and knowledge lock-in | Asset/Capability | Yes | Yes | Yes | Yes (single case) |
+| GVC stickiness / offshore sunk-cost inertia | Asset/Capability | No | Yes | Yes | No |
+| Regional ecosystem readiness | Asset/Capability | Yes | Yes | No | Yes (single case) |
 
 ## 4.2 Regulatory/Institutional Barriers
 
