@@ -31,14 +31,14 @@ box(1.0, 5.75, 5.4, 0.95,
 arrow(3.7, 5.75, 3.7, 5.1)
 
 box(1.0, 4.15, 5.4, 0.95,
-    "Full texts assessed\nn = 34",
+    "Full texts assessed\nn = 33",
     fs=11, bold=True)
 
 arrow(3.7, 4.15, 3.7, 3.5)
 arrow(3.7, 3.9, 6.6, 3.15)
 
 box(4.5, 2.7, 3.1, 1.05,
-    "Excluded from the\nbarrier-coding sample\n(context or methodology only)\nn = 13",
+    "Not coded for barrier evidence\n(context or methodology only)\nn = 12",
     fs=9.5)
 
 box(1.0, 2.5, 3.3, 0.95,
