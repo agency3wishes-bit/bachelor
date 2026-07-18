@@ -49,6 +49,8 @@ Third, the identified barriers are interpreted based on two existing theories: T
 
 Lastly, managerial implications are drawn for international businesses that are considering or are in the process of reshoring from Asian markets. The implications are designed to help companies to foresee, evaluate and address implementation challenges prior to and during the move.
 
+Structuring the objectives in this way, tied directly to identification, categorisation, theoretical interpretation and managerial translation, follows established guidance on formulating clear aims for a systematic literature review (Snyder, 2019).
+
 
 # 2 Literature Review
 
