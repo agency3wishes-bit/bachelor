@@ -1,5 +1,14 @@
 # Author Input Needed — Open Items Before Submission
 
+## STANDING PROTOCOL for the author's forthcoming full file (recorded 2026-07-19)
+
+The author has rewritten/rephrased everything up to the Appendix in her own working copy. She will send the complete file for review. That review must check CONTENT ONLY, with one consistent logic throughout:
+- every citation must correspond to what the cited source actually contains (verify against the PDFs in resources/sources/ and the coding records), with the evidence type (direct empirical / review / conceptual) represented correctly;
+- claims must not be stronger than the source evidence; Asia-attribution only where the source explicitly links an Asian host to a return home;
+- internal consistency: numbers (21/18/4), theme names, table references, and the two-Asia-cases claim must match across all chapters, Table 1, Table 2, and the Appendix;
+- NO grammar/style-only corrections; flag only source mismatches and logic contradictions (format: Оригинал/Исправить/Причина).
+- Repo chapter files may lag her working copy — her file is the canonical text at that point; the repo's content-level fixes that must be carried into her version regardless of wording: (1) Boffelli = non-Asian hosts everywhere incl. Appendix; (2) Ch. 6 exit-constraints claim split: layoff regulations (Li et al., 2025) vs closure obligations (Di Stefano & Fratocchi, 2019); (3) Table 2 row "Domestic skilled-labour and competence gap" Asia-specific = "Yes (single case; others general)"; (4) theme names identical across Table 1 / Table 2 / Appendix.
+
 Working tracker (not part of the thesis text). Updated after the Author Response to Open Items (2026-07-14).
 
 ## Chapter 3 simplified per author's request (2026-07-18)
