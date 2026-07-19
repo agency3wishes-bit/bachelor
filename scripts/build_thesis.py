@@ -116,6 +116,11 @@ def add_runs(par, text):
 def add_table(doc, header, rows, font_pt=10):
     tbl = doc.add_table(rows=1+len(rows), cols=len(header))
     tbl.style = 'Table Grid'
+    # repeat the header row on every page the table spans
+    trPr = tbl.rows[0]._tr.get_or_add_trPr()
+    tblHeader = OxmlElement('w:tblHeader')
+    tblHeader.set(qn('w:val'), 'true')
+    trPr.append(tblHeader)
     for j,h in enumerate(header):
         cell = tbl.rows[0].cells[j]
         p = cell.paragraphs[0]; add_runs(p, h)
