@@ -64,8 +64,6 @@ Wan, L., Orzes, G., Sartor, M., & Nassimbeni, G. (2019). Reshoring: Does home co
 
 Wiesmann, B., Snoei, J. R., Hilletofth, P., & Eriksson, D. (2017). Drivers and barriers to reshoring: A literature review on offshoring in reverse. *European Business Review, 29*(1), 15–42. https://doi.org/10.1108/EBR-03-2016-0050
 
-Williamson, O. E. (1985). *The economic institutions of capitalism: Firms, markets, relational contracting*. Free Press.
-
 Xing, L., Jiang, S., Yin, S., & Liu, F. (2024). Substitution effect of Asian economies on China's industrial and supply chains: From the perspective of global production network. *Humanities and Social Sciences Communications, 11*, Article 1304. https://doi.org/10.1057/s41599-024-03797-6
 
 Yang, C. (2016). Relocating labour-intensive manufacturing firms from China to Southeast Asia: A preliminary investigation. *Bandung: Journal of the Global South, 3*, Article 3. https://doi.org/10.1186/s40728-016-0031-4
