@@ -2,8 +2,6 @@
 
 Barbieri, P., Boffelli, A., Elia, S., Fratocchi, L., Kalchschmidt, M., & Samson, D. (2020). What can we learn about reshoring after Covid-19? *Operations Management Research, 13*(3–4), 131–136. https://doi.org/10.1007/s12063-020-00160-1
 
-Barney, J. (1991). Firm resources and sustained competitive advantage. *Journal of Management, 17*(1), 99–120. https://doi.org/10.1177/014920639101700108
-
 Bilbao-Ubillos, J., Camino-Beldarrain, V., Intxaurburu-Clemente, G., & Velasco-Balmaseda, E. (2024). Industry 4.0, servitization, and reshoring: A systematic literature review. *European Research on Management and Business Economics, 30*(1), Article 100234. https://doi.org/10.1016/j.iedeen.2023.100234
 
 Boffelli, A., Fratocchi, L., Kalchschmidt, M., & Lima da Costa e Silva, S. C. (2021). Doing the right thing or doing things right: What is better for a successful manufacturing reshoring? *Operations Management Research, 14*(1–2), 1–16. https://doi.org/10.1007/s12063-021-00183-2
